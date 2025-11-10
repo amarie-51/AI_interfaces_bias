@@ -23,7 +23,7 @@ INLINE_ARRAY_REGEX = re.compile(r"\{\s*\[([^\]]+)\]\s*\}", re.DOTALL)
 
 
 # ---------- OUTPUT DIRECTORIES ----------
-OUTPUT_ROOT = Path("/Users/mariamlocka/Documents/project_AI_interfaces_final/data_output")
+OUTPUT_ROOT = Path(__file__).resolve().parent / "data_output"
 TEXT_OUTPUT_DIR = OUTPUT_ROOT / "text"
 TEXT_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 STYLE_OUTPUT_DIR = OUTPUT_ROOT / "styles"
@@ -159,7 +159,8 @@ def image_relocation(source_dir: Path) -> None:
 
 # ---------- MAIN ----------
 def main() -> None:
-    PROJECT_ROOT = Path("/Users/mariamlocka/Documents/project_AI_interfaces_final/data_input")
+    PROJECT_ROOT = OUTPUT_ROOT = Path(__file__).resolve().parent / "data_input"
+
     text_extraction(PROJECT_ROOT)
     style_extraction(PROJECT_ROOT)
     image_relocation(PROJECT_ROOT)
