@@ -1,0 +1,1096 @@
+Variable,Value,Mode,Element/Use,RGB,Color Description,project_name,file_name
+tw-translate-x,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-y,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-z,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-space-x-reverse,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-border-style,solid,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-position,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-from,#0000,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-via,#0000,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-to,#0000,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-stops,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-via-stops,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-from-position,0%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-via-position,50%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-to-position,100%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-leading,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-font-weight,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-shadow-color,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-shadow-alpha,100%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-inset-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-inset-shadow-color,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-inset-shadow-alpha,100%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-inset-ring-color,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-inset-ring-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-ring-inset,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-offset-width,0px,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-offset-color,#fff,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-offset-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-outline-style,solid,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-blur,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-brightness,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-contrast,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-grayscale,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-hue-rotate,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-invert,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-opacity,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-saturate,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-sepia,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-drop-shadow,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-drop-shadow-color,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-drop-shadow-alpha,100%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-drop-shadow-size,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-duration,initial,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+font-sans,"ui-sans-serif, system-ui, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol"", ""Noto Color Emoji""",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+font-mono,"ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, ""Liberation Mono"", ""Courier New"", monospace",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+color-green-100,oklch(.962 .044 156.743),light,Other / unspecified,"(400, 400, 400)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-green-600,oklch(.627 .194 149.214),light,Other / unspecified,"(380, 381, 381)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-green-800,oklch(.448 .119 151.328),light,Other / unspecified,"(386, 386, 386)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-blue-50,oklch(.97 .014 254.604),light,Other / unspecified,"(649, 649, 649)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-blue-100,oklch(.932 .032 255.585),light,Other / unspecified,"(652, 652, 652)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-blue-200,oklch(.882 .059 254.128),light,Other / unspecified,"(648, 648, 648)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-blue-600,oklch(.546 .245 262.881),light,Other / unspecified,"(669, 671, 671)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-blue-700,oklch(.488 .243 264.376),light,Other / unspecified,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-purple-50,oklch(.977 .014 308.299),light,Other / unspecified,"(786, 786, 786)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-50,oklch(.985 .002 247.839),light,Other / unspecified,"(632, 632, 632)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-100,oklch(.967 .003 264.542),light,Other / unspecified,"(675, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-200,oklch(.928 .006 264.531),light,Other / unspecified,"(675, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-400,oklch(.707 .022 261.325),light,Other / unspecified,"(666, 666, 666)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-600,oklch(.446 .03 256.802),light,Other / unspecified,"(655, 655, 655)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-700,oklch(.373 .034 259.733),light,Other / unspecified,"(662, 662, 662)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-800,oklch(.278 .033 256.848),light,Other / unspecified,"(655, 655, 655)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-gray-900,oklch(.21 .034 264.665),light,Other / unspecified,"(675, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+color-black,#000,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+color-white,#fff,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+spacing,.25rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+container-lg,32rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+container-2xl,42rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+container-3xl,48rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+container-4xl,56rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+container-7xl,80rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-xs,.75rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-xs--line-height,calc(1 / .75),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-sm,.875rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-sm--line-height,calc(1.25 / .875),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-base,1rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-base--line-height,calc(1.5 / 1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-lg,1.125rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-lg--line-height,calc(1.75 / 1.125),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-xl,1.25rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-xl--line-height,calc(1.75 / 1.25),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-2xl,1.5rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-2xl--line-height,calc(2 / 1.5),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-4xl,2.25rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+text-4xl--line-height,calc(2.5 / 2.25),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+font-weight-normal,400,light,normal font weight,,,Responsiveuniversityprogramwebsite-main,index
+font-weight-medium,500,light,medium font weight,,,Responsiveuniversityprogramwebsite-main,index
+font-weight-semibold,600,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+radius-xs,.125rem,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+default-transition-duration,.15s,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+default-transition-timing-function,"cubic-bezier(.4, 0, .2, 1)",light,Other / unspecified,"(1, 1, 1)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+default-font-family,var(--font-sans),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+default-font-feature-settings,var(--font-sans--font-feature-settings),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+default-font-variation-settings,var(--font-sans--font-variation-settings),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+default-mono-font-family,var(--font-mono),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+default-mono-font-feature-settings,var(--font-mono--font-feature-settings),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+default-mono-font-variation-settings,var(--font-mono--font-variation-settings),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-x,-50%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-y,-50%,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-space-x-reverse,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-position,to bottom right in oklab,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-position,to right in oklab,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-from,var(--color-blue-50),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-from,var(--color-blue-100),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-to,var(--color-blue-200),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-to,var(--color-purple-50),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-leading,1,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-font-weight,var(--font-weight-medium),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-font-weight,var(--font-weight-semibold),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-shadow,"0 10px 15px -3px var(--tw-shadow-color, #0000001a), 0 4px 6px -4px var(--tw-shadow-color, #0000001a)",light,Other / unspecified,"(42, 34, 34)",dark red,Responsiveuniversityprogramwebsite-main,index
+tw-shadow,"0 4px 6px -1px var(--tw-shadow-color, #0000001a), 0 2px 4px -2px var(--tw-shadow-color, #0000001a)",light,Other / unspecified,"(16, 15, 15)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-ring-offset-color,var(--background),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-outline-style,none,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-duration,.2s,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-outline-style,none,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-font-weight,var(--font-weight-medium),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-shadow,"0 10px 15px -3px var(--tw-shadow-color, #0000001a), 0 4px 6px -4px var(--tw-shadow-color, #0000001a)",light,Other / unspecified,"(42, 34, 34)",dark red,Responsiveuniversityprogramwebsite-main,index
+tw-ring-shadow,"var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,var(--ring),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-offset-width,2px,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-offset-shadow,"var(--tw-ring-inset, ) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-outline-style,none,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-shadow,"var(--tw-ring-inset, ) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 20%, transparent)",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,var(--ring),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--ring) 50%, transparent)",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 20%, transparent)",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-y,calc(var(--spacing) * 1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-enter-translate-y,calc(2 * var(--spacing) * -1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-x,calc(var(--spacing) * -1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-enter-translate-x,calc(2 * var(--spacing)),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-x,calc(var(--spacing) * 1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-enter-translate-x,calc(2 * var(--spacing) * -1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-translate-y,calc(var(--spacing) * -1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-enter-translate-y,calc(2 * var(--spacing)),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-exit-opacity,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-exit-scale,.95,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-enter-opacity,0,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-enter-scale,.95,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 40%, transparent)",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 40%, transparent)",light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+font-size,16px,light,base font size,,,Responsiveuniversityprogramwebsite-main,index
+background,#fff,light,body,,,Responsiveuniversityprogramwebsite-main,index
+foreground,oklch(.145 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+card,#fff,light,card background,,,Responsiveuniversityprogramwebsite-main,index
+card-foreground,oklch(.145 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+popover,oklch(1 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+popover-foreground,oklch(.145 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+primary,#030213,light,primary button background / highlights,,,Responsiveuniversityprogramwebsite-main,index
+primary-foreground,oklch(1 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+secondary,oklch(.95 .0058 264.53),light,secondary components / sections,"(675, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+secondary-foreground,#030213,light,secondary text,,,Responsiveuniversityprogramwebsite-main,index
+muted,#ececf0,light,muted backgrounds,,,Responsiveuniversityprogramwebsite-main,index
+muted-foreground,#717182,light,muted text,,,Responsiveuniversityprogramwebsite-main,index
+accent,#e9ebef,light,accent elements,,,Responsiveuniversityprogramwebsite-main,index
+accent-foreground,#030213,light,accent text,,,Responsiveuniversityprogramwebsite-main,index
+destructive,#d4183d,light,destructive button background / error,,,Responsiveuniversityprogramwebsite-main,index
+destructive-foreground,#fff,light,destructive text,,,Responsiveuniversityprogramwebsite-main,index
+border,#0000001a,light,borders,,,Responsiveuniversityprogramwebsite-main,index
+input,transparent,light,input background,,,Responsiveuniversityprogramwebsite-main,index
+input-background,#f3f3f5,light,Other / unspecified,"(13, 12, 12)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+switch-background,#cbced4,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,index
+font-weight-medium,500,light,medium font weight,,,Responsiveuniversityprogramwebsite-main,index
+font-weight-normal,400,light,normal font weight,,,Responsiveuniversityprogramwebsite-main,index
+ring,oklch(.708 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+chart-1,oklch(.646 .222 41.116),light,Other / unspecified,"(105, 105, 105)",medium gray,Responsiveuniversityprogramwebsite-main,index
+chart-2,oklch(.6 .118 184.704),light,Other / unspecified,"(471, 471, 471)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-3,oklch(.398 .07 227.392),light,Other / unspecified,"(580, 580, 580)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-4,oklch(.828 .189 84.429),light,Other / unspecified,"(215, 215, 215)",light gray,Responsiveuniversityprogramwebsite-main,index
+chart-5,oklch(.769 .188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsiveuniversityprogramwebsite-main,index
+radius,.625rem,light,border radius,,,Responsiveuniversityprogramwebsite-main,index
+sidebar,oklch(.985 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-foreground,oklch(.145 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-primary,#030213,light,sidebar primary elements,,,Responsiveuniversityprogramwebsite-main,index
+sidebar-primary-foreground,oklch(.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-accent,oklch(.97 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-accent-foreground,oklch(.205 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-border,oklch(.922 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-ring,oklch(.708 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+background,oklch(.145 0 0),light,body,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+foreground,oklch(.985 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+card,oklch(.145 0 0),light,card background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+card-foreground,oklch(.985 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+popover,oklch(.145 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+popover-foreground,oklch(.985 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+primary,oklch(.985 0 0),light,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+primary-foreground,oklch(.205 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+secondary,oklch(.269 0 0),light,secondary components / sections,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+secondary-foreground,oklch(.985 0 0),light,secondary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+muted,oklch(.269 0 0),light,muted backgrounds,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+muted-foreground,oklch(.708 0 0),light,muted text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+accent,oklch(.269 0 0),light,accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+accent-foreground,oklch(.985 0 0),light,accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+destructive,oklch(.396 .141 25.723),light,destructive button background / error,"(66, 66, 66)",dark gray,Responsiveuniversityprogramwebsite-main,index
+destructive-foreground,oklch(.637 .237 25.331),light,destructive text,"(65, 64, 64)",dark gray,Responsiveuniversityprogramwebsite-main,index
+border,oklch(.269 0 0),light,borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+input,oklch(.269 0 0),light,input background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+ring,oklch(.439 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+font-weight-medium,500,light,medium font weight,,,Responsiveuniversityprogramwebsite-main,index
+font-weight-normal,400,light,normal font weight,,,Responsiveuniversityprogramwebsite-main,index
+chart-1,oklch(.488 .243 264.376),light,Other / unspecified,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-2,oklch(.696 .17 162.48),light,Other / unspecified,"(414, 415, 415)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-3,oklch(.769 .188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsiveuniversityprogramwebsite-main,index
+chart-4,oklch(.627 .265 303.9),light,Other / unspecified,"(774, 776, 776)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-5,oklch(.645 .246 16.439),light,Other / unspecified,"(42, 42, 42)",dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar,oklch(.205 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-foreground,oklch(.985 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-primary,oklch(.488 .243 264.376),light,sidebar primary elements,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-primary-foreground,oklch(.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-accent,oklch(.269 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-accent-foreground,oklch(.985 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-border,oklch(.269 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-ring,oklch(.439 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+background,oklch(.145 0 0),dark,body,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+foreground,oklch(.985 0 0),dark,body text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+card,oklch(.145 0 0),dark,card background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+card-foreground,oklch(.985 0 0),dark,card text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+popover,oklch(.145 0 0),dark,popover background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+popover-foreground,oklch(.985 0 0),dark,popover text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+primary,oklch(.985 0 0),dark,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+primary-foreground,oklch(.205 0 0),dark,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+secondary,oklch(.269 0 0),dark,secondary components / sections,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+secondary-foreground,oklch(.985 0 0),dark,secondary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+muted,oklch(.269 0 0),dark,muted backgrounds,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+muted-foreground,oklch(.708 0 0),dark,muted text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+accent,oklch(.269 0 0),dark,accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+accent-foreground,oklch(.985 0 0),dark,accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+destructive,oklch(.396 .141 25.723),dark,destructive button background / error,"(66, 66, 66)",dark gray,Responsiveuniversityprogramwebsite-main,index
+destructive-foreground,oklch(.637 .237 25.331),dark,destructive text,"(65, 64, 64)",dark gray,Responsiveuniversityprogramwebsite-main,index
+border,oklch(.269 0 0),dark,borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+input,oklch(.269 0 0),dark,input background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+ring,oklch(.439 0 0),dark,focus ring / outline,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+font-weight-medium,500,dark,medium font weight,,,Responsiveuniversityprogramwebsite-main,index
+font-weight-normal,400,dark,normal font weight,,,Responsiveuniversityprogramwebsite-main,index
+chart-1,oklch(.488 .243 264.376),dark,Other / unspecified,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-2,oklch(.696 .17 162.48),dark,Other / unspecified,"(414, 415, 415)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-3,oklch(.769 .188 70.08),dark,Other / unspecified,"(179, 179, 179)",light gray,Responsiveuniversityprogramwebsite-main,index
+chart-4,oklch(.627 .265 303.9),dark,Other / unspecified,"(774, 776, 776)",very light gray,Responsiveuniversityprogramwebsite-main,index
+chart-5,oklch(.645 .246 16.439),dark,Other / unspecified,"(42, 42, 42)",dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar,oklch(.205 0 0),dark,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-foreground,oklch(.985 0 0),dark,sidebar text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-primary,oklch(.488 .243 264.376),dark,sidebar primary elements,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-primary-foreground,oklch(.985 0 0),dark,sidebar primary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-accent,oklch(.269 0 0),dark,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-accent-foreground,oklch(.985 0 0),dark,sidebar accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-border,oklch(.269 0 0),dark,sidebar borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+sidebar-ring,oklch(.439 0 0),dark,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,index
+font-size,16px,light,base font size,,,Responsiveuniversityprogramwebsite-main,globals
+background,#ffffff,light,body,,,Responsiveuniversityprogramwebsite-main,globals
+foreground,oklch(0.145 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+card,#ffffff,light,card background,,,Responsiveuniversityprogramwebsite-main,globals
+card-foreground,oklch(0.145 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+popover,oklch(1 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+popover-foreground,oklch(0.145 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+primary,#030213,light,primary button background / highlights,,,Responsiveuniversityprogramwebsite-main,globals
+primary-foreground,oklch(1 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+secondary,oklch(0.95 0.0058 264.53),light,secondary components / sections,"(675, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+secondary-foreground,#030213,light,secondary text,,,Responsiveuniversityprogramwebsite-main,globals
+muted,#ececf0,light,muted backgrounds,,,Responsiveuniversityprogramwebsite-main,globals
+muted-foreground,#717182,light,muted text,,,Responsiveuniversityprogramwebsite-main,globals
+accent,#e9ebef,light,accent elements,,,Responsiveuniversityprogramwebsite-main,globals
+accent-foreground,#030213,light,accent text,,,Responsiveuniversityprogramwebsite-main,globals
+destructive,#d4183d,light,destructive button background / error,,,Responsiveuniversityprogramwebsite-main,globals
+destructive-foreground,#ffffff,light,destructive text,,,Responsiveuniversityprogramwebsite-main,globals
+border,"rgba(0, 0, 0, 0.1)",light,borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+input,transparent,light,input background,,,Responsiveuniversityprogramwebsite-main,globals
+input-background,#f3f3f5,light,Other / unspecified,"(13, 12, 12)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+switch-background,#cbced4,light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+font-weight-medium,500,light,medium font weight,,,Responsiveuniversityprogramwebsite-main,globals
+font-weight-normal,400,light,normal font weight,,,Responsiveuniversityprogramwebsite-main,globals
+ring,oklch(0.708 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+chart-1,oklch(0.646 0.222 41.116),light,Other / unspecified,"(105, 105, 105)",medium gray,Responsiveuniversityprogramwebsite-main,globals
+chart-2,oklch(0.6 0.118 184.704),light,Other / unspecified,"(471, 471, 471)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-3,oklch(0.398 0.07 227.392),light,Other / unspecified,"(580, 580, 580)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-4,oklch(0.828 0.189 84.429),light,Other / unspecified,"(215, 215, 215)",light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-5,oklch(0.769 0.188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsiveuniversityprogramwebsite-main,globals
+radius,0.625rem,light,border radius,,,Responsiveuniversityprogramwebsite-main,globals
+sidebar,oklch(0.985 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-foreground,oklch(0.145 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-primary,#030213,light,sidebar primary elements,,,Responsiveuniversityprogramwebsite-main,globals
+sidebar-primary-foreground,oklch(0.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-accent,oklch(0.97 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-accent-foreground,oklch(0.205 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-border,oklch(0.922 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-ring,oklch(0.708 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+background,oklch(0.145 0 0),light,body,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+foreground,oklch(0.985 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+card,oklch(0.145 0 0),light,card background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+card-foreground,oklch(0.985 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+popover,oklch(0.145 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+popover-foreground,oklch(0.985 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+primary,oklch(0.985 0 0),light,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+primary-foreground,oklch(0.205 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+secondary,oklch(0.269 0 0),light,secondary components / sections,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+secondary-foreground,oklch(0.985 0 0),light,secondary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+muted,oklch(0.269 0 0),light,muted backgrounds,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+muted-foreground,oklch(0.708 0 0),light,muted text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+accent,oklch(0.269 0 0),light,accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+accent-foreground,oklch(0.985 0 0),light,accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+destructive,oklch(0.396 0.141 25.723),light,destructive button background / error,"(66, 66, 66)",dark gray,Responsiveuniversityprogramwebsite-main,globals
+destructive-foreground,oklch(0.637 0.237 25.331),light,destructive text,"(65, 64, 64)",dark gray,Responsiveuniversityprogramwebsite-main,globals
+border,oklch(0.269 0 0),light,borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+input,oklch(0.269 0 0),light,input background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+ring,oklch(0.439 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+font-weight-medium,500,light,medium font weight,,,Responsiveuniversityprogramwebsite-main,globals
+font-weight-normal,400,light,normal font weight,,,Responsiveuniversityprogramwebsite-main,globals
+chart-1,oklch(0.488 0.243 264.376),light,Other / unspecified,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-2,oklch(0.696 0.17 162.48),light,Other / unspecified,"(414, 415, 415)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-3,oklch(0.769 0.188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-4,oklch(0.627 0.265 303.9),light,Other / unspecified,"(774, 776, 776)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-5,oklch(0.645 0.246 16.439),light,Other / unspecified,"(42, 42, 42)",dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar,oklch(0.205 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-foreground,oklch(0.985 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-primary,oklch(0.488 0.243 264.376),light,sidebar primary elements,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-primary-foreground,oklch(0.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-accent,oklch(0.269 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-accent-foreground,oklch(0.985 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-border,oklch(0.269 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-ring,oklch(0.439 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+color-background,var(--background),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-foreground,var(--foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-card,var(--card),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-card-foreground,var(--card-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-popover,var(--popover),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-popover-foreground,var(--popover-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-primary,var(--primary),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-primary-foreground,var(--primary-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-secondary,var(--secondary),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-secondary-foreground,var(--secondary-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-muted,var(--muted),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-muted-foreground,var(--muted-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-accent,var(--accent),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-accent-foreground,var(--accent-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-destructive,var(--destructive),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-destructive-foreground,var(--destructive-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-border,var(--border),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-input,var(--input),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-input-background,var(--input-background),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-switch-background,var(--switch-background),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-ring,var(--ring),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-chart-1,var(--chart-1),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-chart-2,var(--chart-2),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-chart-3,var(--chart-3),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-chart-4,var(--chart-4),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-chart-5,var(--chart-5),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+radius-sm,calc(var(--radius) - 4px),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+radius-md,calc(var(--radius) - 2px),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+radius-lg,var(--radius),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+radius-xl,calc(var(--radius) + 4px),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar,var(--sidebar),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar-foreground,var(--sidebar-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar-primary,var(--sidebar-primary),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar-primary-foreground,var(--sidebar-primary-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar-accent,var(--sidebar-accent),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar-accent-foreground,var(--sidebar-accent-foreground),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar-border,var(--sidebar-border),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+color-sidebar-ring,var(--sidebar-ring),light,Other / unspecified,,,Responsiveuniversityprogramwebsite-main,globals
+background,oklch(0.145 0 0),dark,body,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+foreground,oklch(0.985 0 0),dark,body text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+card,oklch(0.145 0 0),dark,card background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+card-foreground,oklch(0.985 0 0),dark,card text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+popover,oklch(0.145 0 0),dark,popover background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+popover-foreground,oklch(0.985 0 0),dark,popover text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+primary,oklch(0.985 0 0),dark,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+primary-foreground,oklch(0.205 0 0),dark,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+secondary,oklch(0.269 0 0),dark,secondary components / sections,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+secondary-foreground,oklch(0.985 0 0),dark,secondary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+muted,oklch(0.269 0 0),dark,muted backgrounds,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+muted-foreground,oklch(0.708 0 0),dark,muted text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+accent,oklch(0.269 0 0),dark,accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+accent-foreground,oklch(0.985 0 0),dark,accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+destructive,oklch(0.396 0.141 25.723),dark,destructive button background / error,"(66, 66, 66)",dark gray,Responsiveuniversityprogramwebsite-main,globals
+destructive-foreground,oklch(0.637 0.237 25.331),dark,destructive text,"(65, 64, 64)",dark gray,Responsiveuniversityprogramwebsite-main,globals
+border,oklch(0.269 0 0),dark,borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+input,oklch(0.269 0 0),dark,input background,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+ring,oklch(0.439 0 0),dark,focus ring / outline,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+font-weight-medium,500,dark,medium font weight,,,Responsiveuniversityprogramwebsite-main,globals
+font-weight-normal,400,dark,normal font weight,,,Responsiveuniversityprogramwebsite-main,globals
+chart-1,oklch(0.488 0.243 264.376),dark,Other / unspecified,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-2,oklch(0.696 0.17 162.48),dark,Other / unspecified,"(414, 415, 415)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-3,oklch(0.769 0.188 70.08),dark,Other / unspecified,"(179, 179, 179)",light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-4,oklch(0.627 0.265 303.9),dark,Other / unspecified,"(774, 776, 776)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+chart-5,oklch(0.645 0.246 16.439),dark,Other / unspecified,"(42, 42, 42)",dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar,oklch(0.205 0 0),dark,Other / unspecified,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-foreground,oklch(0.985 0 0),dark,sidebar text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-primary,oklch(0.488 0.243 264.376),dark,sidebar primary elements,"(673, 675, 675)",very light gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-primary-foreground,oklch(0.985 0 0),dark,sidebar primary text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-accent,oklch(0.269 0 0),dark,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-accent-foreground,oklch(0.985 0 0),dark,sidebar accent text,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-border,oklch(0.269 0 0),dark,sidebar borders,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+sidebar-ring,oklch(0.439 0 0),dark,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsiveuniversityprogramwebsite-main,globals
+tw-translate-x,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-y,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-z,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-space-x-reverse,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-border-style,solid,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-position,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-from,#0000,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-via,#0000,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-to,#0000,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-stops,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-via-stops,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-from-position,0%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-via-position,50%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-to-position,100%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-leading,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-font-weight,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-shadow-color,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-shadow-alpha,100%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-inset-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-inset-shadow-color,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-inset-shadow-alpha,100%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-inset-ring-color,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-inset-ring-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-ring-inset,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-offset-width,0px,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-offset-color,#fff,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-offset-shadow,0 0 #0000,light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-outline-style,solid,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-blur,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-brightness,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-contrast,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-grayscale,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-hue-rotate,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-invert,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-opacity,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-saturate,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-sepia,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-drop-shadow,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-drop-shadow-color,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-drop-shadow-alpha,100%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-drop-shadow-size,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-duration,initial,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+font-sans,"ui-sans-serif, system-ui, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol"", ""Noto Color Emoji""",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+font-mono,"ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, ""Liberation Mono"", ""Courier New"", monospace",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+color-green-100,oklch(.962 .044 156.743),light,Other / unspecified,"(400, 400, 400)",very light gray,Responsivenursingprogramwebsite-main,index
+color-green-600,oklch(.627 .194 149.214),light,Other / unspecified,"(380, 381, 381)",very light gray,Responsivenursingprogramwebsite-main,index
+color-blue-50,oklch(.97 .014 254.604),light,Other / unspecified,"(649, 649, 649)",very light gray,Responsivenursingprogramwebsite-main,index
+color-blue-100,oklch(.932 .032 255.585),light,Other / unspecified,"(652, 652, 652)",very light gray,Responsivenursingprogramwebsite-main,index
+color-blue-200,oklch(.882 .059 254.128),light,Other / unspecified,"(648, 648, 648)",very light gray,Responsivenursingprogramwebsite-main,index
+color-blue-600,oklch(.546 .245 262.881),light,Other / unspecified,"(669, 671, 671)",very light gray,Responsivenursingprogramwebsite-main,index
+color-blue-800,oklch(.424 .199 265.638),light,Other / unspecified,"(677, 678, 678)",very light gray,Responsivenursingprogramwebsite-main,index
+color-blue-900,oklch(.379 .146 265.522),light,Other / unspecified,"(676, 678, 678)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-50,oklch(.985 .002 247.839),light,Other / unspecified,"(632, 632, 632)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-100,oklch(.967 .003 264.542),light,Other / unspecified,"(675, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-200,oklch(.928 .006 264.531),light,Other / unspecified,"(675, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-300,oklch(.872 .01 258.338),light,Other / unspecified,"(659, 659, 659)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-400,oklch(.707 .022 261.325),light,Other / unspecified,"(666, 666, 666)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-500,oklch(.551 .027 264.364),light,Other / unspecified,"(674, 674, 674)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-600,oklch(.446 .03 256.802),light,Other / unspecified,"(655, 655, 655)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-700,oklch(.373 .034 259.733),light,Other / unspecified,"(662, 662, 662)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-800,oklch(.278 .033 256.848),light,Other / unspecified,"(655, 655, 655)",very light gray,Responsivenursingprogramwebsite-main,index
+color-gray-900,oklch(.21 .034 264.665),light,Other / unspecified,"(675, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+color-black,#000,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+color-white,#fff,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+spacing,.25rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+container-lg,32rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+container-2xl,42rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+container-3xl,48rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+container-4xl,56rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+container-5xl,64rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+container-7xl,80rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-xs,.75rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-xs--line-height,calc(1 / .75),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-sm,.875rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-sm--line-height,calc(1.25 / .875),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-base,1rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-base--line-height,calc(1.5 / 1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-lg,1.125rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-lg--line-height,calc(1.75 / 1.125),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-xl,1.25rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-xl--line-height,calc(1.75 / 1.25),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+text-2xl,1.5rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+font-weight-normal,400,light,normal font weight,,,Responsivenursingprogramwebsite-main,index
+font-weight-medium,500,light,medium font weight,,,Responsivenursingprogramwebsite-main,index
+font-weight-semibold,600,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+radius-xs,.125rem,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+default-transition-duration,.15s,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+default-transition-timing-function,"cubic-bezier(.4, 0, .2, 1)",light,Other / unspecified,"(1, 1, 1)",very dark gray,Responsivenursingprogramwebsite-main,index
+default-font-family,var(--font-sans),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+default-font-feature-settings,var(--font-sans--font-feature-settings),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+default-font-variation-settings,var(--font-sans--font-variation-settings),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+default-mono-font-family,var(--font-mono),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+default-mono-font-feature-settings,var(--font-mono--font-feature-settings),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+default-mono-font-variation-settings,var(--font-mono--font-variation-settings),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-x,-50%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-y,-50%,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-space-y-reverse,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-space-x-reverse,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-border-style,dashed,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-position,to right in oklab,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-from,var(--color-blue-50),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-from,var(--color-blue-600),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-from,"color-mix(in srgb, oklch(.379 .146 265.522) 90%, transparent)",light,Other / unspecified,"(676, 678, 678)",very light gray,Responsivenursingprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-from,"color-mix(in oklab, var(--color-blue-900) 90%, transparent)",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-to,var(--color-blue-100),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-to,"color-mix(in srgb, oklch(.546 .245 262.881) 70%, transparent)",light,Other / unspecified,"(669, 671, 671)",very light gray,Responsivenursingprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-to,"color-mix(in oklab, var(--color-blue-600) 70%, transparent)",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-to,var(--color-blue-800),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-gradient-stops,"var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position))",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-leading,1,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-font-weight,var(--font-weight-medium),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-font-weight,var(--font-weight-semibold),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-shadow,"0 10px 15px -3px var(--tw-shadow-color, #0000001a), 0 4px 6px -4px var(--tw-shadow-color, #0000001a)",light,Other / unspecified,"(42, 34, 34)",dark red,Responsivenursingprogramwebsite-main,index
+tw-shadow,"0 4px 6px -1px var(--tw-shadow-color, #0000001a), 0 2px 4px -2px var(--tw-shadow-color, #0000001a)",light,Other / unspecified,"(16, 15, 15)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-ring-offset-color,var(--background),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-outline-style,none,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-duration,.2s,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-outline-style,none,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-font-weight,var(--font-weight-medium),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-shadow,"0 10px 15px -3px var(--tw-shadow-color, #0000001a), 0 4px 6px -4px var(--tw-shadow-color, #0000001a)",light,Other / unspecified,"(42, 34, 34)",dark red,Responsivenursingprogramwebsite-main,index
+tw-ring-shadow,"var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-ring-color,var(--ring),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-offset-width,2px,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-offset-shadow,"var(--tw-ring-inset, ) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-outline-style,none,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-shadow,"var(--tw-ring-inset, ) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 20%, transparent)",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,var(--ring),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--ring) 50%, transparent)",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 20%, transparent)",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-y,calc(var(--spacing) * 1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-enter-translate-y,calc(2 * var(--spacing) * -1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-x,calc(var(--spacing) * -1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-enter-translate-x,calc(2 * var(--spacing)),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-x,calc(var(--spacing) * 1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-enter-translate-x,calc(2 * var(--spacing) * -1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-translate-y,calc(var(--spacing) * -1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-enter-translate-y,calc(2 * var(--spacing)),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-exit-opacity,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-exit-scale,.95,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-enter-opacity,0,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-enter-scale,.95,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 40%, transparent)",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,var(--destructive),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+tw-ring-color,"color-mix(in oklab, var(--destructive) 40%, transparent)",light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+font-size,16px,light,base font size,,,Responsivenursingprogramwebsite-main,index
+background,#fff,light,body,,,Responsivenursingprogramwebsite-main,index
+foreground,oklch(.145 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+card,#fff,light,card background,,,Responsivenursingprogramwebsite-main,index
+card-foreground,oklch(.145 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+popover,oklch(1 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+popover-foreground,oklch(.145 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+primary,#030213,light,primary button background / highlights,,,Responsivenursingprogramwebsite-main,index
+primary-foreground,oklch(1 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+secondary,oklch(.95 .0058 264.53),light,secondary components / sections,"(675, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+secondary-foreground,#030213,light,secondary text,,,Responsivenursingprogramwebsite-main,index
+muted,#ececf0,light,muted backgrounds,,,Responsivenursingprogramwebsite-main,index
+muted-foreground,#717182,light,muted text,,,Responsivenursingprogramwebsite-main,index
+accent,#e9ebef,light,accent elements,,,Responsivenursingprogramwebsite-main,index
+accent-foreground,#030213,light,accent text,,,Responsivenursingprogramwebsite-main,index
+destructive,#d4183d,light,destructive button background / error,,,Responsivenursingprogramwebsite-main,index
+destructive-foreground,#fff,light,destructive text,,,Responsivenursingprogramwebsite-main,index
+border,#0000001a,light,borders,,,Responsivenursingprogramwebsite-main,index
+input,transparent,light,input background,,,Responsivenursingprogramwebsite-main,index
+input-background,#f3f3f5,light,Other / unspecified,"(13, 12, 12)",very dark gray,Responsivenursingprogramwebsite-main,index
+switch-background,#cbced4,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,index
+font-weight-medium,500,light,medium font weight,,,Responsivenursingprogramwebsite-main,index
+font-weight-normal,400,light,normal font weight,,,Responsivenursingprogramwebsite-main,index
+ring,oklch(.708 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+chart-1,oklch(.646 .222 41.116),light,Other / unspecified,"(105, 105, 105)",medium gray,Responsivenursingprogramwebsite-main,index
+chart-2,oklch(.6 .118 184.704),light,Other / unspecified,"(471, 471, 471)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-3,oklch(.398 .07 227.392),light,Other / unspecified,"(580, 580, 580)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-4,oklch(.828 .189 84.429),light,Other / unspecified,"(215, 215, 215)",light gray,Responsivenursingprogramwebsite-main,index
+chart-5,oklch(.769 .188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsivenursingprogramwebsite-main,index
+radius,.625rem,light,border radius,,,Responsivenursingprogramwebsite-main,index
+sidebar,oklch(.985 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-foreground,oklch(.145 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-primary,#030213,light,sidebar primary elements,,,Responsivenursingprogramwebsite-main,index
+sidebar-primary-foreground,oklch(.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-accent,oklch(.97 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-accent-foreground,oklch(.205 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-border,oklch(.922 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-ring,oklch(.708 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+background,oklch(.145 0 0),light,body,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+foreground,oklch(.985 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+card,oklch(.145 0 0),light,card background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+card-foreground,oklch(.985 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+popover,oklch(.145 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+popover-foreground,oklch(.985 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+primary,oklch(.985 0 0),light,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+primary-foreground,oklch(.205 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+secondary,oklch(.269 0 0),light,secondary components / sections,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+secondary-foreground,oklch(.985 0 0),light,secondary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+muted,oklch(.269 0 0),light,muted backgrounds,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+muted-foreground,oklch(.708 0 0),light,muted text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+accent,oklch(.269 0 0),light,accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+accent-foreground,oklch(.985 0 0),light,accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+destructive,oklch(.396 .141 25.723),light,destructive button background / error,"(66, 66, 66)",dark gray,Responsivenursingprogramwebsite-main,index
+destructive-foreground,oklch(.637 .237 25.331),light,destructive text,"(65, 64, 64)",dark gray,Responsivenursingprogramwebsite-main,index
+border,oklch(.269 0 0),light,borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+input,oklch(.269 0 0),light,input background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+ring,oklch(.439 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+font-weight-medium,500,light,medium font weight,,,Responsivenursingprogramwebsite-main,index
+font-weight-normal,400,light,normal font weight,,,Responsivenursingprogramwebsite-main,index
+chart-1,oklch(.488 .243 264.376),light,Other / unspecified,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-2,oklch(.696 .17 162.48),light,Other / unspecified,"(414, 415, 415)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-3,oklch(.769 .188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsivenursingprogramwebsite-main,index
+chart-4,oklch(.627 .265 303.9),light,Other / unspecified,"(774, 776, 776)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-5,oklch(.645 .246 16.439),light,Other / unspecified,"(42, 42, 42)",dark gray,Responsivenursingprogramwebsite-main,index
+sidebar,oklch(.205 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-foreground,oklch(.985 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-primary,oklch(.488 .243 264.376),light,sidebar primary elements,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+sidebar-primary-foreground,oklch(.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-accent,oklch(.269 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-accent-foreground,oklch(.985 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-border,oklch(.269 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-ring,oklch(.439 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+background,oklch(.145 0 0),dark,body,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+foreground,oklch(.985 0 0),dark,body text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+card,oklch(.145 0 0),dark,card background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+card-foreground,oklch(.985 0 0),dark,card text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+popover,oklch(.145 0 0),dark,popover background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+popover-foreground,oklch(.985 0 0),dark,popover text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+primary,oklch(.985 0 0),dark,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+primary-foreground,oklch(.205 0 0),dark,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+secondary,oklch(.269 0 0),dark,secondary components / sections,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+secondary-foreground,oklch(.985 0 0),dark,secondary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+muted,oklch(.269 0 0),dark,muted backgrounds,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+muted-foreground,oklch(.708 0 0),dark,muted text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+accent,oklch(.269 0 0),dark,accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+accent-foreground,oklch(.985 0 0),dark,accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+destructive,oklch(.396 .141 25.723),dark,destructive button background / error,"(66, 66, 66)",dark gray,Responsivenursingprogramwebsite-main,index
+destructive-foreground,oklch(.637 .237 25.331),dark,destructive text,"(65, 64, 64)",dark gray,Responsivenursingprogramwebsite-main,index
+border,oklch(.269 0 0),dark,borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+input,oklch(.269 0 0),dark,input background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+ring,oklch(.439 0 0),dark,focus ring / outline,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+font-weight-medium,500,dark,medium font weight,,,Responsivenursingprogramwebsite-main,index
+font-weight-normal,400,dark,normal font weight,,,Responsivenursingprogramwebsite-main,index
+chart-1,oklch(.488 .243 264.376),dark,Other / unspecified,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-2,oklch(.696 .17 162.48),dark,Other / unspecified,"(414, 415, 415)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-3,oklch(.769 .188 70.08),dark,Other / unspecified,"(179, 179, 179)",light gray,Responsivenursingprogramwebsite-main,index
+chart-4,oklch(.627 .265 303.9),dark,Other / unspecified,"(774, 776, 776)",very light gray,Responsivenursingprogramwebsite-main,index
+chart-5,oklch(.645 .246 16.439),dark,Other / unspecified,"(42, 42, 42)",dark gray,Responsivenursingprogramwebsite-main,index
+sidebar,oklch(.205 0 0),dark,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-foreground,oklch(.985 0 0),dark,sidebar text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-primary,oklch(.488 .243 264.376),dark,sidebar primary elements,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,index
+sidebar-primary-foreground,oklch(.985 0 0),dark,sidebar primary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-accent,oklch(.269 0 0),dark,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-accent-foreground,oklch(.985 0 0),dark,sidebar accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-border,oklch(.269 0 0),dark,sidebar borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+sidebar-ring,oklch(.439 0 0),dark,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,index
+font-size,16px,light,base font size,,,Responsivenursingprogramwebsite-main,globals
+background,#ffffff,light,body,,,Responsivenursingprogramwebsite-main,globals
+foreground,oklch(0.145 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+card,#ffffff,light,card background,,,Responsivenursingprogramwebsite-main,globals
+card-foreground,oklch(0.145 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+popover,oklch(1 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+popover-foreground,oklch(0.145 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+primary,#030213,light,primary button background / highlights,,,Responsivenursingprogramwebsite-main,globals
+primary-foreground,oklch(1 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+secondary,oklch(0.95 0.0058 264.53),light,secondary components / sections,"(675, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,globals
+secondary-foreground,#030213,light,secondary text,,,Responsivenursingprogramwebsite-main,globals
+muted,#ececf0,light,muted backgrounds,,,Responsivenursingprogramwebsite-main,globals
+muted-foreground,#717182,light,muted text,,,Responsivenursingprogramwebsite-main,globals
+accent,#e9ebef,light,accent elements,,,Responsivenursingprogramwebsite-main,globals
+accent-foreground,#030213,light,accent text,,,Responsivenursingprogramwebsite-main,globals
+destructive,#d4183d,light,destructive button background / error,,,Responsivenursingprogramwebsite-main,globals
+destructive-foreground,#ffffff,light,destructive text,,,Responsivenursingprogramwebsite-main,globals
+border,"rgba(0, 0, 0, 0.1)",light,borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+input,transparent,light,input background,,,Responsivenursingprogramwebsite-main,globals
+input-background,#f3f3f5,light,Other / unspecified,"(13, 12, 12)",very dark gray,Responsivenursingprogramwebsite-main,globals
+switch-background,#cbced4,light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+font-weight-medium,500,light,medium font weight,,,Responsivenursingprogramwebsite-main,globals
+font-weight-normal,400,light,normal font weight,,,Responsivenursingprogramwebsite-main,globals
+ring,oklch(0.708 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+chart-1,oklch(0.646 0.222 41.116),light,Other / unspecified,"(105, 105, 105)",medium gray,Responsivenursingprogramwebsite-main,globals
+chart-2,oklch(0.6 0.118 184.704),light,Other / unspecified,"(471, 471, 471)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-3,oklch(0.398 0.07 227.392),light,Other / unspecified,"(580, 580, 580)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-4,oklch(0.828 0.189 84.429),light,Other / unspecified,"(215, 215, 215)",light gray,Responsivenursingprogramwebsite-main,globals
+chart-5,oklch(0.769 0.188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsivenursingprogramwebsite-main,globals
+radius,0.625rem,light,border radius,,,Responsivenursingprogramwebsite-main,globals
+sidebar,oklch(0.985 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-foreground,oklch(0.145 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-primary,#030213,light,sidebar primary elements,,,Responsivenursingprogramwebsite-main,globals
+sidebar-primary-foreground,oklch(0.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-accent,oklch(0.97 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-accent-foreground,oklch(0.205 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-border,oklch(0.922 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-ring,oklch(0.708 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+background,oklch(0.145 0 0),light,body,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+foreground,oklch(0.985 0 0),light,body text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+card,oklch(0.145 0 0),light,card background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+card-foreground,oklch(0.985 0 0),light,card text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+popover,oklch(0.145 0 0),light,popover background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+popover-foreground,oklch(0.985 0 0),light,popover text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+primary,oklch(0.985 0 0),light,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+primary-foreground,oklch(0.205 0 0),light,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+secondary,oklch(0.269 0 0),light,secondary components / sections,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+secondary-foreground,oklch(0.985 0 0),light,secondary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+muted,oklch(0.269 0 0),light,muted backgrounds,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+muted-foreground,oklch(0.708 0 0),light,muted text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+accent,oklch(0.269 0 0),light,accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+accent-foreground,oklch(0.985 0 0),light,accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+destructive,oklch(0.396 0.141 25.723),light,destructive button background / error,"(66, 66, 66)",dark gray,Responsivenursingprogramwebsite-main,globals
+destructive-foreground,oklch(0.637 0.237 25.331),light,destructive text,"(65, 64, 64)",dark gray,Responsivenursingprogramwebsite-main,globals
+border,oklch(0.269 0 0),light,borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+input,oklch(0.269 0 0),light,input background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+ring,oklch(0.439 0 0),light,focus ring / outline,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+font-weight-medium,500,light,medium font weight,,,Responsivenursingprogramwebsite-main,globals
+font-weight-normal,400,light,normal font weight,,,Responsivenursingprogramwebsite-main,globals
+chart-1,oklch(0.488 0.243 264.376),light,Other / unspecified,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-2,oklch(0.696 0.17 162.48),light,Other / unspecified,"(414, 415, 415)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-3,oklch(0.769 0.188 70.08),light,Other / unspecified,"(179, 179, 179)",light gray,Responsivenursingprogramwebsite-main,globals
+chart-4,oklch(0.627 0.265 303.9),light,Other / unspecified,"(774, 776, 776)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-5,oklch(0.645 0.246 16.439),light,Other / unspecified,"(42, 42, 42)",dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar,oklch(0.205 0 0),light,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-foreground,oklch(0.985 0 0),light,sidebar text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-primary,oklch(0.488 0.243 264.376),light,sidebar primary elements,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,globals
+sidebar-primary-foreground,oklch(0.985 0 0),light,sidebar primary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-accent,oklch(0.269 0 0),light,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-accent-foreground,oklch(0.985 0 0),light,sidebar accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-border,oklch(0.269 0 0),light,sidebar borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-ring,oklch(0.439 0 0),light,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+color-background,var(--background),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-foreground,var(--foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-card,var(--card),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-card-foreground,var(--card-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-popover,var(--popover),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-popover-foreground,var(--popover-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-primary,var(--primary),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-primary-foreground,var(--primary-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-secondary,var(--secondary),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-secondary-foreground,var(--secondary-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-muted,var(--muted),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-muted-foreground,var(--muted-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-accent,var(--accent),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-accent-foreground,var(--accent-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-destructive,var(--destructive),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-destructive-foreground,var(--destructive-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-border,var(--border),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-input,var(--input),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-input-background,var(--input-background),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-switch-background,var(--switch-background),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-ring,var(--ring),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-chart-1,var(--chart-1),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-chart-2,var(--chart-2),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-chart-3,var(--chart-3),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-chart-4,var(--chart-4),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-chart-5,var(--chart-5),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+radius-sm,calc(var(--radius) - 4px),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+radius-md,calc(var(--radius) - 2px),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+radius-lg,var(--radius),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+radius-xl,calc(var(--radius) + 4px),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar,var(--sidebar),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar-foreground,var(--sidebar-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar-primary,var(--sidebar-primary),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar-primary-foreground,var(--sidebar-primary-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar-accent,var(--sidebar-accent),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar-accent-foreground,var(--sidebar-accent-foreground),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar-border,var(--sidebar-border),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+color-sidebar-ring,var(--sidebar-ring),light,Other / unspecified,,,Responsivenursingprogramwebsite-main,globals
+background,oklch(0.145 0 0),dark,body,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+foreground,oklch(0.985 0 0),dark,body text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+card,oklch(0.145 0 0),dark,card background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+card-foreground,oklch(0.985 0 0),dark,card text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+popover,oklch(0.145 0 0),dark,popover background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+popover-foreground,oklch(0.985 0 0),dark,popover text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+primary,oklch(0.985 0 0),dark,primary button background / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+primary-foreground,oklch(0.205 0 0),dark,primary button text / highlights,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+secondary,oklch(0.269 0 0),dark,secondary components / sections,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+secondary-foreground,oklch(0.985 0 0),dark,secondary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+muted,oklch(0.269 0 0),dark,muted backgrounds,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+muted-foreground,oklch(0.708 0 0),dark,muted text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+accent,oklch(0.269 0 0),dark,accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+accent-foreground,oklch(0.985 0 0),dark,accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+destructive,oklch(0.396 0.141 25.723),dark,destructive button background / error,"(66, 66, 66)",dark gray,Responsivenursingprogramwebsite-main,globals
+destructive-foreground,oklch(0.637 0.237 25.331),dark,destructive text,"(65, 64, 64)",dark gray,Responsivenursingprogramwebsite-main,globals
+border,oklch(0.269 0 0),dark,borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+input,oklch(0.269 0 0),dark,input background,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+ring,oklch(0.439 0 0),dark,focus ring / outline,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+font-weight-medium,500,dark,medium font weight,,,Responsivenursingprogramwebsite-main,globals
+font-weight-normal,400,dark,normal font weight,,,Responsivenursingprogramwebsite-main,globals
+chart-1,oklch(0.488 0.243 264.376),dark,Other / unspecified,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-2,oklch(0.696 0.17 162.48),dark,Other / unspecified,"(414, 415, 415)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-3,oklch(0.769 0.188 70.08),dark,Other / unspecified,"(179, 179, 179)",light gray,Responsivenursingprogramwebsite-main,globals
+chart-4,oklch(0.627 0.265 303.9),dark,Other / unspecified,"(774, 776, 776)",very light gray,Responsivenursingprogramwebsite-main,globals
+chart-5,oklch(0.645 0.246 16.439),dark,Other / unspecified,"(42, 42, 42)",dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar,oklch(0.205 0 0),dark,Other / unspecified,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-foreground,oklch(0.985 0 0),dark,sidebar text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-primary,oklch(0.488 0.243 264.376),dark,sidebar primary elements,"(673, 675, 675)",very light gray,Responsivenursingprogramwebsite-main,globals
+sidebar-primary-foreground,oklch(0.985 0 0),dark,sidebar primary text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-accent,oklch(0.269 0 0),dark,sidebar accent elements,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-accent-foreground,oklch(0.985 0 0),dark,sidebar accent text,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-border,oklch(0.269 0 0),dark,sidebar borders,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+sidebar-ring,oklch(0.439 0 0),dark,sidebar focus ring,"(0, 0, 0)",very dark gray,Responsivenursingprogramwebsite-main,globals
+background,0 0% 100%,light,body,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+foreground,215 25% 15%,light,body text,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+card,0 0% 100%,light,card background,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+card-foreground,215 25% 15%,light,card text,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+popover,0 0% 100%,light,popover background,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+popover-foreground,215 25% 15%,light,popover text,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+primary,215 85% 25%,light,primary button background / highlights,"(10, 55, 118)",dark blue,cs-pathways-web-main,index
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+secondary,200 15% 95%,light,secondary components / sections,"(240, 243, 244)",very light blue,cs-pathways-web-main,index
+secondary-foreground,215 25% 15%,light,secondary text,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+muted,200 15% 95%,light,muted backgrounds,"(240, 243, 244)",very light blue,cs-pathways-web-main,index
+muted-foreground,215 15% 45%,light,muted text,"(98, 112, 132)",medium blue,cs-pathways-web-main,index
+accent,185 85% 45%,light,accent elements,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+accent-foreground,0 0% 100%,light,accent text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+destructive,0 84.2% 60.2%,light,destructive button background / error,"(239, 68, 68)",medium red,cs-pathways-web-main,index
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+border,215 20% 88%,light,borders,"(218, 223, 231)",very light blue,cs-pathways-web-main,index
+input,215 20% 88%,light,input background,"(218, 223, 231)",very light blue,cs-pathways-web-main,index
+ring,185 85% 45%,light,focus ring / outline,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+radius,0.75rem,light,border radius,,,cs-pathways-web-main,index
+gradient-hero,"linear-gradient(135deg, hsl(215 85% 25%), hsl(215 75% 35%))",light,hero section gradient,"(135, 299, 176)",very light green,cs-pathways-web-main,index
+gradient-accent,"linear-gradient(135deg, hsl(185 85% 45%), hsl(195 85% 55%))",light,Other / unspecified,"(146, 288, 181)",very light green,cs-pathways-web-main,index
+shadow-card,"0 4px 6px -1px hsl(215 25% 15% / 0.08), 0 2px 4px -1px hsl(215 25% 15% / 0.05)",light,card shadow,"(16, 15, 15)",very dark gray,cs-pathways-web-main,index
+shadow-card-hover,"0 10px 15px -3px hsl(215 25% 15% / 0.12), 0 4px 6px -2px hsl(215 25% 15% / 0.08)",light,Other / unspecified,"(42, 34, 34)",dark red,cs-pathways-web-main,index
+transition-smooth,"all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",light,transition speed,"(0, 0, 0)",very dark gray,cs-pathways-web-main,index
+sidebar-background,0 0% 98%,light,sidebar background,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+sidebar-foreground,240 5.3% 26.1%,light,sidebar text,"(63, 63, 70)",dark gray,cs-pathways-web-main,index
+sidebar-primary,240 5.9% 10%,light,sidebar primary elements,"(24, 24, 27)",dark gray,cs-pathways-web-main,index
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+sidebar-accent,240 4.8% 95.9%,light,sidebar accent elements,"(244, 244, 245)",very light gray,cs-pathways-web-main,index
+sidebar-accent-foreground,240 5.9% 10%,light,sidebar accent text,"(24, 24, 27)",dark gray,cs-pathways-web-main,index
+sidebar-border,220 13% 91%,light,sidebar borders,"(229, 231, 235)",very light blue,cs-pathways-web-main,index
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue,cs-pathways-web-main,index
+background,215 30% 8%,light,body,"(14, 19, 27)",very dark blue,cs-pathways-web-main,index
+foreground,0 0% 98%,light,body text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+card,215 25% 12%,light,card background,"(23, 29, 38)",dark blue,cs-pathways-web-main,index
+card-foreground,0 0% 98%,light,card text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+popover,215 25% 12%,light,popover background,"(23, 29, 38)",dark blue,cs-pathways-web-main,index
+popover-foreground,0 0% 98%,light,popover text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+primary,185 85% 45%,light,primary button background / highlights,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+secondary,215 25% 15%,light,secondary components / sections,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+secondary-foreground,0 0% 98%,light,secondary text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+muted,215 25% 15%,light,muted backgrounds,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+muted-foreground,215 15% 65%,light,muted text,"(152, 164, 179)",light blue,cs-pathways-web-main,index
+accent,185 85% 45%,light,accent elements,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+accent-foreground,0 0% 100%,light,accent text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+destructive,0 62.8% 50%,light,destructive button background / error,"(208, 47, 47)",medium red,cs-pathways-web-main,index
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+border,215 25% 20%,light,borders,"(38, 49, 64)",dark blue,cs-pathways-web-main,index
+input,215 25% 20%,light,input background,"(38, 49, 64)",dark blue,cs-pathways-web-main,index
+ring,185 85% 45%,light,focus ring / outline,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+gradient-hero,"linear-gradient(135deg, hsl(215 75% 20%), hsl(215 65% 30%))",light,hero section gradient,"(54, 328, 123)",light green,cs-pathways-web-main,index
+gradient-accent,"linear-gradient(135deg, hsl(185 85% 40%), hsl(195 85% 50%))",light,Other / unspecified,"(146, 288, 181)",very light green,cs-pathways-web-main,index
+shadow-card,"0 4px 6px -1px hsl(0 0% 0% / 0.3), 0 2px 4px -1px hsl(0 0% 0% / 0.2)",light,card shadow,"(16, 15, 15)",very dark gray,cs-pathways-web-main,index
+shadow-card-hover,"0 10px 15px -3px hsl(0 0% 0% / 0.4), 0 4px 6px -2px hsl(0 0% 0% / 0.3)",light,Other / unspecified,"(42, 34, 34)",dark red,cs-pathways-web-main,index
+sidebar-background,240 5.9% 10%,light,sidebar background,"(24, 24, 27)",dark gray,cs-pathways-web-main,index
+sidebar-foreground,240 4.8% 95.9%,light,sidebar text,"(244, 244, 245)",very light gray,cs-pathways-web-main,index
+sidebar-primary,224.3 76.3% 48%,light,sidebar primary elements,"(29, 78, 216)",medium blue,cs-pathways-web-main,index
+sidebar-primary-foreground,0 0% 100%,light,sidebar primary text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+sidebar-accent,240 3.7% 15.9%,light,sidebar accent elements,"(39, 39, 42)",dark gray,cs-pathways-web-main,index
+sidebar-accent-foreground,240 4.8% 95.9%,light,sidebar accent text,"(244, 244, 245)",very light gray,cs-pathways-web-main,index
+sidebar-border,240 3.7% 15.9%,light,sidebar borders,"(39, 39, 42)",dark gray,cs-pathways-web-main,index
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue,cs-pathways-web-main,index
+background,215 30% 8%,dark,body,"(14, 19, 27)",very dark blue,cs-pathways-web-main,index
+foreground,0 0% 98%,dark,body text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+card,215 25% 12%,dark,card background,"(23, 29, 38)",dark blue,cs-pathways-web-main,index
+card-foreground,0 0% 98%,dark,card text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+popover,215 25% 12%,dark,popover background,"(23, 29, 38)",dark blue,cs-pathways-web-main,index
+popover-foreground,0 0% 98%,dark,popover text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+primary,185 85% 45%,dark,primary button background / highlights,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+primary-foreground,0 0% 100%,dark,primary button text / highlights,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+secondary,215 25% 15%,dark,secondary components / sections,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+secondary-foreground,0 0% 98%,dark,secondary text,"(250, 250, 250)",very light gray,cs-pathways-web-main,index
+muted,215 25% 15%,dark,muted backgrounds,"(29, 37, 48)",dark blue,cs-pathways-web-main,index
+muted-foreground,215 15% 65%,dark,muted text,"(152, 164, 179)",light blue,cs-pathways-web-main,index
+accent,185 85% 45%,dark,accent elements,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+accent-foreground,0 0% 100%,dark,accent text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+destructive,0 62.8% 50%,dark,destructive button background / error,"(208, 47, 47)",medium red,cs-pathways-web-main,index
+destructive-foreground,0 0% 100%,dark,destructive text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+border,215 25% 20%,dark,borders,"(38, 49, 64)",dark blue,cs-pathways-web-main,index
+input,215 25% 20%,dark,input background,"(38, 49, 64)",dark blue,cs-pathways-web-main,index
+ring,185 85% 45%,dark,focus ring / outline,"(17, 196, 212)",medium cyan,cs-pathways-web-main,index
+gradient-hero,"linear-gradient(135deg, hsl(215 75% 20%), hsl(215 65% 30%))",dark,hero section gradient,"(54, 328, 123)",light green,cs-pathways-web-main,index
+gradient-accent,"linear-gradient(135deg, hsl(185 85% 40%), hsl(195 85% 50%))",dark,Other / unspecified,"(146, 288, 181)",very light green,cs-pathways-web-main,index
+shadow-card,"0 4px 6px -1px hsl(0 0% 0% / 0.3), 0 2px 4px -1px hsl(0 0% 0% / 0.2)",dark,card shadow,"(16, 15, 15)",very dark gray,cs-pathways-web-main,index
+shadow-card-hover,"0 10px 15px -3px hsl(0 0% 0% / 0.4), 0 4px 6px -2px hsl(0 0% 0% / 0.3)",dark,Other / unspecified,"(42, 34, 34)",dark red,cs-pathways-web-main,index
+sidebar-background,240 5.9% 10%,dark,sidebar background,"(24, 24, 27)",dark gray,cs-pathways-web-main,index
+sidebar-foreground,240 4.8% 95.9%,dark,sidebar text,"(244, 244, 245)",very light gray,cs-pathways-web-main,index
+sidebar-primary,224.3 76.3% 48%,dark,sidebar primary elements,"(29, 78, 216)",medium blue,cs-pathways-web-main,index
+sidebar-primary-foreground,0 0% 100%,dark,sidebar primary text,"(255, 255, 255)",very light gray,cs-pathways-web-main,index
+sidebar-accent,240 3.7% 15.9%,dark,sidebar accent elements,"(39, 39, 42)",dark gray,cs-pathways-web-main,index
+sidebar-accent-foreground,240 4.8% 95.9%,dark,sidebar accent text,"(244, 244, 245)",very light gray,cs-pathways-web-main,index
+sidebar-border,240 3.7% 15.9%,dark,sidebar borders,"(39, 39, 42)",dark gray,cs-pathways-web-main,index
+sidebar-ring,217.2 91.2% 59.8%,dark,sidebar focus ring,"(59, 130, 246)",medium blue,cs-pathways-web-main,index
+background,0 0% 100%,light,body,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+foreground,220 15% 20%,light,body text,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+card,0 0% 100%,light,card background,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+card-foreground,220 15% 20%,light,card text,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+popover,0 0% 100%,light,popover background,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+popover-foreground,220 15% 20%,light,popover text,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+primary,217 91% 25%,light,primary button background / highlights,"(6, 50, 122)",dark blue,uni-cs-layout-main,index
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+primary-light,217 91% 40%,light,Other / unspecified,"(9, 80, 195)",medium blue,uni-cs-layout-main,index
+secondary,43 96% 56%,light,secondary components / sections,"(251, 189, 35)",medium orange,uni-cs-layout-main,index
+secondary-foreground,220 15% 20%,light,secondary text,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+muted,220 13% 95%,light,muted backgrounds,"(241, 242, 244)",very light blue,uni-cs-layout-main,index
+muted-foreground,220 9% 46%,light,muted text,"(107, 114, 128)",medium gray,uni-cs-layout-main,index
+accent,43 96% 56%,light,accent elements,"(251, 189, 35)",medium orange,uni-cs-layout-main,index
+accent-foreground,220 15% 20%,light,accent text,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+destructive,0 84% 60%,light,destructive button background / error,"(239, 67, 67)",medium red,uni-cs-layout-main,index
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+border,220 13% 91%,light,borders,"(229, 231, 235)",very light blue,uni-cs-layout-main,index
+input,220 13% 91%,light,input background,"(229, 231, 235)",very light blue,uni-cs-layout-main,index
+ring,217 91% 25%,light,focus ring / outline,"(6, 50, 122)",dark blue,uni-cs-layout-main,index
+radius,0.75rem,light,border radius,,,uni-cs-layout-main,index
+gradient-primary,"linear-gradient(135deg, hsl(217 91% 25%), hsl(217 91% 40%))",light,Other / unspecified,"(182, 282, 207)",very light green,uni-cs-layout-main,index
+gradient-hero,"linear-gradient(135deg, hsl(217 91% 25% / 0.9), hsl(217 91% 15% / 0.95))",light,hero section gradient,"(182, 282, 207)",very light green,uni-cs-layout-main,index
+shadow-card,0 4px 20px hsl(217 91% 25% / 0.08),light,card shadow,"(53, 49, 49)",dark gray,uni-cs-layout-main,index
+shadow-hover,0 8px 30px hsl(217 91% 25% / 0.15),light,Other / unspecified,"(83, 70, 70)",dark gray,uni-cs-layout-main,index
+transition-smooth,"all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",light,transition speed,"(0, 0, 0)",very dark gray,uni-cs-layout-main,index
+sidebar-background,0 0% 98%,light,sidebar background,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+sidebar-foreground,240 5.3% 26.1%,light,sidebar text,"(63, 63, 70)",dark gray,uni-cs-layout-main,index
+sidebar-primary,240 5.9% 10%,light,sidebar primary elements,"(24, 24, 27)",dark gray,uni-cs-layout-main,index
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+sidebar-accent,240 4.8% 95.9%,light,sidebar accent elements,"(244, 244, 245)",very light gray,uni-cs-layout-main,index
+sidebar-accent-foreground,240 5.9% 10%,light,sidebar accent text,"(24, 24, 27)",dark gray,uni-cs-layout-main,index
+sidebar-border,220 13% 91%,light,sidebar borders,"(229, 231, 235)",very light blue,uni-cs-layout-main,index
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue,uni-cs-layout-main,index
+background,220 15% 10%,light,body,"(22, 24, 29)",dark blue,uni-cs-layout-main,index
+foreground,0 0% 98%,light,body text,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+card,220 15% 12%,light,card background,"(26, 29, 35)",dark blue,uni-cs-layout-main,index
+card-foreground,0 0% 98%,light,card text,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+popover,220 15% 12%,light,popover background,"(26, 29, 35)",dark blue,uni-cs-layout-main,index
+popover-foreground,0 0% 98%,light,popover text,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+primary,217 91% 60%,light,primary button background / highlights,"(60, 131, 246)",medium blue,uni-cs-layout-main,index
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+secondary,43 96% 56%,light,secondary components / sections,"(251, 189, 35)",medium orange,uni-cs-layout-main,index
+secondary-foreground,220 15% 10%,light,secondary text,"(22, 24, 29)",dark blue,uni-cs-layout-main,index
+muted,220 15% 20%,light,muted backgrounds,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+muted-foreground,220 9% 65%,light,muted text,"(158, 163, 174)",light gray,uni-cs-layout-main,index
+accent,43 96% 56%,light,accent elements,"(251, 189, 35)",medium orange,uni-cs-layout-main,index
+accent-foreground,220 15% 10%,light,accent text,"(22, 24, 29)",dark blue,uni-cs-layout-main,index
+destructive,0 62.8% 50%,light,destructive button background / error,"(208, 47, 47)",medium red,uni-cs-layout-main,index
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+border,220 15% 20%,light,borders,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+input,220 15% 20%,light,input background,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+ring,217 91% 60%,light,focus ring / outline,"(60, 131, 246)",medium blue,uni-cs-layout-main,index
+gradient-hero,"linear-gradient(135deg, hsl(217 91% 15% / 0.9), hsl(217 91% 8% / 0.95))",light,hero section gradient,"(182, 282, 207)",very light green,uni-cs-layout-main,index
+sidebar-background,240 5.9% 10%,light,sidebar background,"(24, 24, 27)",dark gray,uni-cs-layout-main,index
+sidebar-foreground,240 4.8% 95.9%,light,sidebar text,"(244, 244, 245)",very light gray,uni-cs-layout-main,index
+sidebar-primary,224.3 76.3% 48%,light,sidebar primary elements,"(29, 78, 216)",medium blue,uni-cs-layout-main,index
+sidebar-primary-foreground,0 0% 100%,light,sidebar primary text,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+sidebar-accent,240 3.7% 15.9%,light,sidebar accent elements,"(39, 39, 42)",dark gray,uni-cs-layout-main,index
+sidebar-accent-foreground,240 4.8% 95.9%,light,sidebar accent text,"(244, 244, 245)",very light gray,uni-cs-layout-main,index
+sidebar-border,240 3.7% 15.9%,light,sidebar borders,"(39, 39, 42)",dark gray,uni-cs-layout-main,index
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue,uni-cs-layout-main,index
+background,220 15% 10%,dark,body,"(22, 24, 29)",dark blue,uni-cs-layout-main,index
+foreground,0 0% 98%,dark,body text,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+card,220 15% 12%,dark,card background,"(26, 29, 35)",dark blue,uni-cs-layout-main,index
+card-foreground,0 0% 98%,dark,card text,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+popover,220 15% 12%,dark,popover background,"(26, 29, 35)",dark blue,uni-cs-layout-main,index
+popover-foreground,0 0% 98%,dark,popover text,"(250, 250, 250)",very light gray,uni-cs-layout-main,index
+primary,217 91% 60%,dark,primary button background / highlights,"(60, 131, 246)",medium blue,uni-cs-layout-main,index
+primary-foreground,0 0% 100%,dark,primary button text / highlights,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+secondary,43 96% 56%,dark,secondary components / sections,"(251, 189, 35)",medium orange,uni-cs-layout-main,index
+secondary-foreground,220 15% 10%,dark,secondary text,"(22, 24, 29)",dark blue,uni-cs-layout-main,index
+muted,220 15% 20%,dark,muted backgrounds,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+muted-foreground,220 9% 65%,dark,muted text,"(158, 163, 174)",light gray,uni-cs-layout-main,index
+accent,43 96% 56%,dark,accent elements,"(251, 189, 35)",medium orange,uni-cs-layout-main,index
+accent-foreground,220 15% 10%,dark,accent text,"(22, 24, 29)",dark blue,uni-cs-layout-main,index
+destructive,0 62.8% 50%,dark,destructive button background / error,"(208, 47, 47)",medium red,uni-cs-layout-main,index
+destructive-foreground,0 0% 100%,dark,destructive text,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+border,220 15% 20%,dark,borders,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+input,220 15% 20%,dark,input background,"(43, 48, 59)",dark blue,uni-cs-layout-main,index
+ring,217 91% 60%,dark,focus ring / outline,"(60, 131, 246)",medium blue,uni-cs-layout-main,index
+gradient-hero,"linear-gradient(135deg, hsl(217 91% 15% / 0.9), hsl(217 91% 8% / 0.95))",dark,hero section gradient,"(182, 282, 207)",very light green,uni-cs-layout-main,index
+sidebar-background,240 5.9% 10%,dark,sidebar background,"(24, 24, 27)",dark gray,uni-cs-layout-main,index
+sidebar-foreground,240 4.8% 95.9%,dark,sidebar text,"(244, 244, 245)",very light gray,uni-cs-layout-main,index
+sidebar-primary,224.3 76.3% 48%,dark,sidebar primary elements,"(29, 78, 216)",medium blue,uni-cs-layout-main,index
+sidebar-primary-foreground,0 0% 100%,dark,sidebar primary text,"(255, 255, 255)",very light gray,uni-cs-layout-main,index
+sidebar-accent,240 3.7% 15.9%,dark,sidebar accent elements,"(39, 39, 42)",dark gray,uni-cs-layout-main,index
+sidebar-accent-foreground,240 4.8% 95.9%,dark,sidebar accent text,"(244, 244, 245)",very light gray,uni-cs-layout-main,index
+sidebar-border,240 3.7% 15.9%,dark,sidebar borders,"(39, 39, 42)",dark gray,uni-cs-layout-main,index
+sidebar-ring,217.2 91.2% 59.8%,dark,sidebar focus ring,"(59, 130, 246)",medium blue,uni-cs-layout-main,index
+background,0 0% 100%,light,body,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+foreground,213 27% 15%,light,body text,"(28, 37, 49)",dark blue,psy-pro-layout-main,index
+card,0 0% 100%,light,card background,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+card-foreground,213 27% 15%,light,card text,"(28, 37, 49)",dark blue,psy-pro-layout-main,index
+popover,0 0% 100%,light,popover background,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+popover-foreground,213 27% 15%,light,popover text,"(28, 37, 49)",dark blue,psy-pro-layout-main,index
+primary,186 68% 26%,light,primary button background / highlights,"(21, 102, 111)",dark cyan,psy-pro-layout-main,index
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+secondary,186 45% 92%,light,secondary components / sections,"(225, 242, 244)",very light cyan,psy-pro-layout-main,index
+secondary-foreground,186 68% 26%,light,secondary text,"(21, 102, 111)",dark cyan,psy-pro-layout-main,index
+muted,210 40% 96.1%,light,muted backgrounds,"(241, 245, 249)",very light blue,psy-pro-layout-main,index
+muted-foreground,215 16% 47%,light,muted text,"(101, 117, 139)",medium blue,psy-pro-layout-main,index
+accent,14 80% 63%,light,accent elements,"(236, 120, 85)",medium red,psy-pro-layout-main,index
+accent-foreground,0 0% 100%,light,accent text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+destructive,0 84.2% 60.2%,light,destructive button background / error,"(239, 68, 68)",medium red,psy-pro-layout-main,index
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+border,214 32% 91%,light,borders,"(225, 231, 239)",very light blue,psy-pro-layout-main,index
+input,214 32% 91%,light,input background,"(225, 231, 239)",very light blue,psy-pro-layout-main,index
+ring,186 68% 26%,light,focus ring / outline,"(21, 102, 111)",dark cyan,psy-pro-layout-main,index
+radius,0.75rem,light,border radius,,,psy-pro-layout-main,index
+gradient-hero,"linear-gradient(135deg, hsl(186 68% 26%) 0%, hsl(186 58% 36%) 100%)",light,hero section gradient,"(22, 325, 98)",light green,psy-pro-layout-main,index
+gradient-subtle,"linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(186 45% 97%) 100%)",light,Other / unspecified,"(0, 0, 0)",very dark gray,psy-pro-layout-main,index
+shadow-elegant,0 10px 40px -10px hsl(186 68% 26% / 0.2),light,Other / unspecified,"(112, 92, 92)",medium red,psy-pro-layout-main,index
+shadow-card,0 2px 8px hsl(213 27% 15% / 0.06),light,card shadow,"(21, 20, 20)",very dark gray,psy-pro-layout-main,index
+transition-smooth,"all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",light,transition speed,"(0, 0, 0)",very dark gray,psy-pro-layout-main,index
+sidebar-background,0 0% 98%,light,sidebar background,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+sidebar-foreground,240 5.3% 26.1%,light,sidebar text,"(63, 63, 70)",dark gray,psy-pro-layout-main,index
+sidebar-primary,240 5.9% 10%,light,sidebar primary elements,"(24, 24, 27)",dark gray,psy-pro-layout-main,index
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+sidebar-accent,240 4.8% 95.9%,light,sidebar accent elements,"(244, 244, 245)",very light gray,psy-pro-layout-main,index
+sidebar-accent-foreground,240 5.9% 10%,light,sidebar accent text,"(24, 24, 27)",dark gray,psy-pro-layout-main,index
+sidebar-border,220 13% 91%,light,sidebar borders,"(229, 231, 235)",very light blue,psy-pro-layout-main,index
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue,psy-pro-layout-main,index
+background,213 27% 12%,light,body,"(22, 30, 39)",dark blue,psy-pro-layout-main,index
+foreground,0 0% 98%,light,body text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+card,213 27% 15%,light,card background,"(28, 37, 49)",dark blue,psy-pro-layout-main,index
+card-foreground,0 0% 98%,light,card text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+popover,213 27% 15%,light,popover background,"(28, 37, 49)",dark blue,psy-pro-layout-main,index
+popover-foreground,0 0% 98%,light,popover text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+primary,186 58% 36%,light,primary button background / highlights,"(39, 134, 145)",medium cyan,psy-pro-layout-main,index
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+secondary,213 27% 20%,light,secondary components / sections,"(37, 50, 65)",dark blue,psy-pro-layout-main,index
+secondary-foreground,0 0% 98%,light,secondary text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+muted,213 27% 20%,light,muted backgrounds,"(37, 50, 65)",dark blue,psy-pro-layout-main,index
+muted-foreground,215 20% 65%,light,muted text,"(148, 163, 184)",light blue,psy-pro-layout-main,index
+accent,14 80% 63%,light,accent elements,"(236, 120, 85)",medium red,psy-pro-layout-main,index
+accent-foreground,0 0% 100%,light,accent text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+destructive,0 63% 31%,light,destructive button background / error,"(129, 29, 29)",dark red,psy-pro-layout-main,index
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+border,213 27% 25%,light,borders,"(47, 62, 81)",dark blue,psy-pro-layout-main,index
+input,213 27% 25%,light,input background,"(47, 62, 81)",dark blue,psy-pro-layout-main,index
+ring,186 58% 36%,light,focus ring / outline,"(39, 134, 145)",medium cyan,psy-pro-layout-main,index
+gradient-hero,"linear-gradient(135deg, hsl(186 58% 36%) 0%, hsl(186 48% 46%) 100%)",light,hero section gradient,"(-51, 347, 48)",medium green,psy-pro-layout-main,index
+gradient-subtle,"linear-gradient(180deg, hsl(213 27% 12%) 0%, hsl(213 27% 15%) 100%)",light,Other / unspecified,"(-78, 216, 216)",dark cyan,psy-pro-layout-main,index
+shadow-elegant,0 10px 40px -10px hsl(186 58% 36% / 0.3),light,Other / unspecified,"(112, 92, 92)",medium red,psy-pro-layout-main,index
+shadow-card,0 2px 8px hsl(0 0% 0% / 0.2),light,card shadow,"(21, 20, 20)",very dark gray,psy-pro-layout-main,index
+sidebar-background,240 5.9% 10%,light,sidebar background,"(24, 24, 27)",dark gray,psy-pro-layout-main,index
+sidebar-foreground,240 4.8% 95.9%,light,sidebar text,"(244, 244, 245)",very light gray,psy-pro-layout-main,index
+sidebar-primary,224.3 76.3% 48%,light,sidebar primary elements,"(29, 78, 216)",medium blue,psy-pro-layout-main,index
+sidebar-primary-foreground,0 0% 100%,light,sidebar primary text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+sidebar-accent,240 3.7% 15.9%,light,sidebar accent elements,"(39, 39, 42)",dark gray,psy-pro-layout-main,index
+sidebar-accent-foreground,240 4.8% 95.9%,light,sidebar accent text,"(244, 244, 245)",very light gray,psy-pro-layout-main,index
+sidebar-border,240 3.7% 15.9%,light,sidebar borders,"(39, 39, 42)",dark gray,psy-pro-layout-main,index
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue,psy-pro-layout-main,index
+background,213 27% 12%,dark,body,"(22, 30, 39)",dark blue,psy-pro-layout-main,index
+foreground,0 0% 98%,dark,body text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+card,213 27% 15%,dark,card background,"(28, 37, 49)",dark blue,psy-pro-layout-main,index
+card-foreground,0 0% 98%,dark,card text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+popover,213 27% 15%,dark,popover background,"(28, 37, 49)",dark blue,psy-pro-layout-main,index
+popover-foreground,0 0% 98%,dark,popover text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+primary,186 58% 36%,dark,primary button background / highlights,"(39, 134, 145)",medium cyan,psy-pro-layout-main,index
+primary-foreground,0 0% 100%,dark,primary button text / highlights,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+secondary,213 27% 20%,dark,secondary components / sections,"(37, 50, 65)",dark blue,psy-pro-layout-main,index
+secondary-foreground,0 0% 98%,dark,secondary text,"(250, 250, 250)",very light gray,psy-pro-layout-main,index
+muted,213 27% 20%,dark,muted backgrounds,"(37, 50, 65)",dark blue,psy-pro-layout-main,index
+muted-foreground,215 20% 65%,dark,muted text,"(148, 163, 184)",light blue,psy-pro-layout-main,index
+accent,14 80% 63%,dark,accent elements,"(236, 120, 85)",medium red,psy-pro-layout-main,index
+accent-foreground,0 0% 100%,dark,accent text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+destructive,0 63% 31%,dark,destructive button background / error,"(129, 29, 29)",dark red,psy-pro-layout-main,index
+destructive-foreground,0 0% 100%,dark,destructive text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+border,213 27% 25%,dark,borders,"(47, 62, 81)",dark blue,psy-pro-layout-main,index
+input,213 27% 25%,dark,input background,"(47, 62, 81)",dark blue,psy-pro-layout-main,index
+ring,186 58% 36%,dark,focus ring / outline,"(39, 134, 145)",medium cyan,psy-pro-layout-main,index
+gradient-hero,"linear-gradient(135deg, hsl(186 58% 36%) 0%, hsl(186 48% 46%) 100%)",dark,hero section gradient,"(-51, 347, 48)",medium green,psy-pro-layout-main,index
+gradient-subtle,"linear-gradient(180deg, hsl(213 27% 12%) 0%, hsl(213 27% 15%) 100%)",dark,Other / unspecified,"(-78, 216, 216)",dark cyan,psy-pro-layout-main,index
+shadow-elegant,0 10px 40px -10px hsl(186 58% 36% / 0.3),dark,Other / unspecified,"(112, 92, 92)",medium red,psy-pro-layout-main,index
+shadow-card,0 2px 8px hsl(0 0% 0% / 0.2),dark,card shadow,"(21, 20, 20)",very dark gray,psy-pro-layout-main,index
+sidebar-background,240 5.9% 10%,dark,sidebar background,"(24, 24, 27)",dark gray,psy-pro-layout-main,index
+sidebar-foreground,240 4.8% 95.9%,dark,sidebar text,"(244, 244, 245)",very light gray,psy-pro-layout-main,index
+sidebar-primary,224.3 76.3% 48%,dark,sidebar primary elements,"(29, 78, 216)",medium blue,psy-pro-layout-main,index
+sidebar-primary-foreground,0 0% 100%,dark,sidebar primary text,"(255, 255, 255)",very light gray,psy-pro-layout-main,index
+sidebar-accent,240 3.7% 15.9%,dark,sidebar accent elements,"(39, 39, 42)",dark gray,psy-pro-layout-main,index
+sidebar-accent-foreground,240 4.8% 95.9%,dark,sidebar accent text,"(244, 244, 245)",very light gray,psy-pro-layout-main,index
+sidebar-border,240 3.7% 15.9%,dark,sidebar borders,"(39, 39, 42)",dark gray,psy-pro-layout-main,index
+sidebar-ring,217.2 91.2% 59.8%,dark,sidebar focus ring,"(59, 130, 246)",medium blue,psy-pro-layout-main,index

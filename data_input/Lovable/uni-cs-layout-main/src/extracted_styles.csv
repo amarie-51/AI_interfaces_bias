@@ -1,0 +1,91 @@
+Variable,Value,Mode,Element/Use,RGB,Color Description
+background,0 0% 100%,light,body,"(255, 255, 255)",very light gray
+foreground,220 15% 20%,light,body text,"(43, 48, 59)",dark blue
+card,0 0% 100%,light,card background,"(255, 255, 255)",very light gray
+card-foreground,220 15% 20%,light,card text,"(43, 48, 59)",dark blue
+popover,0 0% 100%,light,popover background,"(255, 255, 255)",very light gray
+popover-foreground,220 15% 20%,light,popover text,"(43, 48, 59)",dark blue
+primary,217 91% 25%,light,primary button background / highlights,"(6, 50, 122)",dark blue
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray
+primary-light,217 91% 40%,light,Other / unspecified,"(9, 80, 195)",medium blue
+secondary,43 96% 56%,light,secondary components / sections,"(251, 189, 35)",medium orange
+secondary-foreground,220 15% 20%,light,secondary text,"(43, 48, 59)",dark blue
+muted,220 13% 95%,light,muted backgrounds,"(241, 242, 244)",very light blue
+muted-foreground,220 9% 46%,light,muted text,"(107, 114, 128)",medium gray
+accent,43 96% 56%,light,accent elements,"(251, 189, 35)",medium orange
+accent-foreground,220 15% 20%,light,accent text,"(43, 48, 59)",dark blue
+destructive,0 84% 60%,light,destructive button background / error,"(239, 67, 67)",medium red
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray
+border,220 13% 91%,light,borders,"(229, 231, 235)",very light blue
+input,220 13% 91%,light,input background,"(229, 231, 235)",very light blue
+ring,217 91% 25%,light,focus ring / outline,"(6, 50, 122)",dark blue
+radius,0.75rem,light,border radius,,
+gradient-primary,"linear-gradient(135deg, hsl(217 91% 25%), hsl(217 91% 40%))",light,Other / unspecified,"(182, 282, 207)",very light green
+gradient-hero,"linear-gradient(135deg, hsl(217 91% 25% / 0.9), hsl(217 91% 15% / 0.95))",light,hero section gradient,"(182, 282, 207)",very light green
+shadow-card,0 4px 20px hsl(217 91% 25% / 0.08),light,card shadow,"(53, 49, 49)",dark gray
+shadow-hover,0 8px 30px hsl(217 91% 25% / 0.15),light,Other / unspecified,"(83, 70, 70)",dark gray
+transition-smooth,"all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",light,transition speed,"(0, 0, 0)",very dark gray
+sidebar-background,0 0% 98%,light,sidebar background,"(250, 250, 250)",very light gray
+sidebar-foreground,240 5.3% 26.1%,light,sidebar text,"(63, 63, 70)",dark gray
+sidebar-primary,240 5.9% 10%,light,sidebar primary elements,"(24, 24, 27)",dark gray
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray
+sidebar-accent,240 4.8% 95.9%,light,sidebar accent elements,"(244, 244, 245)",very light gray
+sidebar-accent-foreground,240 5.9% 10%,light,sidebar accent text,"(24, 24, 27)",dark gray
+sidebar-border,220 13% 91%,light,sidebar borders,"(229, 231, 235)",very light blue
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue
+background,220 15% 10%,light,body,"(22, 24, 29)",dark blue
+foreground,0 0% 98%,light,body text,"(250, 250, 250)",very light gray
+card,220 15% 12%,light,card background,"(26, 29, 35)",dark blue
+card-foreground,0 0% 98%,light,card text,"(250, 250, 250)",very light gray
+popover,220 15% 12%,light,popover background,"(26, 29, 35)",dark blue
+popover-foreground,0 0% 98%,light,popover text,"(250, 250, 250)",very light gray
+primary,217 91% 60%,light,primary button background / highlights,"(60, 131, 246)",medium blue
+primary-foreground,0 0% 100%,light,primary button text / highlights,"(255, 255, 255)",very light gray
+secondary,43 96% 56%,light,secondary components / sections,"(251, 189, 35)",medium orange
+secondary-foreground,220 15% 10%,light,secondary text,"(22, 24, 29)",dark blue
+muted,220 15% 20%,light,muted backgrounds,"(43, 48, 59)",dark blue
+muted-foreground,220 9% 65%,light,muted text,"(158, 163, 174)",light gray
+accent,43 96% 56%,light,accent elements,"(251, 189, 35)",medium orange
+accent-foreground,220 15% 10%,light,accent text,"(22, 24, 29)",dark blue
+destructive,0 62.8% 50%,light,destructive button background / error,"(208, 47, 47)",medium red
+destructive-foreground,0 0% 100%,light,destructive text,"(255, 255, 255)",very light gray
+border,220 15% 20%,light,borders,"(43, 48, 59)",dark blue
+input,220 15% 20%,light,input background,"(43, 48, 59)",dark blue
+ring,217 91% 60%,light,focus ring / outline,"(60, 131, 246)",medium blue
+gradient-hero,"linear-gradient(135deg, hsl(217 91% 15% / 0.9), hsl(217 91% 8% / 0.95))",light,hero section gradient,"(182, 282, 207)",very light green
+sidebar-background,240 5.9% 10%,light,sidebar background,"(24, 24, 27)",dark gray
+sidebar-foreground,240 4.8% 95.9%,light,sidebar text,"(244, 244, 245)",very light gray
+sidebar-primary,224.3 76.3% 48%,light,sidebar primary elements,"(29, 78, 216)",medium blue
+sidebar-primary-foreground,0 0% 100%,light,sidebar primary text,"(255, 255, 255)",very light gray
+sidebar-accent,240 3.7% 15.9%,light,sidebar accent elements,"(39, 39, 42)",dark gray
+sidebar-accent-foreground,240 4.8% 95.9%,light,sidebar accent text,"(244, 244, 245)",very light gray
+sidebar-border,240 3.7% 15.9%,light,sidebar borders,"(39, 39, 42)",dark gray
+sidebar-ring,217.2 91.2% 59.8%,light,sidebar focus ring,"(59, 130, 246)",medium blue
+background,220 15% 10%,dark,body,"(22, 24, 29)",dark blue
+foreground,0 0% 98%,dark,body text,"(250, 250, 250)",very light gray
+card,220 15% 12%,dark,card background,"(26, 29, 35)",dark blue
+card-foreground,0 0% 98%,dark,card text,"(250, 250, 250)",very light gray
+popover,220 15% 12%,dark,popover background,"(26, 29, 35)",dark blue
+popover-foreground,0 0% 98%,dark,popover text,"(250, 250, 250)",very light gray
+primary,217 91% 60%,dark,primary button background / highlights,"(60, 131, 246)",medium blue
+primary-foreground,0 0% 100%,dark,primary button text / highlights,"(255, 255, 255)",very light gray
+secondary,43 96% 56%,dark,secondary components / sections,"(251, 189, 35)",medium orange
+secondary-foreground,220 15% 10%,dark,secondary text,"(22, 24, 29)",dark blue
+muted,220 15% 20%,dark,muted backgrounds,"(43, 48, 59)",dark blue
+muted-foreground,220 9% 65%,dark,muted text,"(158, 163, 174)",light gray
+accent,43 96% 56%,dark,accent elements,"(251, 189, 35)",medium orange
+accent-foreground,220 15% 10%,dark,accent text,"(22, 24, 29)",dark blue
+destructive,0 62.8% 50%,dark,destructive button background / error,"(208, 47, 47)",medium red
+destructive-foreground,0 0% 100%,dark,destructive text,"(255, 255, 255)",very light gray
+border,220 15% 20%,dark,borders,"(43, 48, 59)",dark blue
+input,220 15% 20%,dark,input background,"(43, 48, 59)",dark blue
+ring,217 91% 60%,dark,focus ring / outline,"(60, 131, 246)",medium blue
+gradient-hero,"linear-gradient(135deg, hsl(217 91% 15% / 0.9), hsl(217 91% 8% / 0.95))",dark,hero section gradient,"(182, 282, 207)",very light green
+sidebar-background,240 5.9% 10%,dark,sidebar background,"(24, 24, 27)",dark gray
+sidebar-foreground,240 4.8% 95.9%,dark,sidebar text,"(244, 244, 245)",very light gray
+sidebar-primary,224.3 76.3% 48%,dark,sidebar primary elements,"(29, 78, 216)",medium blue
+sidebar-primary-foreground,0 0% 100%,dark,sidebar primary text,"(255, 255, 255)",very light gray
+sidebar-accent,240 3.7% 15.9%,dark,sidebar accent elements,"(39, 39, 42)",dark gray
+sidebar-accent-foreground,240 4.8% 95.9%,dark,sidebar accent text,"(244, 244, 245)",very light gray
+sidebar-border,240 3.7% 15.9%,dark,sidebar borders,"(39, 39, 42)",dark gray
+sidebar-ring,217.2 91.2% 59.8%,dark,sidebar focus ring,"(59, 130, 246)",medium blue
