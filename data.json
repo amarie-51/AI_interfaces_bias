@@ -1,0 +1,130 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Introduction to Programming",
+      "code": "CS101",
+      "description": "Learn the fundamentals of programming using Python. This course covers basic syntax, data structures, and problem-solving techniques.",
+      "level": "Year 1",
+      "credits": 4,
+      "modules": [
+        "Variables & Data Types",
+        "Control Structures",
+        "Functions",
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Data Structures and Algorithms",
+      "code": "CS201",
+      "description": "Explore essential data structures and algorithms including arrays, linked lists, trees, graphs, sorting, and searching.",
+      "level": "Year 2",
+      "credits": 4,
+      "modules": [
+        "Arrays & Linked Lists",
+        "Trees & Graphs",
+        "Sorting Algorithms",
+        "Algorithm Analysis"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Database Management Systems",
+      "code": "CS202",
+      "description": "Study the design, implementation, and management of database systems including SQL, normalization, and transactions.",
+      "level": "Year 2",
+      "credits": 3,
+      "modules": [
+        "SQL Fundamentals",
+        "Database Design",
+        "Normalization",
+        "Transactions & Concurrency"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Web Development",
+      "code": "CS203",
+      "description": "Learn modern web development technologies including HTML, CSS, JavaScript, and popular frameworks like React.",
+      "level": "Year 2",
+      "credits": 3,
+      "modules": [
+        "HTML & CSS",
+        "JavaScript Essentials",
+        "React Framework",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Computer Networks",
+      "code": "CS301",
+      "description": "Understand the principles of computer networking including protocols, network architecture, and security.",
+      "level": "Year 3",
+      "credits": 4,
+      "modules": [
+        "Network Protocols",
+        "TCP/IP Stack",
+        "Network Security",
+        "Wireless Networks"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Software Engineering",
+      "code": "CS302",
+      "description": "Learn software development methodologies, design patterns, testing strategies, and project management.",
+      "level": "Year 3",
+      "credits": 4,
+      "modules": [
+        "Agile Methodology",
+        "Design Patterns",
+        "Testing & QA",
+        "DevOps Practices"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Artificial Intelligence",
+      "code": "CS401",
+      "description": "Explore AI concepts including machine learning, neural networks, natural language processing, and computer vision.",
+      "level": "Year 4",
+      "credits": 4,
+      "modules": [
+        "Machine Learning Basics",
+        "Neural Networks",
+        "Deep Learning",
+        "AI Applications"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Cloud Computing",
+      "code": "CS402",
+      "description": "Study cloud architecture, services, deployment models, and hands-on experience with major cloud platforms.",
+      "level": "Year 4",
+      "credits": 3,
+      "modules": [
+        "Cloud Architecture",
+        "AWS/Azure Services",
+        "Containerization",
+        "Serverless Computing"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Cybersecurity",
+      "code": "CS303",
+      "description": "Learn security principles, cryptography, ethical hacking, and strategies to protect systems and data.",
+      "level": "Year 3",
+      "credits": 3,
+      "modules": [
+        "Security Fundamentals",
+        "Cryptography",
+        "Ethical Hacking",
+        "Security Best Practices"
+      ]
+    }
+  ]
+}

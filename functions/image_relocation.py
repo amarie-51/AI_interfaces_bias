@@ -48,8 +48,3 @@ def copy_images_with_full_path(source: str, destination: str, extensions=None):
                 shutil.copy2(src_path, final_dest_path)
 
 
-# Example usage if this script is run directly:
-if __name__ == "__main__":
-    source_dir = "/Users/mariamlocka/Documents/project_AI_interfaces/websites_code"
-    dest_dir = "/Users/mariamlocka/Documents/project_AI_interfaces/website_analysis/data/images"
-    copy_images_with_full_path(source_dir, dest_dir)

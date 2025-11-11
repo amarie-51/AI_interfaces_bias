@@ -46,10 +46,24 @@ def get_project_name(file_or_folder: Path) -> str:
     parts = path.parts
 
     for i, part in enumerate(parts):
-        if part in ("Lovable", "Figma") and i + 1 < len(parts):
+        if part in ("Lovable", "Figma", "Replit") and i + 1 < len(parts):
             return parts[i + 1]  # folder right after Lovable/Figma
 
     return path.name  # fallback
+
+def get_tool_name(file_or_folder: Path) -> str:
+    """
+    Detect if the file/folder is inside a 'Lovable', 'Figma', or 'Replit' folder.
+    Returns the tool name if found, otherwise returns None.
+    """
+    path = file_or_folder.resolve()
+    parts = path.parts
+
+    for part in parts:
+        if part in ("Lovable", "Figma", "Replit"):
+            return part  # return the tool name
+
+    return None
 
 
 def text_extraction(root_path: Path) -> pd.DataFrame:
@@ -69,13 +83,13 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
             faculty_json_data = json.load(f)
 
     # Detect all .tsx files recursively
-    tsx_files = list(root_path.rglob("*.tsx"))
+    tsx_files = [f for f in root_path.rglob("*.tsx") if f.name[0].isupper()]
     if not tsx_files:
         print(f"⚠️ No .tsx files found under {root_path}")
 
     for page_file in tsx_files:
         project_name = get_project_name(page_file.relative_to(root_path))
-
+        tool_name = get_tool_name(page_file.relative_to(root_path))
         page_name = page_file.name
         for t in extract_text_from_tsx(page_file):
             content = t["content"]
@@ -85,6 +99,7 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
                 for c in replaced_contents:
                     data.append({
                         "project_name": project_name,
+                        "tool_name": tool_name,
                         "page_name": page_name,
                         "type": t["type"],
                         "content": c,
@@ -101,6 +116,7 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
                         for key, value in item.items():
                             data.append({
                                 "project_name": project_name,
+                                "tool_name": tool_name,
                                 "page_name": page_name,
                                 "type": f"{key}{idx}",
                                 "content": value,
@@ -111,6 +127,7 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
                         continue
                     data.append({
                         "project_name": project_name,
+                        "tool_name": tool_name,
                         "page_name": page_name,
                         "type": t["type"],
                         "content": content,
@@ -135,8 +152,11 @@ def style_extraction(root_path: Path) -> pd.DataFrame:
     all_styles = []
     for css_file in css_files:
         project_name = get_project_name(css_file.relative_to(root_path))
+        tool_name = get_tool_name(css_file.relative_to(root_path))
+
         df = extract_css_variables_and_fonts(css_file)
         df["project_name"] = project_name
+        df["tool_name"] = tool_name
         df["file_name"] = css_file.stem
         all_styles.append(df)
 
