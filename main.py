@@ -16,7 +16,7 @@ from typing import List, Dict, Any
 
 from functions.website_style import extract_css_variables_and_fonts
 from functions.website_text_extraction import extract_text_from_tsx, replace_faculty_placeholders, unpack_faculty_json_to_df, parse_js_object_array, ts_array_to_json
-from functions.image_relocation import copy_images_with_full_path
+from functions.image_relocation import copy_images_with_full_path_and_df
 
 # ---------- CONSTANTS ----------
 INLINE_ARRAY_REGEX = re.compile(r"\{\s*\[([^\]]+)\]\s*\}", re.DOTALL)
@@ -192,11 +192,19 @@ def style_extraction(root_path: Path) -> pd.DataFrame:
 
 def image_relocation(source_dir: Path) -> None:
     """
-    Copy all images from source to destination, preserving folder structure in filenames.
+    Copy all images from source to destination, preserve folder structure in filenames,
+    and save the generated dataframe into IMAGE_DEST_DIR as images_metadata.csv.
     """
-    copy_images_with_full_path(source_dir, IMAGE_DEST_DIR)
-     
-    print(f"✅ Images copied to {IMAGE_DEST_DIR}")
+    # Run the copying + metadata extraction
+    df = copy_images_with_full_path_and_df(source_dir, IMAGE_DEST_DIR)
+
+    # Save DataFrame inside the destination directory
+    csv_path = IMAGE_DEST_DIR / "images_metadata.csv"
+    df.to_csv(csv_path, index=False)
+
+    print(f"✅ Images copied to: {IMAGE_DEST_DIR}")
+    print(f"📄 Metadata saved to: {csv_path}")
+
 
 
 
@@ -204,8 +212,8 @@ def image_relocation(source_dir: Path) -> None:
 def main() -> None:
     PROJECT_ROOT = OUTPUT_ROOT = Path(__file__).resolve().parent / "data_input"
 
-    text_extraction(PROJECT_ROOT)
-    style_extraction(PROJECT_ROOT)
+    #text_extraction(PROJECT_ROOT)
+    #style_extraction(PROJECT_ROOT)
     image_relocation(PROJECT_ROOT)
 
 
