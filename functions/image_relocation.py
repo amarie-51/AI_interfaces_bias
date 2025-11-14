@@ -8,6 +8,8 @@ Created on Fri Nov  7 16:27:05 2025
 
 import os
 import shutil
+import pandas as pd
+
 
 def copy_images_with_full_path(source: str, destination: str, extensions=None):
     """
@@ -46,5 +48,8 @@ def copy_images_with_full_path(source: str, destination: str, extensions=None):
                     duplicate_counter += 1
                 
                 shutil.copy2(src_path, final_dest_path)
+                
+                
+
 
 

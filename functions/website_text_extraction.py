@@ -121,6 +121,12 @@ def extract_text_from_tsx(file_path: Path):
             val = re.sub(r'\s+', ' ', val.strip())
 
             # Skip non-human / technical text
+            # Skip tailwind / className values
+            if re.search(r'className\s*=\s*["\']' + re.escape(val) + r'["\']', content):
+                continue
+    
+            val = re.sub(r'\s+', ' ', val.strip())
+
             if (
                 len(val) < 3
                 or re.search(r'[@/{}<>]|\.jsx|\.jpg|\.png|\.tsx|className', val)

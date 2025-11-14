@@ -46,8 +46,8 @@ def get_project_name(file_or_folder: Path) -> str:
     parts = path.parts
 
     for i, part in enumerate(parts):
-        if part in ("Lovable", "Figma", "Replit") and i + 1 < len(parts):
-            return parts[i + 1]  # folder right after Lovable/Figma
+        if part in ("Lovable", "Figma", "Replit") and i + 2 < len(parts):
+            return parts[i + 2]  # folder right after Lovable/Figma
 
     return path.name  # fallback
 
@@ -61,6 +61,20 @@ def get_tool_name(file_or_folder: Path) -> str:
 
     for part in parts:
         if part in ("Lovable", "Figma", "Replit"):
+            return part  # return the tool name
+
+    return None
+
+def get_program_name(file_or_folder: Path) -> str:
+    """
+    Detect if the file/folder is inside a 'computer_science', 'psychology', or 'nursing' folder.
+    Returns the tool name if found, otherwise returns None.
+    """
+    path = file_or_folder.resolve()
+    parts = path.parts
+
+    for part in parts:
+        if part in ("nursing", "computer_science", "psychology"):
             return part  # return the tool name
 
     return None
@@ -91,6 +105,8 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
         project_name = get_project_name(page_file.relative_to(root_path))
         tool_name = get_tool_name(page_file.relative_to(root_path))
         page_name = page_file.name
+        program_name = get_program_name(page_file.relative_to(root_path))
+        
         for t in extract_text_from_tsx(page_file):
             content = t["content"]
 
@@ -100,6 +116,7 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
                     data.append({
                         "project_name": project_name,
                         "tool_name": tool_name,
+                        "program_name": program_name,
                         "page_name": page_name,
                         "type": t["type"],
                         "content": c,
@@ -117,6 +134,7 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
                             data.append({
                                 "project_name": project_name,
                                 "tool_name": tool_name,
+                                "program_name": program_name,
                                 "page_name": page_name,
                                 "type": f"{key}{idx}",
                                 "content": value,
@@ -129,6 +147,7 @@ def text_extraction(root_path: Path) -> pd.DataFrame:
                         "project_name": project_name,
                         "tool_name": tool_name,
                         "page_name": page_name,
+                        "program_name": program_name,
                         "type": t["type"],
                         "content": content,
                         "source": "page JSX"
@@ -153,11 +172,13 @@ def style_extraction(root_path: Path) -> pd.DataFrame:
     for css_file in css_files:
         project_name = get_project_name(css_file.relative_to(root_path))
         tool_name = get_tool_name(css_file.relative_to(root_path))
+        program_name = get_program_name(css_file.relative_to(root_path))
 
         df = extract_css_variables_and_fonts(css_file)
         df["project_name"] = project_name
         df["tool_name"] = tool_name
         df["file_name"] = css_file.stem
+        df["program_name"] = program_name
         all_styles.append(df)
 
     df_styles = pd.concat(all_styles, ignore_index=True)
@@ -174,7 +195,9 @@ def image_relocation(source_dir: Path) -> None:
     Copy all images from source to destination, preserving folder structure in filenames.
     """
     copy_images_with_full_path(source_dir, IMAGE_DEST_DIR)
+     
     print(f"✅ Images copied to {IMAGE_DEST_DIR}")
+
 
 
 # ---------- MAIN ----------
@@ -184,7 +207,6 @@ def main() -> None:
     text_extraction(PROJECT_ROOT)
     style_extraction(PROJECT_ROOT)
     image_relocation(PROJECT_ROOT)
-    #image_relocation(IMAGE_DEST_DIR)
 
 
 if __name__ == "__main__":
