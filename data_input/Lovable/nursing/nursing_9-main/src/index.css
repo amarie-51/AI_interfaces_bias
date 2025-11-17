@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 210 20% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 210 20% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 20% 15%;
+
+    /* Medical blue - trustworthy, professional */
+    --primary: 201 89% 48%;
+    --primary-foreground: 0 0% 100%;
+    --primary-light: 201 89% 65%;
+    --primary-dark: 201 89% 35%;
+
+    /* Warm coral - caring, compassionate */
+    --secondary: 12 76% 61%;
+    --secondary-foreground: 0 0% 100%;
+
+    /* Soft backgrounds */
+    --muted: 210 40% 96%;
+    --muted-foreground: 210 15% 45%;
+
+    --accent: 201 89% 95%;
+    --accent-foreground: 201 89% 25%;
+
+    /* Success green for CTAs */
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 210 25% 88%;
+    --input: 210 25% 88%;
+    --ring: 201 89% 48%;
+
+    --radius: 0.75rem;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(201 89% 48%), hsl(201 89% 65%));
+    --gradient-hero: linear-gradient(135deg, hsl(201 89% 48% / 0.95), hsl(201 89% 35% / 0.95));
+    
+    /* Shadows */
+    --shadow-soft: 0 2px 8px hsl(210 20% 15% / 0.08);
+    --shadow-medium: 0 4px 16px hsl(210 20% 15% / 0.12);
+    --shadow-large: 0 8px 32px hsl(210 20% 15% / 0.16);
+  }
+
+  .dark {
+    --background: 210 25% 8%;
+    --foreground: 210 20% 95%;
+
+    --card: 210 25% 12%;
+    --card-foreground: 210 20% 95%;
+
+    --popover: 210 25% 12%;
+    --popover-foreground: 210 20% 95%;
+
+    --primary: 201 89% 55%;
+    --primary-foreground: 210 25% 8%;
+
+    --secondary: 12 76% 55%;
+    --secondary-foreground: 210 25% 8%;
+
+    --muted: 210 25% 15%;
+    --muted-foreground: 210 15% 60%;
+
+    --accent: 201 89% 20%;
+    --accent-foreground: 201 89% 85%;
+
+    --success: 142 76% 45%;
+    --success-foreground: 210 25% 8%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 20% 95%;
+
+    --border: 210 25% 20%;
+    --input: 210 25% 20%;
+    --ring: 201 89% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
