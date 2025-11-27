@@ -4960,6 +4960,420 @@ cs_2-main,Lovable,About.tsx,computer_science,text,Active student organizations a
 cs_2-main,Lovable,About.tsx,computer_science,text,Research opportunities with faculty members,page JSX
 cs_2-main,Lovable,About.tsx,computer_science,text,Students studying,page JSX
 cs_2-main,Lovable,About.tsx,computer_science,text,Campus building,page JSX
+nursing29,Replit,Footer.tsx,nursing,inline_text,BSN,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Nursing Program,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Bachelor of Science,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,"Preparing the next generation of compassionate, skilled nurses through excellence in education and
+              clinical practice.",page JSX
+nursing29,Replit,Footer.tsx,nursing,sub_sub_title,Quick Links,page JSX
+nursing29,Replit,Footer.tsx,nursing,sub_sub_title,Contact Info,page JSX
+nursing29,Replit,Footer.tsx,nursing,link_text,(555) 123-4567,page JSX
+nursing29,Replit,Footer.tsx,nursing,link_text,nursing@university.edu,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,© 2024 University Nursing Program. All rights reserved.,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Accredited by CCNE | WCAG AA Compliant,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Home,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,About Program,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Faculty,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Admissions,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Contact,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Facebook,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Twitter,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,Instagram,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,LinkedIn,page JSX
+nursing29,Replit,Footer.tsx,nursing,text,tel:+15551234567,page JSX
+nursing29,Replit,Navigation.tsx,nursing,inline_text,BSN,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Nursing Program,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Bachelor of Science,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Apply Now,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Home,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,About Program,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Faculty,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Admissions,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Contact,page JSX
+nursing29,Replit,Navigation.tsx,nursing,text,Toggle menu,page JSX
+nursing29,Replit,Home.tsx,nursing,text,CCNE Accredited Program,page JSX
+nursing29,Replit,Home.tsx,nursing,text,"Transform your passion for healthcare into a rewarding career. Join our comprehensive BSN program and
+            become the nurse you've always dreamed of being.",page JSX
+nursing29,Replit,Home.tsx,nursing,text,Apply Now,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Learn More,page JSX
+nursing29,Replit,Home.tsx,nursing,sub_title,Why Choose Our Program,page JSX
+nursing29,Replit,Home.tsx,nursing,text,"Our BSN program combines rigorous academic preparation with extensive clinical training to develop
+              compassionate, competent nursing professionals.",page JSX
+nursing29,Replit,Home.tsx,nursing,sub_title,Student Success Stories,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Hear from our graduates about their transformative experiences in our nursing program.,page JSX
+nursing29,Replit,Home.tsx,nursing,sub_title,Ready to Start Your Nursing Journey?,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Join our community of dedicated nursing students and begin your path to a meaningful healthcare career.,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Apply Today,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Accredited Program,page JSX
+nursing29,Replit,Home.tsx,nursing,text,CCNE-accredited BSN program with a 98% NCLEX-RN pass rate,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Expert Faculty,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Learn from experienced nurses and healthcare professionals,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Clinical Excellence,page JSX
+nursing29,Replit,Home.tsx,nursing,text,800+ hours of hands-on clinical experience in top healthcare facilities,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Career Support,page JSX
+nursing29,Replit,Home.tsx,nursing,text,95% job placement rate within 6 months of graduation,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Modern Facilities,page JSX
+nursing29,Replit,Home.tsx,nursing,text,State-of-the-art simulation labs and clinical training centers,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Flexible Options,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Full-time and part-time study options to fit your schedule,page JSX
+nursing29,Replit,Home.tsx,nursing,text,This program transformed my passion for helping others into a fulfilling career. The hands-on clinical experience and supportive faculty prepared me for success.,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Sarah Chen,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Class of 2024,page JSX
+nursing29,Replit,Home.tsx,nursing,text,The simulation labs and real-world clinical rotations gave me the confidence I needed to excel. I felt prepared from day one in my nursing career.,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Michael Rodriguez,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Class of 2023,page JSX
+nursing29,Replit,Home.tsx,nursing,text,I appreciated the program's focus on both technical skills and compassionate care. The faculty truly care about student success and patient outcomes.,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Emily Johnson,page JSX
+nursing29,Replit,Home.tsx,nursing,text,Nursing students in clinical simulation lab,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Get in Touch,page JSX
+nursing29,Replit,Contact.tsx,nursing,title,Contact Us,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,"Have questions about our nursing program? We're here to help. Reach out to us and we'll get back to
+                you as soon as possible.",page JSX
+nursing29,Replit,Contact.tsx,nursing,sub_title,Send Us a Message,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Your Name,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Your Email,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Message,page JSX
+nursing29,Replit,Contact.tsx,nursing,sub_title,Contact Information,page JSX
+nursing29,Replit,Contact.tsx,nursing,sub_sub_title,Office Hours,page JSX
+nursing29,Replit,Contact.tsx,nursing,sub_sub_title,Follow Us,page JSX
+nursing29,Replit,Contact.tsx,nursing,sub_title,Visit Our Campus,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Interactive Campus Map,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,"1234 University Avenue, City, State 12345",page JSX
+nursing29,Replit,Contact.tsx,nursing,text,", email:",page JSX
+nursing29,Replit,Contact.tsx,nursing,text,", message:",page JSX
+nursing29,Replit,Contact.tsx,nursing,text,", description:",page JSX
+nursing29,Replit,Contact.tsx,nursing,text,John Doe,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Tell us how we can help you...,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Sending...,page JSX
+nursing29,Replit,Contact.tsx,nursing,text,Send Message,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Our Team,page JSX
+nursing29,Replit,Faculty.tsx,nursing,title,Meet Our Faculty,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"Learn from experienced nursing professionals who are dedicated to your success. Our faculty bring
+                decades of combined clinical experience and academic excellence to guide your education.",page JSX
+nursing29,Replit,Faculty.tsx,nursing,sub_title,Join a Community of Excellence,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"Our faculty are not just educators—they're mentors, researchers, and practicing clinicians who are
+              passionate about nursing and dedicated to your success. With an average of 15+ years of experience,
+              they bring real-world insights into every classroom and clinical setting.",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Patricia Martinez,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Program Director & Professor,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"PhD, RN, CNE",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Martinez has over 25 years of experience in nursing education and clinical practice. She specializes in medical-surgical nursing and curriculum development. Her research focuses on innovative teaching strategies and student success in nursing programs.,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. James Chen,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Associate Professor,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"DNP, RN, FNP-BC",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Chen is a board-certified family nurse practitioner with expertise in primary care and community health. He brings extensive clinical experience to the classroom and mentors students in advanced practice nursing pathways.,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Sarah Williams,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Assistant Professor,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"PhD, RN, CCRN",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Williams is a critical care nursing specialist with 15 years of ICU experience. She teaches advanced medical-surgical nursing and clinical skills courses. Her research examines critical care outcomes and evidence-based practice implementation.,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Michael Thompson,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Department Chair & Professor,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"PhD, RN, NEA-BC",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Thompson leads the nursing department with a focus on academic excellence and innovation. He has published extensively on nursing leadership and healthcare quality improvement. His passion is developing future nurse leaders.,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Linda Garcia,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"DNP, RN, CNM",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"Dr. Garcia is a certified nurse-midwife who teaches maternal-child nursing courses. She has delivered over 2,000 babies during her clinical career and now focuses on educating the next generation of maternal health nurses.",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Robert Anderson,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"PhD, RN, PMHNP-BC",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Anderson specializes in mental health nursing and psychiatric care. He teaches mental health nursing courses and supervises clinical rotations in psychiatric settings. His research explores mental health stigma and treatment access.,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Jennifer Lee,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"PhD, RN, PNP-BC",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Lee is a pediatric nurse practitioner with expertise in child health and development. She coordinates the pediatric nursing curriculum and maintains an active clinical practice at a children's hospital.,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. David Brown,page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,"DNP, RN, ACNP-BC",page JSX
+nursing29,Replit,Faculty.tsx,nursing,text,Dr. Brown is an acute care nurse practitioner who teaches advanced pathophysiology and pharmacology. He brings real-world clinical expertise from his work in emergency medicine and teaches students to think critically in high-pressure situations.,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Join Us,page JSX
+nursing29,Replit,Admissions.tsx,nursing,title,Admissions,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,"Start your journey to becoming a registered nurse. Learn about our admission requirements,
+                application process, and important deadlines.",page JSX
+nursing29,Replit,Admissions.tsx,nursing,sub_title,Admission Requirements,page JSX
+nursing29,Replit,Admissions.tsx,nursing,sub_title,Application Deadlines,page JSX
+nursing29,Replit,Admissions.tsx,nursing,inline_text,Priority Deadline,page JSX
+nursing29,Replit,Admissions.tsx,nursing,inline_text,Regular Deadline,page JSX
+nursing29,Replit,Admissions.tsx,nursing,inline_text,Notification Date,page JSX
+nursing29,Replit,Admissions.tsx,nursing,sub_title,Application Process,page JSX
+nursing29,Replit,Admissions.tsx,nursing,sub_title,Ready to Apply?,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,"Take the first step towards your nursing career. Submit your application today and join our community
+              of future healthcare leaders.",page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Application Form,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Please fill out the form below to start your application. We'll contact you within 2-3 business days.,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Full Name,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Email Address,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Phone Number,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Program Interest,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,BSN - Traditional (4 years),page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,BSN - Accelerated (18 months),page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,RN to BSN,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Preferred Start Date,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Fall 2025,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Spring 2026,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Fall 2026,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,", email:",page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,", phone:",page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,", programInterest:",page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,", startDate:",page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,", description:",page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,John Doe,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,programInterest,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Select program,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,startDate,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Select start date,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Submitting...,page JSX
+nursing29,Replit,Admissions.tsx,nursing,text,Submit Application,page JSX
+nursing29,Replit,About.tsx,nursing,text,BSN Program,page JSX
+nursing29,Replit,About.tsx,nursing,title,About Our Nursing Program,page JSX
+nursing29,Replit,About.tsx,nursing,text,"Our Bachelor of Science in Nursing program prepares students to become competent, compassionate
+                healthcare professionals through comprehensive education and extensive clinical experience.",page JSX
+nursing29,Replit,About.tsx,nursing,sub_title,Program Overview,page JSX
+nursing29,Replit,About.tsx,nursing,sub_sub_title,Comprehensive Nursing Education,page JSX
+nursing29,Replit,About.tsx,nursing,text,"Our BSN program integrates theoretical knowledge with practical clinical skills to prepare you
+                    for the complexities of modern healthcare. Through a blend of classroom learning, simulation
+                    experiences, and supervised clinical rotations, you'll develop the competencies needed to
+                    provide safe, effective patient care.",page JSX
+nursing29,Replit,About.tsx,nursing,text,"The curriculum is designed to foster critical thinking, clinical reasoning, and
+                    evidence-based practice while emphasizing the importance of compassionate, patient-centered
+                    care. You'll learn from experienced faculty who are leaders in nursing education and
+                    practice.",page JSX
+nursing29,Replit,About.tsx,nursing,sub_title,Learning Outcomes,page JSX
+nursing29,Replit,About.tsx,nursing,text,"Upon graduation, BSN students will be able to:",page JSX
+nursing29,Replit,About.tsx,nursing,sub_title,Curriculum by Year,page JSX
+nursing29,Replit,About.tsx,nursing,text,"Our carefully designed curriculum builds your nursing knowledge and skills progressively over four
+              years.",page JSX
+nursing29,Replit,About.tsx,nursing,sub_title,Career Opportunities,page JSX
+nursing29,Replit,About.tsx,nursing,text,A BSN degree opens doors to diverse and rewarding career paths in healthcare:,page JSX
+nursing29,Replit,About.tsx,nursing,sub_title,Why Choose Our Program,page JSX
+nursing29,Replit,About.tsx,nursing,text,Duration,page JSX
+nursing29,Replit,About.tsx,nursing,text,4 years (8 semesters),page JSX
+nursing29,Replit,About.tsx,nursing,text,Degree Awarded,page JSX
+nursing29,Replit,About.tsx,nursing,text,Bachelor of Science in Nursing (BSN),page JSX
+nursing29,Replit,About.tsx,nursing,text,Total Credits,page JSX
+nursing29,Replit,About.tsx,nursing,text,Clinical Hours,page JSX
+nursing29,Replit,About.tsx,nursing,text,800+ hours,page JSX
+nursing29,Replit,About.tsx,nursing,text,Study Mode,page JSX
+nursing29,Replit,About.tsx,nursing,text,Full-time & Part-time options,page JSX
+nursing29,Replit,About.tsx,nursing,text,Accreditation,page JSX
+nursing29,Replit,About.tsx,nursing,text,CCNE Accredited,page JSX
+nursing29,Replit,About.tsx,nursing,text,"Provide safe, patient-centered care across diverse healthcare settings",page JSX
+nursing29,Replit,About.tsx,nursing,text,Apply evidence-based practice and clinical reasoning to nursing decisions,page JSX
+nursing29,Replit,About.tsx,nursing,text,"Communicate effectively with patients, families, and healthcare teams",page JSX
+nursing29,Replit,About.tsx,nursing,text,"Demonstrate professional integrity, accountability, and ethical practice",page JSX
+nursing29,Replit,About.tsx,nursing,text,Lead quality improvement initiatives and promote health equity,page JSX
+nursing29,Replit,About.tsx,nursing,text,Integrate informatics and technology to enhance patient care,page JSX
+nursing29,Replit,About.tsx,nursing,text,Year 1: Foundation Sciences,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 101,page JSX
+nursing29,Replit,About.tsx,nursing,text,Introduction to Professional Nursing,page JSX
+nursing29,Replit,About.tsx,nursing,text,BIOL 201,page JSX
+nursing29,Replit,About.tsx,nursing,text,Anatomy & Physiology I,page JSX
+nursing29,Replit,About.tsx,nursing,text,BIOL 202,page JSX
+nursing29,Replit,About.tsx,nursing,text,Anatomy & Physiology II,page JSX
+nursing29,Replit,About.tsx,nursing,text,CHEM 101,page JSX
+nursing29,Replit,About.tsx,nursing,text,General Chemistry,page JSX
+nursing29,Replit,About.tsx,nursing,text,PSYC 101,page JSX
+nursing29,Replit,About.tsx,nursing,text,Introduction to Psychology,page JSX
+nursing29,Replit,About.tsx,nursing,text,ENG 101,page JSX
+nursing29,Replit,About.tsx,nursing,text,College Writing,page JSX
+nursing29,Replit,About.tsx,nursing,text,Year 2: Core Nursing Concepts,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 201,page JSX
+nursing29,Replit,About.tsx,nursing,text,Health Assessment,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 202,page JSX
+nursing29,Replit,About.tsx,nursing,text,Pharmacology for Nurses,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 210,page JSX
+nursing29,Replit,About.tsx,nursing,text,Fundamentals of Nursing Practice,page JSX
+nursing29,Replit,About.tsx,nursing,text,MICR 301,page JSX
+nursing29,Replit,About.tsx,nursing,text,Microbiology,page JSX
+nursing29,Replit,About.tsx,nursing,text,NUTR 201,page JSX
+nursing29,Replit,About.tsx,nursing,text,Nutrition for Healthcare,page JSX
+nursing29,Replit,About.tsx,nursing,text,STAT 201,page JSX
+nursing29,Replit,About.tsx,nursing,text,Statistics for Health Sciences,page JSX
+nursing29,Replit,About.tsx,nursing,text,Year 3: Advanced Clinical Practice,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 301,page JSX
+nursing29,Replit,About.tsx,nursing,text,Medical-Surgical Nursing I,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 302,page JSX
+nursing29,Replit,About.tsx,nursing,text,Medical-Surgical Nursing II,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 310,page JSX
+nursing29,Replit,About.tsx,nursing,text,Maternal-Child Nursing,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 315,page JSX
+nursing29,Replit,About.tsx,nursing,text,Mental Health Nursing,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 320,page JSX
+nursing29,Replit,About.tsx,nursing,text,Nursing Research & Evidence-Based Practice,page JSX
+nursing29,Replit,About.tsx,nursing,text,Year 4: Leadership & Integration,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 401,page JSX
+nursing29,Replit,About.tsx,nursing,text,Community & Public Health Nursing,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 402,page JSX
+nursing29,Replit,About.tsx,nursing,text,Nursing Leadership & Management,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 410,page JSX
+nursing29,Replit,About.tsx,nursing,text,Complex Care Nursing,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 495,page JSX
+nursing29,Replit,About.tsx,nursing,text,Senior Capstone & Preceptorship,page JSX
+nursing29,Replit,About.tsx,nursing,text,NURS 499,page JSX
+nursing29,Replit,About.tsx,nursing,text,NCLEX-RN Preparation,page JSX
+nursing29,Replit,About.tsx,nursing,text,Registered Nurse in hospitals and medical centers,page JSX
+nursing29,Replit,About.tsx,nursing,text,Pediatric or neonatal intensive care nurse,page JSX
+nursing29,Replit,About.tsx,nursing,text,Emergency department or trauma nurse,page JSX
+nursing29,Replit,About.tsx,nursing,text,Operating room or surgical nurse,page JSX
+nursing29,Replit,About.tsx,nursing,text,Community health and public health nurse,page JSX
+nursing29,Replit,About.tsx,nursing,text,School nurse or occupational health nurse,page JSX
+nursing29,Replit,About.tsx,nursing,text,Nurse educator or clinical instructor,page JSX
+nursing29,Replit,About.tsx,nursing,text,"Graduate study in advanced practice nursing (MSN, DNP)",page JSX
+nursing29,Replit,About.tsx,nursing,text,Outstanding Reputation,page JSX
+nursing29,Replit,About.tsx,nursing,text,Consistently ranked among the top nursing programs in the region with CCNE accreditation,page JSX
+nursing29,Replit,About.tsx,nursing,text,Small Class Sizes,page JSX
+nursing29,Replit,About.tsx,nursing,text,High Success Rates,page JSX
+nursing29,Replit,About.tsx,nursing,text,98% NCLEX-RN pass rate and 95% job placement within 6 months,page JSX
+nursing29,Replit,About.tsx,nursing,text,Clinical Partnerships,page JSX
+nursing29,Replit,About.tsx,nursing,text,Partnerships with leading hospitals and healthcare systems for exceptional clinical training,page JSX
+nursing29,Replit,About.tsx,nursing,text,Students learning in modern classroom,page JSX
+nursing29,Replit,About.tsx,nursing,text,Students practicing in skills lab,page JSX
+nursing27,Replit,Footer.tsx,nursing,inline_text,N,page JSX
+nursing27,Replit,Footer.tsx,nursing,inline_text,BSN Program,page JSX
+nursing27,Replit,Footer.tsx,nursing,inline_text,School of Nursing,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,"Preparing compassionate, skilled nurses to transform healthcare and improve lives in our communities.",page JSX
+nursing27,Replit,Footer.tsx,nursing,sub_sub_title,Program,page JSX
+nursing27,Replit,Footer.tsx,nursing,sub_sub_title,Admissions,page JSX
+nursing27,Replit,Footer.tsx,nursing,sub_sub_title,Contact Us,page JSX
+nursing27,Replit,Footer.tsx,nursing,link_text,(555) 123-4567,page JSX
+nursing27,Replit,Footer.tsx,nursing,link_text,nursing@university.edu,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,About Program,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Faculty,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Curriculum,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Career Outcomes,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Requirements,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Application Process,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Deadlines,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Apply Now,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Student Resources,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Clinical Sites,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Financial Aid,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Campus Life,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Facebook,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Twitter,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,Instagram,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,LinkedIn,page JSX
+nursing27,Replit,Footer.tsx,nursing,text,tel:+15551234567,page JSX
+nursing27,Replit,Navigation.tsx,nursing,inline_text,N,page JSX
+nursing27,Replit,Navigation.tsx,nursing,inline_text,BSN Program,page JSX
+nursing27,Replit,Navigation.tsx,nursing,inline_text,School of Nursing,page JSX
+nursing27,Replit,Navigation.tsx,nursing,button_text,Apply Now,page JSX
+nursing27,Replit,Navigation.tsx,nursing,text,Home,page JSX
+nursing27,Replit,Navigation.tsx,nursing,text,About Program,page JSX
+nursing27,Replit,Navigation.tsx,nursing,text,Faculty,page JSX
+nursing27,Replit,Navigation.tsx,nursing,text,Admissions,page JSX
+nursing27,Replit,Navigation.tsx,nursing,text,Contact,page JSX
+nursing27,Replit,Home.tsx,nursing,text,"Join our CCNE-accredited Bachelor of Science in Nursing program and prepare for a rewarding career in healthcare with expert faculty, cutting-edge facilities, and exceptional clinical experiences.",page JSX
+nursing27,Replit,Home.tsx,nursing,button_text,Learn More About Program,page JSX
+nursing27,Replit,Home.tsx,nursing,sub_title,Why Choose Our BSN Program?,page JSX
+nursing27,Replit,Home.tsx,nursing,text,"Our comprehensive program combines rigorous academics, hands-on clinical experience, and compassionate mentorship to prepare you for a successful nursing career.",page JSX
+nursing27,Replit,Home.tsx,nursing,sub_title,Student Success Stories,page JSX
+nursing27,Replit,Home.tsx,nursing,text,Hear from our students about their transformative experiences in the BSN program.,page JSX
+nursing27,Replit,Home.tsx,nursing,sub_title,Ready to Begin Your Nursing Journey?,page JSX
+nursing27,Replit,Home.tsx,nursing,text,Take the first step toward a rewarding career in healthcare. Our admissions team is here to guide you through the application process.,page JSX
+nursing27,Replit,Home.tsx,nursing,button_text,Apply Now,page JSX
+nursing27,Replit,Home.tsx,nursing,button_text,Contact Admissions,page JSX
+nursing27,Replit,Home.tsx,nursing,text,Nursing students in clinical training,page JSX
+nursing27,Replit,Contact.tsx,nursing,title,Contact Us,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Have questions about our BSN program? We're here to help. Reach out to our admissions team.,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_title,Send Us a Message,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_sub_title,Thank You!,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Your message has been sent successfully. We'll get back to you within 24-48 hours.,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Full Name,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Email Address,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Phone Number (Optional),page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Message,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_title,Contact Information,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_sub_title,Visit Us,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_sub_title,Call Us,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Main Office:,page JSX
+nursing27,Replit,Contact.tsx,nursing,link_text,(555) 123-4567,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Admissions Office:,page JSX
+nursing27,Replit,Contact.tsx,nursing,link_text,(555) 123-4568,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_sub_title,Email Us,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,General Inquiries:,page JSX
+nursing27,Replit,Contact.tsx,nursing,link_text,nursing@university.edu,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Admissions:,page JSX
+nursing27,Replit,Contact.tsx,nursing,link_text,admissions@university.edu,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_sub_title,Connect With Us,page JSX
+nursing27,Replit,Contact.tsx,nursing,sub_sub_title,Office Hours,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Monday - Friday: 8:00 AM - 5:00 PM,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Saturday: 9:00 AM - 1:00 PM,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Sunday: Closed,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Facebook,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Twitter,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Instagram,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,LinkedIn,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,", email:",page JSX
+nursing27,Replit,Contact.tsx,nursing,text,", phone:",page JSX
+nursing27,Replit,Contact.tsx,nursing,text,", message:",page JSX
+nursing27,Replit,Contact.tsx,nursing,text,", description:",page JSX
+nursing27,Replit,Contact.tsx,nursing,text,Send Message,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,tel:+15551234567,page JSX
+nursing27,Replit,Contact.tsx,nursing,text,tel:+15551234568,page JSX
+nursing27,Replit,Faculty.tsx,nursing,title,Our Faculty,page JSX
+nursing27,Replit,Faculty.tsx,nursing,text,"Learn from experienced nurse educators, practitioners, and scholars who are committed to your success",page JSX
+nursing27,Replit,Faculty.tsx,nursing,sub_title,Expert Educators & Practitioners,page JSX
+nursing27,Replit,Faculty.tsx,nursing,text,Our faculty members bring a wealth of clinical experience and academic expertise to the classroom. They are dedicated to mentoring the next generation of nurses while maintaining active roles in healthcare practice and research.,page JSX
+nursing27,Replit,Faculty.tsx,nursing,sub_title,Join a Community of Excellence,page JSX
+nursing27,Replit,Faculty.tsx,nursing,text,"Our faculty are here to support you every step of the way. From your first day in the program to your graduation and beyond, you'll benefit from personalized mentorship, expert guidance, and a commitment to your professional development.",page JSX
+nursing27,Replit,Admissions.tsx,nursing,title,Admissions,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Begin your journey to becoming a registered nurse. We're here to guide you through every step of the application process.,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Request Application Information,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Fill out this form and our admissions team will contact you with detailed application instructions.,page JSX
+nursing27,Replit,Admissions.tsx,nursing,sub_sub_title,Thank You!,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,We'll be in touch with you shortly.,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,First Name,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Last Name,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Email,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Phone,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Intended Start Term,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Questions or Comments (Optional),page JSX
+nursing27,Replit,Admissions.tsx,nursing,button_text,Submit Request,page JSX
+nursing27,Replit,Admissions.tsx,nursing,sub_title,Admission Requirements,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,"To be considered for admission to the BSN program, applicants must meet the following requirements:",page JSX
+nursing27,Replit,Admissions.tsx,nursing,sub_title,Application Deadlines,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Plan ahead and submit your application by these important dates:,page JSX
+nursing27,Replit,Admissions.tsx,nursing,sub_title,Application Process,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Follow these steps to complete your application to the BSN program:,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,)},page JSX
+nursing27,Replit,Admissions.tsx,nursing,sub_title,Ready to Apply?,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Have questions about the application process? Our admissions team is here to help.,page JSX
+nursing27,Replit,Admissions.tsx,nursing,button_text,Start Your Application,page JSX
+nursing27,Replit,Admissions.tsx,nursing,button_text,Contact Admissions,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,First name is required,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Last name is required,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Please enter a valid email,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Please enter a valid phone number,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,Please select a start term,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,", lastName:",page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,", email:",page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,", phone:",page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,", intendedStartTerm:",page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,", message:",page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,data-testid=,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,id=,page JSX
+nursing27,Replit,Admissions.tsx,nursing,text,variant=,page JSX
+nursing27,Replit,About.tsx,nursing,title,Bachelor of Science in Nursing,page JSX
+nursing27,Replit,About.tsx,nursing,text,"A comprehensive program designed to prepare compassionate, competent nurses",page JSX
+nursing27,Replit,About.tsx,nursing,sub_title,About the Program,page JSX
+nursing27,Replit,About.tsx,nursing,text,"Our Bachelor of Science in Nursing (BSN) program is designed to prepare you for a dynamic and rewarding career in healthcare. Accredited by the Commission on Collegiate Nursing Education (CCNE), our program combines rigorous academic coursework with extensive hands-on clinical experience to develop skilled, compassionate nurses.",page JSX
+nursing27,Replit,About.tsx,nursing,text,"You'll learn from experienced faculty who are leaders in nursing practice, education, and research. Our state-of-the-art simulation labs provide realistic training environments where you can practice essential skills before working with real patients. Throughout the program, you'll complete over 800 hours of clinical practice in diverse healthcare settings, preparing you for the complexities of modern nursing.",page JSX
+nursing27,Replit,About.tsx,nursing,text,"We emphasize evidence-based practice, critical thinking, cultural competence, and interprofessional collaboration. Our graduates are well-prepared to pass the NCLEX-RN examination and enter the workforce as competent, professional registered nurses who make a positive impact on patient care and healthcare systems.",page JSX
+nursing27,Replit,About.tsx,nursing,sub_title,Program at a Glance,page JSX
+nursing27,Replit,About.tsx,nursing,sub_title,Learning Outcomes,page JSX
+nursing27,Replit,About.tsx,nursing,text,"Upon completing the BSN program, graduates will be able to:",page JSX
+nursing27,Replit,About.tsx,nursing,sub_title,Curriculum,page JSX
+nursing27,Replit,About.tsx,nursing,text,Our four-year curriculum progressively builds your knowledge and skills from foundational sciences to advanced nursing practice.,page JSX
+nursing27,Replit,About.tsx,nursing,inline_text,•,page JSX
+nursing27,Replit,About.tsx,nursing,sub_title,Career Opportunities,page JSX
+nursing27,Replit,About.tsx,nursing,text,"With a BSN degree, you'll be prepared for diverse career paths in healthcare settings across the nation.",page JSX
+nursing27,Replit,About.tsx,nursing,sub_title,Why Choose Our Program?,page JSX
+nursing27,Replit,About.tsx,nursing,sub_sub_title,State-of-the-Art Facilities,page JSX
+nursing27,Replit,About.tsx,nursing,text,"Our advanced simulation labs feature high-fidelity mannequins and realistic clinical scenarios, allowing you to practice essential skills in a safe, controlled environment before entering actual clinical settings.",page JSX
+nursing27,Replit,About.tsx,nursing,sub_sub_title,Expert Faculty Mentorship,page JSX
+nursing27,Replit,About.tsx,nursing,text,Learn from experienced nurses and scholars who bring real-world expertise to the classroom. Our faculty maintain active clinical practices and stay current with the latest developments in healthcare.,page JSX
+nursing27,Replit,About.tsx,nursing,sub_sub_title,Diverse Clinical Experiences,page JSX
+nursing27,Replit,About.tsx,nursing,text,"Complete clinical rotations at leading hospitals, community health centers, and specialized care facilities. Gain exposure to various patient populations and healthcare settings to prepare for your future career.",page JSX
+nursing27,Replit,About.tsx,nursing,text,Nursing classroom,page JSX
+nursing27,Replit,About.tsx,nursing,text,"ll learn from experienced faculty who are leaders in nursing practice, education, and research. Our state-of-the-art simulation labs provide realistic training environments where you can practice essential skills before working with real patients. Throughout the program, you",page JSX
+nursing27,Replit,About.tsx,nursing,text,Students in simulation lab,page JSX
 Nursing21,Replit,Footer.tsx,nursing,sub_sub_title,Quick Links,page JSX
 Nursing21,Replit,Footer.tsx,nursing,text,Home,page JSX
 Nursing21,Replit,Footer.tsx,nursing,text,About Program,page JSX
@@ -5317,6 +5731,894 @@ Nursing21,Replit,Admissions.tsx,nursing,text,"Upon acceptance, submit your enrol
 Nursing21,Replit,Admissions.tsx,nursing,sub_title,Ready to Apply?,page JSX
 Nursing21,Replit,Admissions.tsx,nursing,text,Take the first step toward your nursing career. Our admissions team is here to guide you through the application process.,page JSX
 Nursing21,Replit,Admissions.tsx,nursing,button_text,Contact Admissions,page JSX
+nursing26,Replit,Footer.tsx,nursing,sub_sub_title,Quick Links,page JSX
+nursing26,Replit,Footer.tsx,nursing,inline_text,Home,page JSX
+nursing26,Replit,Footer.tsx,nursing,inline_text,About Program,page JSX
+nursing26,Replit,Footer.tsx,nursing,inline_text,Faculty,page JSX
+nursing26,Replit,Footer.tsx,nursing,inline_text,Admissions,page JSX
+nursing26,Replit,Footer.tsx,nursing,inline_text,Contact,page JSX
+nursing26,Replit,Footer.tsx,nursing,sub_sub_title,Program Info,page JSX
+nursing26,Replit,Footer.tsx,nursing,list_item,Bachelor of Science (BSN),page JSX
+nursing26,Replit,Footer.tsx,nursing,list_item,4-Year Program,page JSX
+nursing26,Replit,Footer.tsx,nursing,list_item,120 Credit Hours,page JSX
+nursing26,Replit,Footer.tsx,nursing,list_item,CCNE Accredited,page JSX
+nursing26,Replit,Footer.tsx,nursing,list_item,Clinical Partnerships,page JSX
+nursing26,Replit,Footer.tsx,nursing,link_text,(555) 123-4567,page JSX
+nursing26,Replit,Footer.tsx,nursing,link_text,nursing@university.edu,page JSX
+nursing26,Replit,Footer.tsx,nursing,sub_sub_title,Follow Us,page JSX
+nursing26,Replit,Footer.tsx,nursing,text,Accredited by the Commission on Collegiate Nursing Education (CCNE),page JSX
+nursing26,Replit,Footer.tsx,nursing,text,tel:+1-555-123-4567,page JSX
+nursing26,Replit,Footer.tsx,nursing,text,_blank,page JSX
+nursing26,Replit,Footer.tsx,nursing,text,Facebook,page JSX
+nursing26,Replit,Footer.tsx,nursing,text,Twitter,page JSX
+nursing26,Replit,Footer.tsx,nursing,text,Instagram,page JSX
+nursing26,Replit,Footer.tsx,nursing,text,LinkedIn,page JSX
+nursing26,Replit,Navigation.tsx,nursing,inline_text,BSN Program,page JSX
+nursing26,Replit,Navigation.tsx,nursing,inline_text,Excellence in Nursing,page JSX
+nursing26,Replit,Navigation.tsx,nursing,button_text,Apply Now,page JSX
+nursing26,Replit,Navigation.tsx,nursing,text,Home,page JSX
+nursing26,Replit,Navigation.tsx,nursing,text,About Program,page JSX
+nursing26,Replit,Navigation.tsx,nursing,text,Faculty,page JSX
+nursing26,Replit,Navigation.tsx,nursing,text,Admissions,page JSX
+nursing26,Replit,Navigation.tsx,nursing,text,Contact,page JSX
+nursing26,Replit,Navigation.tsx,nursing,text,Close menu,page JSX
+nursing26,Replit,Navigation.tsx,nursing,text,Open menu,page JSX
+nursing26,Replit,Home.tsx,nursing,title,Transform Lives Through Nursing Excellence,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Join our accredited Bachelor of Science in Nursing program and begin your journey to a rewarding healthcare career,page JSX
+nursing26,Replit,Home.tsx,nursing,button_text,Apply Now,page JSX
+nursing26,Replit,Home.tsx,nursing,button_text,Learn More,page JSX
+nursing26,Replit,Home.tsx,nursing,sub_title,Program Overview,page JSX
+nursing26,Replit,Home.tsx,nursing,text,"Our Bachelor of Science in Nursing (BSN) program prepares you to become a compassionate, 
+                skilled, and knowledgeable registered nurse. Through a combination of rigorous coursework 
+                and extensive clinical practice, you'll develop the expertise needed to excel in today's 
+                dynamic healthcare environment.",page JSX
+nursing26,Replit,Home.tsx,nursing,text,"With state-of-the-art simulation labs, partnerships with premier healthcare facilities, 
+                and guidance from expert faculty, you'll gain the confidence and competence to provide 
+                exceptional patient care from day one.",page JSX
+nursing26,Replit,Home.tsx,nursing,button_text,Explore the Program,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Years,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Full-Time Study,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Credit Hours,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Comprehensive,page JSX
+nursing26,Replit,Home.tsx,nursing,text,95%,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Job Placement,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Within 6 Months,page JSX
+nursing26,Replit,Home.tsx,nursing,text,1000+,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Clinical Hours,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Hands-On Practice,page JSX
+nursing26,Replit,Home.tsx,nursing,sub_title,Program Highlights,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Discover what makes our BSN program stand out as a leader in nursing education,page JSX
+nursing26,Replit,Home.tsx,nursing,sub_title,Student Success Stories,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Hear from our graduates about their transformative experiences in the BSN program,page JSX
+nursing26,Replit,Home.tsx,nursing,sub_title,Ready to Start Your Nursing Journey?,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Applications are now open for the upcoming academic year. Begin your path to becoming a registered nurse today.,page JSX
+nursing26,Replit,Home.tsx,nursing,button_text,View Admissions Requirements,page JSX
+nursing26,Replit,Home.tsx,nursing,text,CCNE Accredited,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Our program meets the highest standards of nursing education excellence.,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Expert Faculty,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Learn from experienced nursing professionals with decades of clinical expertise.,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Clinical Excellence,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Gain hands-on experience through partnerships with leading healthcare facilities.,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Compassionate Care,page JSX
+nursing26,Replit,Home.tsx,nursing,text,"Develop the skills and values to provide patient-centered, holistic care.",page JSX
+nursing26,Replit,Home.tsx,nursing,text,Comprehensive Curriculum,page JSX
+nursing26,Replit,Home.tsx,nursing,text,"Evidence-based education combining theory, research, and clinical practice.",page JSX
+nursing26,Replit,Home.tsx,nursing,text,Career Success,page JSX
+nursing26,Replit,Home.tsx,nursing,text,95% employment rate within 6 months of graduation with competitive salaries.,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Maria Rodriguez,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Class of 2024,page JSX
+nursing26,Replit,Home.tsx,nursing,text,This program transformed my understanding of patient care. The clinical rotations gave me real-world experience that prepared me for my career in pediatric nursing.,page JSX
+nursing26,Replit,Home.tsx,nursing,text,James Wilson,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Class of 2023,page JSX
+nursing26,Replit,Home.tsx,nursing,text,The faculty's dedication and the supportive learning environment helped me excel. I'm now working in the ICU and making a real difference in patients' lives every day.,page JSX
+nursing26,Replit,Home.tsx,nursing,text,Sarah Chen,page JSX
+nursing26,Replit,Home.tsx,nursing,text,"From day one, I felt prepared and confident. The curriculum's balance of classroom learning and hands-on practice gave me the foundation for a successful nursing career.",page JSX
+nursing26,Replit,Contact.tsx,nursing,title,Contact Us,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,We're here to answer your questions about our BSN program,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_title,Send Us a Message,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,"Have questions about our program? Fill out the form below and our admissions team 
+                will respond to you as soon as possible.",page JSX
+nursing26,Replit,Contact.tsx,nursing,label_text,Full Name *,page JSX
+nursing26,Replit,Contact.tsx,nursing,label_text,Email Address *,page JSX
+nursing26,Replit,Contact.tsx,nursing,label_text,Message *,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_title,Contact Information,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_sub_title,Address,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_sub_title,Phone,page JSX
+nursing26,Replit,Contact.tsx,nursing,link_text,(555) 123-4567,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_sub_title,Email,page JSX
+nursing26,Replit,Contact.tsx,nursing,link_text,nursing@university.edu,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_sub_title,Office Hours,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Monday - Friday: 8:00 AM - 5:00 PM,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Saturday - Sunday: Closed,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_sub_title,Follow Us,page JSX
+nursing26,Replit,Contact.tsx,nursing,sub_sub_title,Campus Location,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Map Placeholder,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,"123 University Avenue, Medical Campus",page JSX
+nursing26,Replit,Contact.tsx,nursing,text,", email:",page JSX
+nursing26,Replit,Contact.tsx,nursing,text,", message:",page JSX
+nursing26,Replit,Contact.tsx,nursing,text,", description:",page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Tell us how we can help you...,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Sending...,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Send Message,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,tel:+1-555-123-4567,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,_blank,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Facebook,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Twitter,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,Instagram,page JSX
+nursing26,Replit,Contact.tsx,nursing,text,LinkedIn,page JSX
+nursing26,Replit,Faculty.tsx,nursing,title,Our Faculty,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Learn from experienced nursing professionals and academic leaders,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"Our distinguished faculty members are dedicated educators and practicing healthcare professionals 
+              who bring decades of combined clinical experience and academic expertise to the classroom. They are 
+              committed to mentoring the next generation of nursing leaders and providing personalized guidance 
+              throughout your educational journey.",page JSX
+nursing26,Replit,Faculty.tsx,nursing,sub_title,Join Our Academic Community,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"Our faculty members are here to support your success every step of the way, from your first day 
+            of classes through graduation and beyond.",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Dr. Elizabeth Morrison,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Program Director & Professor,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"PhD, RN, FAAN",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Dr. Morrison brings over 25 years of nursing experience to her role as Program Director. She specializes in nursing education and has published extensively on evidence-based teaching practices. Her research focuses on clinical competency development and simulation-based learning.,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Dr. Robert Jenkins,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Associate Professor,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"DNP, RN, ACNP-BC",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"Dr. Jenkins is a board-certified acute care nurse practitioner with expertise in critical care nursing. He teaches advanced pathophysiology and critical care courses, bringing real-world clinical experience from his work in intensive care units to the classroom.",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Prof. Maria Santiago,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Assistant Professor,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"MSN, RN, CNE",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"Professor Santiago specializes in maternal-child nursing and has over 15 years of experience in labor and delivery. She is passionate about preparing students for the unique challenges of caring for mothers and newborns, and serves as clinical coordinator for obstetric rotations.",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Dr. David Chen,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"PhD, RN, NE-BC",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"Dr. Chen's research focuses on healthcare quality improvement and nursing leadership. He teaches courses in healthcare systems, leadership, and professional development. His background includes administrative roles in major healthcare institutions.",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Dr. Michael Patterson,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Professor Emeritus,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Dr. Patterson has dedicated over 30 years to nursing education and continues to teach research methodology and evidence-based practice courses. He is a nationally recognized expert in nursing research and has mentored dozens of graduate students.,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,Dr. Layla Rahman,page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"DNP, RN, FNP-BC",page JSX
+nursing26,Replit,Faculty.tsx,nursing,text,"Dr. Rahman is a family nurse practitioner specializing in community health and cultural competence. She coordinates the community health nursing courses and clinical experiences, emphasizing health promotion and disease prevention in diverse populations.",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,title,About the BSN Program,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Comprehensive nursing education for tomorrow's healthcare leaders,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,sub_title,Program Description,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Our Bachelor of Science in Nursing (BSN) program is designed to prepare compassionate, 
+                competent, and critical-thinking nurses who are ready to meet the evolving needs of 
+                healthcare. Through a comprehensive curriculum that integrates classroom instruction, 
+                laboratory simulation, and extensive clinical practice, students develop the knowledge, 
+                skills, and professional values essential for successful nursing practice.",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"The program emphasizes evidence-based practice, patient-centered care, quality improvement, 
+                and interprofessional collaboration. Students engage in diverse clinical experiences across 
+                various healthcare settings, including acute care hospitals, community health centers, 
+                long-term care facilities, and specialty clinics, gaining exposure to diverse patient 
+                populations and healthcare delivery models.",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,sub_title,Learning Outcomes,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Upon completion of the BSN program, graduates will be able to:",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,sub_title,Curriculum by Year,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Year 1,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Year 2,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Year 3,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Year 4,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,First Year - Building Foundations,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Second Year - Core Nursing Concepts,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Third Year - Advanced Practice,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Fourth Year - Professional Development,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,sub_title,Career Opportunities,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Our BSN graduates pursue diverse and rewarding careers in healthcare,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,sub_title,Why Choose Our Program,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Duration,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,4 Years,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Degree,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Bachelor of Science in Nursing (BSN),page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Credits,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,120 Credit Hours,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Study Mode,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Full-Time, On-Campus",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Demonstrate clinical competence in providing safe, evidence-based patient care across the lifespan",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Apply critical thinking and clinical reasoning to assess patient needs and implement appropriate interventions,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Communicate effectively with patients, families, and interdisciplinary healthcare teams",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Integrate ethical principles and professional values into nursing practice,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Utilize technology and information systems to support quality patient care,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Demonstrate leadership skills and contribute to healthcare quality improvement,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Provide culturally competent, patient-centered care that respects diversity",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Engage in lifelong learning and professional development,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Foundations of Nursing Practice,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Anatomy and Physiology I & II,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Microbiology,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Chemistry for Health Sciences,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Introduction to Healthcare Systems,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Medical Terminology,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Psychology,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,English Composition,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Health Assessment,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Pharmacology I & II,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Pathophysiology,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Nutrition for Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Adult Health Nursing I,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Mental Health Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Clinical Practice I,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Statistics for Health Sciences,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Adult Health Nursing II,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Maternal-Child Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Pediatric Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Community Health Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Nursing Research,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Clinical Practice II & III,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Healthcare Ethics,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Leadership in Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Critical Care Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Complex Adult Health Nursing,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Professional Role Development,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Healthcare Policy,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Capstone Clinical Experience,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,NCLEX-RN Preparation,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Evidence-Based Practice Project,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Transition to Professional Practice,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Registered Nurse (RN),page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Work in hospitals, clinics, or community health settings providing direct patient care",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Nurse Practitioner,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Advanced practice role with additional graduate education, diagnosing and treating patients",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Clinical Nurse Specialist,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Expert clinician providing specialized care and consultation in specific healthcare areas,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,CCNE Accreditation,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"Our program is accredited by the Commission on Collegiate Nursing Education, ensuring the highest quality education standards.",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Expert Faculty,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Learn from experienced nursing professionals with advanced degrees and decades of clinical expertise.,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,State-of-the-Art Facilities,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Practice in our modern simulation labs equipped with high-fidelity mannequins and cutting-edge technology.,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Clinical Partnerships,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Gain hands-on experience through partnerships with leading hospitals and healthcare facilities.,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,High Employment Rate,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,"95% of our graduates are employed within 6 months of graduation, with competitive starting salaries.",page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,NCLEX-RN Success,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Our graduates consistently achieve above-average pass rates on the NCLEX-RN licensing examination.,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Nursing lab classroom,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Clinical rotation,page JSX
+nursing26,Replit,AboutProgram.tsx,nursing,text,Nursing classroom,page JSX
+nursing26,Replit,Admissions.tsx,nursing,title,Admissions,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Begin your journey to becoming a registered nurse,page JSX
+nursing26,Replit,Admissions.tsx,nursing,sub_title,Admission Requirements,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Review the requirements below to ensure you're prepared to apply,page JSX
+nursing26,Replit,Admissions.tsx,nursing,sub_title,Important Deadlines,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Mark these key dates on your calendar,page JSX
+nursing26,Replit,Admissions.tsx,nursing,sub_title,Application Process,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Follow these steps to complete your application,page JSX
+nursing26,Replit,Admissions.tsx,nursing,sub_title,Ready to Apply?,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Start your application today and take the first step toward your nursing career,page JSX
+nursing26,Replit,Admissions.tsx,nursing,button_text,Start Application,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,BSN Program Application,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Complete the form below to begin your application process,page JSX
+nursing26,Replit,Admissions.tsx,nursing,label_text,First Name *,page JSX
+nursing26,Replit,Admissions.tsx,nursing,label_text,Last Name *,page JSX
+nursing26,Replit,Admissions.tsx,nursing,label_text,Email Address *,page JSX
+nursing26,Replit,Admissions.tsx,nursing,label_text,Phone Number *,page JSX
+nursing26,Replit,Admissions.tsx,nursing,label_text,Mailing Address *,page JSX
+nursing26,Replit,Admissions.tsx,nursing,label_text,Cumulative GPA *,page JSX
+nursing26,Replit,Admissions.tsx,nursing,label_text,Personal Statement *,page JSX
+nursing26,Replit,Admissions.tsx,nursing,button_text,Submit Application,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,First name must be at least 2 characters,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Last name must be at least 2 characters,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Please enter a valid email address,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Please enter a valid phone number,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Please enter your address,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Please enter your GPA,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Statement must be at least 50 characters,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Application submitted:,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Application Received,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Thank you for applying! We'll review your application and contact you soon.,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,High school diploma or equivalent (GED),page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Minimum cumulative GPA of 3.0 on a 4.0 scale,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,"Completed prerequisite courses: Biology, Chemistry, Anatomy & Physiology",page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Official transcripts from all previously attended institutions,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Three letters of recommendation (academic or professional),page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Personal statement (500-750 words),page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Current CPR certification,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Background check and health screening upon acceptance,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,TEAS (Test of Essential Academic Skills) with minimum composite score of 65%,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,November 1,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Early Decision Application Deadline,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,January 15,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Regular Decision Application Deadline,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,March 1,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Acceptance Notifications Sent,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,May 1,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Enrollment Deposit Due,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,August 15,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Program Orientation,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,August 25,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Classes Begin,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Complete Prerequisites,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Ensure you've completed all required prerequisite courses with minimum grades.,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Take TEAS Exam,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Schedule and complete the Test of Essential Academic Skills (TEAS).,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Gather Documents,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,"Collect transcripts, letters of recommendation, and write your personal statement.",page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Complete and submit your online application with all required materials.,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Interview,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Selected candidates will be invited for an interview with faculty members.,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Receive Decision,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Admission decisions are sent via email and posted to your application portal.,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,firstName,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,lastName,page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,"e.g., 3.5",page JSX
+nursing26,Replit,Admissions.tsx,nursing,text,Tell us why you want to pursue a career in nursing...,page JSX
+nursing28,Replit,Footer.tsx,nursing,sub_sub_title,BSN Program,page JSX
+nursing28,Replit,Footer.tsx,nursing,text,"Preparing the next generation of compassionate, skilled nursing professionals through excellence in education and clinical practice.",page JSX
+nursing28,Replit,Footer.tsx,nursing,sub_sub_title,Quick Links,page JSX
+nursing28,Replit,Footer.tsx,nursing,inline_text,Home,page JSX
+nursing28,Replit,Footer.tsx,nursing,inline_text,About Program,page JSX
+nursing28,Replit,Footer.tsx,nursing,inline_text,Faculty,page JSX
+nursing28,Replit,Footer.tsx,nursing,inline_text,Admissions,page JSX
+nursing28,Replit,Footer.tsx,nursing,inline_text,Contact,page JSX
+nursing28,Replit,Footer.tsx,nursing,sub_sub_title,Program Info,page JSX
+nursing28,Replit,Footer.tsx,nursing,list_item,4-Year Full-Time Program,page JSX
+nursing28,Replit,Footer.tsx,nursing,list_item,120 Credit Hours,page JSX
+nursing28,Replit,Footer.tsx,nursing,list_item,Clinical & Classroom Learning,page JSX
+nursing28,Replit,Footer.tsx,nursing,list_item,Accredited BSN Degree,page JSX
+nursing28,Replit,Footer.tsx,nursing,sub_sub_title,Contact Us,page JSX
+nursing28,Replit,Footer.tsx,nursing,link_text,(555) 123-4567,page JSX
+nursing28,Replit,Footer.tsx,nursing,link_text,nursing@university.edu,page JSX
+nursing28,Replit,Footer.tsx,nursing,text,tel:+15551234567,page JSX
+nursing28,Replit,Footer.tsx,nursing,text,_blank,page JSX
+nursing28,Replit,Navigation.tsx,nursing,inline_text,BSN Program,page JSX
+nursing28,Replit,Navigation.tsx,nursing,inline_text,Bachelor of Science in Nursing,page JSX
+nursing28,Replit,Navigation.tsx,nursing,button_text,Apply Now,page JSX
+nursing28,Replit,Navigation.tsx,nursing,text,Home,page JSX
+nursing28,Replit,Navigation.tsx,nursing,text,About Program,page JSX
+nursing28,Replit,Navigation.tsx,nursing,text,Faculty,page JSX
+nursing28,Replit,Navigation.tsx,nursing,text,Admissions,page JSX
+nursing28,Replit,Navigation.tsx,nursing,text,Contact,page JSX
+nursing28,Replit,Navigation.tsx,nursing,text,_blank,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Apply to BSN Program,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Fill out the form below to start your application. We'll be in touch within 2-3 business days.,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,sub_sub_title,Application Submitted!,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Thank you for your interest in our BSN program.,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Full Name,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Email Address,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Phone Number,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Program Interest,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Traditional BSN (4-Year),page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Accelerated BSN,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,RN to BSN,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,General Inquiry,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Additional Information (Optional),page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,", email:",page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,", phone:",page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,", programInterest:",page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,", message:",page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,", description:",page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,currentColor,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,M5 13l4 4L19 7,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,John Doe,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,programInterest,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Select your interest,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Tell us about your background and why you're interested in our program...,page JSX
+nursing28,Replit,ApplicationModal.tsx,nursing,text,Submit Application,page JSX
+nursing28,Replit,Home.tsx,nursing,text,"Transform your passion for healthcare into a rewarding career. Join our comprehensive BSN program and become a compassionate, skilled nursing professional.",page JSX
+nursing28,Replit,Home.tsx,nursing,button_text,Apply Now,page JSX
+nursing28,Replit,Home.tsx,nursing,button_text,Learn More,page JSX
+nursing28,Replit,Home.tsx,nursing,sub_title,Why Choose Our BSN Program?,page JSX
+nursing28,Replit,Home.tsx,nursing,text,"Our Bachelor of Science in Nursing program combines rigorous academic coursework with extensive clinical experience, preparing you for a successful career in healthcare.",page JSX
+nursing28,Replit,Home.tsx,nursing,sub_sub_title,Comprehensive Curriculum,page JSX
+nursing28,Replit,Home.tsx,nursing,text,"Four-year program integrating theory and practice, covering all aspects of modern nursing care with evidence-based approaches.",page JSX
+nursing28,Replit,Home.tsx,nursing,sub_sub_title,Clinical Excellence,page JSX
+nursing28,Replit,Home.tsx,nursing,text,"Over 700 hours of hands-on clinical experience in top healthcare facilities, working alongside experienced nurses and healthcare professionals.",page JSX
+nursing28,Replit,Home.tsx,nursing,sub_sub_title,Expert Faculty,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Learn from PhD-prepared faculty with extensive clinical and research experience dedicated to your success and professional development.,page JSX
+nursing28,Replit,Home.tsx,nursing,sub_title,Student Success Stories,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Hear from our graduates who are making a difference in healthcare,page JSX
+nursing28,Replit,Home.tsx,nursing,sub_title,Ready to Start Your Nursing Journey?,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Take the first step toward a rewarding career in healthcare. Apply to our BSN program today.,page JSX
+nursing28,Replit,Home.tsx,nursing,text,4-Year Program,page JSX
+nursing28,Replit,Home.tsx,nursing,text,120 Credits,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Clinical Hours,page JSX
+nursing28,Replit,Home.tsx,nursing,text,700+ Hours,page JSX
+nursing28,Replit,Home.tsx,nursing,text,PhD Prepared,page JSX
+nursing28,Replit,Home.tsx,nursing,text,NCLEX Pass Rate,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Sarah Martinez,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Class of 2024,page JSX
+nursing28,Replit,Home.tsx,nursing,text,The hands-on clinical experience and supportive faculty prepared me perfectly for my nursing career. I felt confident from day one.,page JSX
+nursing28,Replit,Home.tsx,nursing,text,James Chen,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Class of 2023,page JSX
+nursing28,Replit,Home.tsx,nursing,text,This program challenged me academically while providing the practical skills I needed. The simulation lab was incredible.,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Emily Rodriguez,page JSX
+nursing28,Replit,Home.tsx,nursing,text,I loved the small class sizes and personalized attention. My professors knew my name and cared about my success.,page JSX
+nursing28,Replit,Home.tsx,nursing,text,Nursing students in clinical training,page JSX
+nursing28,Replit,Contact.tsx,nursing,title,Contact Us,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Have questions about our BSN program? We're here to help. Reach out to our admissions team.,page JSX
+nursing28,Replit,Contact.tsx,nursing,sub_title,Send Us a Message,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Full Name,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Email Address,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Message,page JSX
+nursing28,Replit,Contact.tsx,nursing,sub_sub_title,Contact Information,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Address,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Phone,page JSX
+nursing28,Replit,Contact.tsx,nursing,link_text,(555) 123-4567,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Email,page JSX
+nursing28,Replit,Contact.tsx,nursing,link_text,nursing@university.edu,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Office Hours,page JSX
+nursing28,Replit,Contact.tsx,nursing,sub_sub_title,Connect With Us,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,"Follow us on social media for program updates, student stories, and nursing news.",page JSX
+nursing28,Replit,Contact.tsx,nursing,sub_title,Need Immediate Assistance?,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,"For urgent admissions questions, please call our admissions office directly during business hours.",page JSX
+nursing28,Replit,Contact.tsx,nursing,link_text,Call Admissions: (555) 123-4567,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,", email:",page JSX
+nursing28,Replit,Contact.tsx,nursing,text,", message:",page JSX
+nursing28,Replit,Contact.tsx,nursing,text,", description:",page JSX
+nursing28,Replit,Contact.tsx,nursing,text,John Doe,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Tell us what you'd like to know about our BSN program...,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,Send Message,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,tel:+15551234567,page JSX
+nursing28,Replit,Contact.tsx,nursing,text,_blank,page JSX
+nursing28,Replit,Faculty.tsx,nursing,title,Our Faculty,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Learn from expert educators who are dedicated to your success and bring decades of clinical and research experience to the classroom.,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,"Our distinguished faculty are PhD-prepared nurse scientists and educators who combine academic excellence with extensive clinical expertise. They are committed to providing personalized instruction, mentorship, and support to help you achieve your professional goals. With backgrounds spanning all areas of nursing practice, our faculty bring real-world experience and cutting-edge research to every course.",page JSX
+nursing28,Replit,Faculty.tsx,nursing,sub_title,Join Our Academic Community,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Experience personalized education from faculty who are invested in your success. Our small class sizes ensure you receive the individual attention and mentorship you deserve.,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Margaret Anderson,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Program Director & Professor,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Anderson has over 25 years of experience in nursing education and practice. She holds a PhD in Nursing from Johns Hopkins University and has published extensively on patient safety and quality improvement. Her clinical expertise includes critical care and emergency nursing. Dr. Anderson is passionate about developing the next generation of nurse leaders and serves on several national nursing education committees.,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Robert Chen,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Associate Professor,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Chen brings 20 years of clinical and academic experience to our program. He earned his PhD in Nursing Science from the University of Pennsylvania and specializes in cardiac care and medical-surgical nursing. His research focuses on evidence-based practices in acute care settings. Dr. Chen has received multiple teaching excellence awards and is known for his engaging classroom instruction and mentorship.,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Jessica Williams,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Assistant Professor,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,"Dr. Williams joined our faculty after completing her PhD at Columbia University. She specializes in pediatric nursing and maternal-child health, with clinical experience in neonatal intensive care. Her research examines family-centered care practices and developmental outcomes in premature infants. Dr. Williams is dedicated to innovative teaching methods and student success.",page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Michael Thompson,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,"Dr. Thompson holds a PhD from the University of California, San Francisco, and has extensive background in mental health nursing and psychiatric care. He has practiced in various psychiatric settings and brings real-world experience to the classroom. His research interests include mental health stigma reduction and crisis intervention. Dr. Thompson is committed to fostering compassionate, evidence-based psychiatric nursing practice.",page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Lisa Patel,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Clinical Assistant Professor,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. Patel earned her PhD from Duke University and specializes in community health nursing and population health. She has worked extensively in underserved communities and brings a strong commitment to health equity. Her research focuses on chronic disease prevention and health promotion programs. Dr. Patel coordinates our community health clinical experiences and is passionate about public health nursing.,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Dr. James Harrison,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,Department Chair & Professor,page JSX
+nursing28,Replit,Faculty.tsx,nursing,text,"Dr. Harrison leads our nursing department with over 30 years of experience in nursing education and administration. He holds a PhD from the University of Washington and has expertise in nursing leadership, healthcare policy, and curriculum development. His administrative experience includes serving as a chief nursing officer at a major medical center. Dr. Harrison is committed to academic excellence and preparing nurses for leadership roles.",page JSX
+nursing28,Replit,Admissions.tsx,nursing,title,Admissions,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,"Start your journey to becoming a registered nurse. Learn about our admission requirements, deadlines, and application process.",page JSX
+nursing28,Replit,Admissions.tsx,nursing,sub_title,Ready to Apply?,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Take the first step toward your nursing career today,page JSX
+nursing28,Replit,Admissions.tsx,nursing,sub_title,Admission Requirements,page JSX
+nursing28,Replit,Admissions.tsx,nursing,sub_title,Application Deadlines,page JSX
+nursing28,Replit,Admissions.tsx,nursing,inline_text,Priority Deadline:,page JSX
+nursing28,Replit,Admissions.tsx,nursing,inline_text,Regular Deadline:,page JSX
+nursing28,Replit,Admissions.tsx,nursing,inline_text,Final Decision:,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Applications are reviewed on a rolling basis. Early submission is strongly encouraged as spaces are limited.,page JSX
+nursing28,Replit,Admissions.tsx,nursing,sub_title,Application Process,page JSX
+nursing28,Replit,Admissions.tsx,nursing,sub_title,Questions About Admissions?,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Our admissions team is here to help. Contact us or start your application today.,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,High school diploma or equivalent (GED) with minimum 3.0 GPA,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,"Completion of prerequisite courses: Biology, Chemistry, Anatomy & Physiology",page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Letters of recommendation (2-3 academic or professional references),page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Personal statement (500-750 words) describing your interest in nursing,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Healthcare experience (volunteer or paid) strongly recommended,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Background check and health screening upon acceptance,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Current CPR certification prior to clinical courses,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Fall Semester,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,December 1,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,February 15,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,April 1,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Spring Semester,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,August 1,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,October 15,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Complete Online Application,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,"Submit your application through our online portal, including personal information, academic history, and essay.",page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Submit Required Documents,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,"Upload official transcripts, test scores, letters of recommendation, and any additional materials.",page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Interview & Assessment,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Selected candidates will be invited for an interview and may complete a writing assessment.,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Receive Decision,page JSX
+nursing28,Replit,Admissions.tsx,nursing,text,Admissions decisions are released on a rolling basis. Accepted students will receive enrollment information.,page JSX
+nursing28,Replit,About.tsx,nursing,title,About Our BSN Program,page JSX
+nursing28,Replit,About.tsx,nursing,text,"A comprehensive, accredited nursing education that prepares you for a successful career in healthcare through academic excellence and hands-on clinical experience.",page JSX
+nursing28,Replit,About.tsx,nursing,text,"Our Bachelor of Science in Nursing (BSN) program is designed to develop professional nurses who are prepared to meet the evolving healthcare needs of diverse populations. Through a combination of rigorous academic coursework, state-of-the-art simulation experiences, and extensive clinical rotations, students develop the knowledge, skills, and professional values essential for contemporary nursing practice.",page JSX
+nursing28,Replit,About.tsx,nursing,text,"As a graduate of our program, you will be prepared to pass the NCLEX-RN examination, pursue professional nursing certification, and begin your career as a competent, compassionate registered nurse. Our curriculum is built on the latest evidence-based practices and prepares you to provide safe, quality care in any healthcare setting.",page JSX
+nursing28,Replit,About.tsx,nursing,sub_title,Program Information,page JSX
+nursing28,Replit,About.tsx,nursing,sub_title,Program Learning Outcomes,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Upon completion of our BSN program, graduates will be able to:",page JSX
+nursing28,Replit,About.tsx,nursing,sub_title,Curriculum Overview,page JSX
+nursing28,Replit,About.tsx,nursing,inline_text,•,page JSX
+nursing28,Replit,About.tsx,nursing,sub_title,Career Opportunities,page JSX
+nursing28,Replit,About.tsx,nursing,text,Our BSN graduates pursue diverse and rewarding careers across all healthcare settings,page JSX
+nursing28,Replit,About.tsx,nursing,sub_title,Why Choose Our Program?,page JSX
+nursing28,Replit,About.tsx,nursing,text,Duration,page JSX
+nursing28,Replit,About.tsx,nursing,text,4 Years Full-Time,page JSX
+nursing28,Replit,About.tsx,nursing,text,Degree,page JSX
+nursing28,Replit,About.tsx,nursing,text,Bachelor of Science in Nursing (BSN),page JSX
+nursing28,Replit,About.tsx,nursing,text,Total Credits,page JSX
+nursing28,Replit,About.tsx,nursing,text,120 Credit Hours,page JSX
+nursing28,Replit,About.tsx,nursing,text,Clinical Hours,page JSX
+nursing28,Replit,About.tsx,nursing,text,700+ Hours,page JSX
+nursing28,Replit,About.tsx,nursing,text,Study Mode,page JSX
+nursing28,Replit,About.tsx,nursing,text,On-Campus with Clinical Rotations,page JSX
+nursing28,Replit,About.tsx,nursing,text,Accreditation,page JSX
+nursing28,Replit,About.tsx,nursing,text,CCNE Accredited,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Provide safe, patient-centered care across the lifespan using evidence-based practice",page JSX
+nursing28,Replit,About.tsx,nursing,text,Demonstrate critical thinking and clinical reasoning in complex healthcare situations,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Communicate effectively with patients, families, and interprofessional teams",page JSX
+nursing28,Replit,About.tsx,nursing,text,"Apply knowledge of health promotion, disease prevention, and population health",page JSX
+nursing28,Replit,About.tsx,nursing,text,Integrate leadership principles and quality improvement strategies in healthcare delivery,page JSX
+nursing28,Replit,About.tsx,nursing,text,Practice professional nursing with ethical integrity and cultural competence,page JSX
+nursing28,Replit,About.tsx,nursing,text,Utilize informatics and technology to enhance patient care and safety,page JSX
+nursing28,Replit,About.tsx,nursing,text,Engage in lifelong learning and contribute to the advancement of nursing practice,page JSX
+nursing28,Replit,About.tsx,nursing,text,First Year - Foundation,page JSX
+nursing28,Replit,About.tsx,nursing,text,Anatomy and Physiology I & II,page JSX
+nursing28,Replit,About.tsx,nursing,text,Introduction to Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Health Assessment,page JSX
+nursing28,Replit,About.tsx,nursing,text,Microbiology,page JSX
+nursing28,Replit,About.tsx,nursing,text,Chemistry for Health Sciences,page JSX
+nursing28,Replit,About.tsx,nursing,text,Psychology,page JSX
+nursing28,Replit,About.tsx,nursing,text,English Composition,page JSX
+nursing28,Replit,About.tsx,nursing,text,Second Year - Core Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Fundamentals of Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Pharmacology I,page JSX
+nursing28,Replit,About.tsx,nursing,text,Pathophysiology,page JSX
+nursing28,Replit,About.tsx,nursing,text,Medical-Surgical Nursing I,page JSX
+nursing28,Replit,About.tsx,nursing,text,Nutrition for Nurses,page JSX
+nursing28,Replit,About.tsx,nursing,text,Statistics for Health Sciences,page JSX
+nursing28,Replit,About.tsx,nursing,text,Clinical Practicum I,page JSX
+nursing28,Replit,About.tsx,nursing,text,Third Year - Specialization,page JSX
+nursing28,Replit,About.tsx,nursing,text,Medical-Surgical Nursing II,page JSX
+nursing28,Replit,About.tsx,nursing,text,Mental Health Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Maternal-Child Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Pediatric Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Pharmacology II,page JSX
+nursing28,Replit,About.tsx,nursing,text,Nursing Research,page JSX
+nursing28,Replit,About.tsx,nursing,text,Clinical Practicum II & III,page JSX
+nursing28,Replit,About.tsx,nursing,text,Fourth Year - Advanced Practice,page JSX
+nursing28,Replit,About.tsx,nursing,text,Community Health Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Leadership and Management in Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Critical Care Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Gerontological Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,Professional Issues in Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,NCLEX Preparation,page JSX
+nursing28,Replit,About.tsx,nursing,text,Clinical Capstone Experience,page JSX
+nursing28,Replit,About.tsx,nursing,text,Acute Care Nursing,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Work in hospitals providing direct patient care in medical-surgical, critical care, or emergency settings.",page JSX
+nursing28,Replit,About.tsx,nursing,text,Cardiac & Specialty Care,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Specialize in cardiac care, oncology, pediatrics, or other specialized areas of nursing practice.",page JSX
+nursing28,Replit,About.tsx,nursing,text,Support patients with mental health conditions in psychiatric facilities or community health settings.,page JSX
+nursing28,Replit,About.tsx,nursing,text,Community Health,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Promote health and wellness in community centers, schools, and public health departments.",page JSX
+nursing28,Replit,About.tsx,nursing,text,Nurse Administration,page JSX
+nursing28,Replit,About.tsx,nursing,text,Lead nursing teams and manage healthcare operations in various healthcare settings.,page JSX
+nursing28,Replit,About.tsx,nursing,text,Advanced Practice,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Pursue graduate education to become a Nurse Practitioner, Clinical Nurse Specialist, or Nurse Educator.",page JSX
+nursing28,Replit,About.tsx,nursing,text,State-of-the-Art Simulation Labs,page JSX
+nursing28,Replit,About.tsx,nursing,text,Practice clinical skills in our cutting-edge simulation center with high-fidelity mannequins and realistic hospital environments before entering actual clinical settings.,page JSX
+nursing28,Replit,About.tsx,nursing,text,Small Class Sizes & Personal Attention,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Benefit from our low student-to-faculty ratio ensuring personalized mentorship, academic support, and meaningful relationships with expert faculty throughout your program.",page JSX
+nursing28,Replit,About.tsx,nursing,text,Diverse Clinical Partnerships,page JSX
+nursing28,Replit,About.tsx,nursing,text,"Gain real-world experience at top-tier hospitals, community health centers, and specialty clinics through our extensive network of clinical partners.",page JSX
+nursing30,Replit,Footer.tsx,nursing,sub_sub_title,Quick Links,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Home,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,About Program,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Faculty,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Admissions,page JSX
+nursing30,Replit,Footer.tsx,nursing,sub_sub_title,Programs,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Bachelor of Science in Nursing,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,RN to BSN Track,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Accelerated BSN,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Online Programs,page JSX
+nursing30,Replit,Footer.tsx,nursing,sub_sub_title,Contact,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,(555) 123-4567,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,nursing@university.edu,page JSX
+nursing30,Replit,Footer.tsx,nursing,sub_sub_title,Follow Us,page JSX
+nursing30,Replit,Footer.tsx,nursing,text,Stay connected with our nursing community and get the latest updates on program news and events.,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Privacy Policy,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Terms of Use,page JSX
+nursing30,Replit,Footer.tsx,nursing,inline_text,Accessibility,page JSX
+nursing30,Replit,Footer.tsx,nursing,text,_blank,page JSX
+nursing30,Replit,Footer.tsx,nursing,text,Facebook,page JSX
+nursing30,Replit,Footer.tsx,nursing,text,Twitter,page JSX
+nursing30,Replit,Footer.tsx,nursing,text,Instagram,page JSX
+nursing30,Replit,Footer.tsx,nursing,text,LinkedIn,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Start Your Application,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,"Complete this form to begin your journey toward a Bachelor of Science in Nursing degree.
+            Our admissions team will contact you within 1-2 business days.",page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,label_text,First Name *,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,label_text,Last Name *,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,label_text,Email Address *,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,label_text,Phone Number *,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,label_text,Program Interest *,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Traditional BSN (4-year),page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Accelerated BSN (16-month),page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,RN to BSN,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Online BSN,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,label_text,Intended Start Term *,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Fall 2025,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Spring 2026,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Summer 2026,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Fall 2026,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,button_text,Submit Application,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,firstName,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,lastName,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Select a program,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,startTerm,page JSX
+nursing30,Replit,ApplyModal.tsx,nursing,text,Select a term,page JSX
+nursing30,Replit,Navigation.tsx,nursing,inline_text,BSN Program,page JSX
+nursing30,Replit,Navigation.tsx,nursing,inline_text,University Nursing,page JSX
+nursing30,Replit,Navigation.tsx,nursing,button_text,Apply Now,page JSX
+nursing30,Replit,Navigation.tsx,nursing,text,Home,page JSX
+nursing30,Replit,Navigation.tsx,nursing,text,About Program,page JSX
+nursing30,Replit,Navigation.tsx,nursing,text,Faculty,page JSX
+nursing30,Replit,Navigation.tsx,nursing,text,Admissions,page JSX
+nursing30,Replit,Navigation.tsx,nursing,text,Contact,page JSX
+nursing30,Replit,Navigation.tsx,nursing,text,Toggle menu,page JSX
+nursing30,Replit,Home.tsx,nursing,title,Transform Your Passion Into Purpose,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Earn your Bachelor of Science in Nursing degree and join the next generation of compassionate healthcare leaders.,page JSX
+nursing30,Replit,Home.tsx,nursing,button_text,Apply Now,page JSX
+nursing30,Replit,Home.tsx,nursing,sub_title,Why Choose Our BSN Program?,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Our Bachelor of Science in Nursing program combines cutting-edge curriculum with real-world clinical experience to prepare you for a rewarding career in healthcare.,page JSX
+nursing30,Replit,Home.tsx,nursing,text,"With state-of-the-art simulation labs, partnerships with top medical centers, and a faculty of experienced healthcare professionals, you'll gain the knowledge, skills, and confidence to excel in any nursing specialty.",page JSX
+nursing30,Replit,Home.tsx,nursing,text,Credit Hours,page JSX
+nursing30,Replit,Home.tsx,nursing,text,800+,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Clinical Hours,page JSX
+nursing30,Replit,Home.tsx,nursing,text,95%,page JSX
+nursing30,Replit,Home.tsx,nursing,text,NCLEX Pass Rate,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Student-Faculty Ratio,page JSX
+nursing30,Replit,Home.tsx,nursing,sub_title,Program Highlights,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Discover what makes our nursing program stand out and how we prepare you for a successful healthcare career.,page JSX
+nursing30,Replit,Home.tsx,nursing,sub_title,Student Success Stories,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Hear from our graduates about their transformative experiences in the BSN program.,page JSX
+nursing30,Replit,Home.tsx,nursing,sub_title,Ready to Start Your Nursing Journey?,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Join our community of future healthcare leaders and make a difference in people's lives.,page JSX
+nursing30,Replit,Home.tsx,nursing,button_text,Apply to the BSN Program,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Accredited Excellence,page JSX
+nursing30,Replit,Home.tsx,nursing,text,"Our BSN program is fully accredited by the Commission on Collegiate Nursing Education (CCNE), ensuring the highest quality education.",page JSX
+nursing30,Replit,Home.tsx,nursing,text,Expert Faculty,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Learn from experienced nursing professionals with decades of clinical and academic expertise in diverse healthcare settings.,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Clinical Experience,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Gain hands-on experience with over 800 clinical hours in top-tier healthcare facilities throughout your program.,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Comprehensive Curriculum,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Master evidence-based nursing practice through our rigorous 120-credit curriculum designed for modern healthcare.,page JSX
+nursing30,Replit,Home.tsx,nursing,text,High NCLEX Pass Rate,page JSX
+nursing30,Replit,Home.tsx,nursing,text,"Our graduates consistently achieve a 95%+ first-time NCLEX-RN pass rate, exceeding national averages.",page JSX
+nursing30,Replit,Home.tsx,nursing,text,Career Success,page JSX
+nursing30,Replit,Home.tsx,nursing,text,98% of our graduates secure nursing positions within six months of graduation at leading healthcare institutions.,page JSX
+nursing30,Replit,Home.tsx,nursing,text,"The BSN program prepared me not just to be a nurse, but to be a leader in healthcare. The hands-on clinical experiences were invaluable.",page JSX
+nursing30,Replit,Home.tsx,nursing,text,Maria Rodriguez,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Class of 2024,page JSX
+nursing30,Replit,Home.tsx,nursing,text,"From day one, I felt supported by incredible faculty who genuinely cared about my success. This program changed my life.",page JSX
+nursing30,Replit,Home.tsx,nursing,text,James Anderson,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Class of 2023,page JSX
+nursing30,Replit,Home.tsx,nursing,text,The simulation labs and technology gave me confidence before my first clinical rotation. I felt prepared to make a difference.,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Emily Chen,page JSX
+nursing30,Replit,Home.tsx,nursing,text,Nursing students practicing in modern simulation lab,page JSX
+nursing30,Replit,Contact.tsx,nursing,title,Contact Us,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,We're here to answer your questions and help you get started,page JSX
+nursing30,Replit,Contact.tsx,nursing,sub_title,Get In Touch,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Have questions about our BSN program? We'd love to hear from you. Fill out the form and our admissions team will get back to you as soon as possible.,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Full Name *,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Email Address *,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Phone Number,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Subject *,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Message *,page JSX
+nursing30,Replit,Contact.tsx,nursing,sub_title,Contact Information,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Reach out to us through any of these channels. We're here to help Monday through Friday.,page JSX
+nursing30,Replit,Contact.tsx,nursing,sub_sub_title,Address,page JSX
+nursing30,Replit,Contact.tsx,nursing,sub_sub_title,Phone,page JSX
+nursing30,Replit,Contact.tsx,nursing,sub_sub_title,Email,page JSX
+nursing30,Replit,Contact.tsx,nursing,sub_sub_title,Office Hours,page JSX
+nursing30,Replit,Contact.tsx,nursing,sub_sub_title,Follow Us,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,"Stay connected with our nursing program on social media for news, events, and student stories.",page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Name must be at least 2 characters,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Please enter a valid email address,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Subject must be at least 3 characters,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Message must be at least 10 characters,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,", email:",page JSX
+nursing30,Replit,Contact.tsx,nursing,text,", phone:",page JSX
+nursing30,Replit,Contact.tsx,nursing,text,", subject:",page JSX
+nursing30,Replit,Contact.tsx,nursing,text,", message:",page JSX
+nursing30,Replit,Contact.tsx,nursing,text,", description:",page JSX
+nursing30,Replit,Contact.tsx,nursing,text,_blank,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Facebook,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Twitter,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,Instagram,page JSX
+nursing30,Replit,Contact.tsx,nursing,text,LinkedIn,page JSX
+nursing30,Replit,Faculty.tsx,nursing,title,Our Expert Faculty,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Learn from experienced nursing professionals dedicated to your success,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Our faculty members are accomplished nurses, educators, and researchers who bring real-world experience and academic excellence to the classroom. They are committed to mentoring the next generation of nursing professionals.",page JSX
+nursing30,Replit,Faculty.tsx,nursing,sub_title,Join Our Faculty Community,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Interested in teaching with us? We're always looking for passionate nursing professionals to join our team.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,button_text,Contact Us About Faculty Positions,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Sarah Chen,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Professor & Dean of Nursing,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"PhD, RN, FAAN",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Nursing Education, Healthcare Leadership",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Chen brings over 25 years of experience in nursing education and healthcare administration. Her research focuses on innovative teaching strategies and nursing workforce development. She has published extensively in leading nursing journals and serves on multiple national nursing education committees.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Robert Morrison,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Professor of Medical-Surgical Nursing,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"PhD, RN, CNE",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Critical Care, Adult Health Nursing",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Morrison has spent three decades practicing and teaching critical care nursing. His clinical expertise in intensive care units combined with his passion for education makes him an invaluable mentor to students. He has received numerous teaching excellence awards throughout his career.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Michelle Johnson,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Associate Professor,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"DNP, RN, FNP-BC",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Primary Care, Community Health",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Johnson is a board-certified Family Nurse Practitioner who maintains an active clinical practice while teaching. Her expertise in community health and health disparities informs her culturally-sensitive approach to nursing education. She leads several community outreach initiatives.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Carlos Martinez,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Assistant Professor & Clinical Coordinator,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"PhD, RN, CCRN",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Simulation Education, Emergency Nursing",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Dr. Martinez oversees our state-of-the-art simulation labs and coordinates clinical placements. With a background in emergency and trauma nursing, he brings real-world expertise to simulation scenarios, ensuring students are well-prepared for clinical practice.",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Patricia Anderson,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Professor & Department Chair,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"PhD, RN, NEA-BC",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Nursing Administration, Quality Improvement",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Anderson leads our department with a vision for excellence in nursing education. Her background in nursing administration and quality improvement has shaped our program's focus on evidence-based practice and continuous quality enhancement.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Raj Patel,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Assistant Professor of Pediatrics,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"DNP, RN, CPNP-PC",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Pediatric Nursing, Child Health",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Patel is a certified Pediatric Nurse Practitioner with extensive experience in children's hospitals. His gentle teaching approach and dedication to pediatric care inspire students to pursue careers working with children and families.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Amira Hassan,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Associate Professor of Research,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"PhD, RN",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Nursing Research, Evidence-Based Practice",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Dr. Hassan leads our research initiatives and mentors students in scholarly activities. Her internationally recognized research in evidence-based practice has contributed significantly to improving patient outcomes. She encourages students to engage in research from their first year.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Prof. Elena Rodriguez,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Clinical Instructor,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"MSN, RN, CNE",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,"Maternal-Newborn Nursing, Women's Health",page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Professor Rodriguez brings warmth and expertise to teaching maternal-newborn nursing. Her clinical background in labor and delivery combined with her patient advocacy work provides students with comprehensive preparation for women's health nursing.,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,Faculty and students in nursing education,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,size=,page JSX
+nursing30,Replit,Faculty.tsx,nursing,text,data-testid=,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,title,About Our BSN Program,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Comprehensive nursing education for tomorrow's healthcare leaders,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_title,Program Description,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Our Bachelor of Science in Nursing (BSN) program is designed to prepare students for professional nursing practice in diverse healthcare settings. Through a combination of rigorous classroom instruction, advanced simulation experiences, and extensive clinical rotations, students develop the knowledge, skills, and professional values essential for excellence in nursing.",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"The curriculum emphasizes evidence-based practice, patient-centered care, and interprofessional collaboration. Students learn from experienced faculty who are actively engaged in clinical practice and research, ensuring that education reflects current healthcare trends and innovations.",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_title,Learning Outcomes,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Upon completion of the BSN program, graduates will be able to:",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_title,Curriculum by Year,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Year 1,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Year 2,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Year 3,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Year 4,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_sub_title,Foundations of Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Fall Semester,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Anatomy & Physiology I,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Introduction to Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Chemistry for Health Sciences,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• English Composition,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Psychology,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Spring Semester,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Anatomy & Physiology II,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Microbiology,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Nutrition,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Developmental Psychology,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Statistics,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_sub_title,Core Nursing Practice,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Health Assessment,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Pharmacology I,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Pathophysiology,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Fundamentals of Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Medical-Surgical Nursing I,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Pharmacology II,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Medical-Surgical Nursing II,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Mental Health Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Nursing Research,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Clinical Practicum I,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_sub_title,Advanced Clinical Practice,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Maternal-Newborn Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Pediatric Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Community Health Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Nursing Informatics,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Clinical Practicum II,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Critical Care Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Gerontological Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Evidence-Based Practice,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Healthcare Ethics,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Clinical Practicum III,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_sub_title,Leadership & Capstone,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Nursing Leadership & Management,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Population Health,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Complex Care Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Professional Issues in Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Clinical Practicum IV,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Capstone Project,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Transition to Professional Practice,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• NCLEX-RN Preparation,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Senior Clinical Immersion,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,list_item,• Elective,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_title,Career Opportunities,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,A BSN degree opens doors to diverse and rewarding career paths in healthcare:,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,sub_title,Why Choose Our Program,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Duration,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,4 Years (Traditional),page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Degree,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Bachelor of Science in Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Credits,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,120 Credit Hours,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Study Mode,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Full-time, Hybrid Options",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Apply evidence-based nursing practice to provide safe, quality patient care across diverse settings",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Demonstrate clinical reasoning and critical thinking in complex healthcare situations,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Communicate effectively with patients, families, and interprofessional healthcare teams",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Integrate leadership principles and advocate for patients, communities, and the profession",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Utilize technology and informatics to improve patient outcomes and healthcare delivery,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Provide culturally sensitive care that respects diversity and promotes health equity,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Apply research findings to enhance nursing practice and contribute to quality improvement,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Practice within legal, ethical, and professional standards of nursing",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Hospital Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Work in acute care settings including medical-surgical, critical care, emergency, and specialty units.",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Pediatric Nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Provide compassionate care to children and adolescents in hospitals, clinics, and specialized pediatric facilities.",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Community Health,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Promote wellness and prevent disease in community settings, public health departments, and outreach programs.",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Advanced Practice,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,"Continue your education to become a Nurse Practitioner, Clinical Nurse Specialist, or Nurse Anesthetist.",page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,CCNE-accredited program recognized nationally for excellence,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,State-of-the-art simulation labs with high-fidelity mannequins,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Clinical partnerships with top-ranked medical centers and hospitals,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Small class sizes ensuring personalized attention and mentorship,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Flexible scheduling options including evening and weekend courses,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Dedicated student success center with tutoring and career services,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Study abroad and global health opportunities available,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Active student nursing association and honor society chapters,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Nursing students in learning environment,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Clinical skills practice,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Technology in nursing,page JSX
+nursing30,Replit,AboutProgram.tsx,nursing,text,Classroom learning,page JSX
+nursing30,Replit,Admissions.tsx,nursing,title,Admissions,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Start your journey to becoming a registered nurse,page JSX
+nursing30,Replit,Admissions.tsx,nursing,sub_title,Admission Requirements,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Our BSN program seeks passionate, dedicated students who are committed to excellence in nursing. Review the requirements below to ensure you're prepared for a successful application.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,sub_title,Application Deadlines,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Start Term,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Priority Deadline,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Regular Deadline,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Notification,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Priority applicants receive early consideration and have better access to scholarships and financial aid.,page JSX
+nursing30,Replit,Admissions.tsx,nursing,sub_title,Application Process,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Follow these steps to complete your application to the BSN program:,page JSX
+nursing30,Replit,Admissions.tsx,nursing,sub_title,Ready to Apply?,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Take the first step toward your nursing career. Our admissions team is here to help you through every step of the process.,page JSX
+nursing30,Replit,Admissions.tsx,nursing,button_text,Start Your Application,page JSX
+nursing30,Replit,Admissions.tsx,nursing,button_text,Schedule a Campus Visit,page JSX
+nursing30,Replit,Admissions.tsx,nursing,sub_title,Frequently Asked Questions,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,High school diploma or equivalent with minimum 3.0 GPA,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Completion of prerequisite courses: Biology, Chemistry, Anatomy & Physiology",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Minimum SAT score of 1100 or ACT score of 22 (or test-optional portfolio),page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Three letters of recommendation (academic or professional),page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Personal statement (500-750 words) describing your interest in nursing,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Current CPR certification (can be obtained after admission),page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Criminal background check and health screening (completed upon acceptance),page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Proof of immunizations and health insurance,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Fall 2025,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"November 1, 2024",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"February 1, 2025",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"April 15, 2025",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Spring 2026,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"July 1, 2025",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"October 1, 2025",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"December 1, 2025",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Fall 2026,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"November 1, 2025",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"February 1, 2026",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"April 15, 2026",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Submit Online Application,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Complete the university application form and pay the $50 application fee. Be sure to select 'Bachelor of Science in Nursing' as your intended major.,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Request Transcripts,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Have official high school transcripts and any college transcripts sent directly to the admissions office. Transcripts should show completion of prerequisite courses.,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Submit Supporting Documents,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Upload your personal statement, letters of recommendation, and any additional materials through the application portal.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Interview (If Selected),page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Qualified applicants may be invited for an interview with nursing faculty. This is an opportunity to learn more about the program and demonstrate your passion for nursing.,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Receive Decision,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Admissions decisions are sent by email and through the application portal. Accepted students will receive information about next steps and enrollment.,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Accept Offer & Enroll,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Confirm your enrollment by submitting your deposit and completing required pre-enrollment requirements including health screenings and orientation registration.,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,What is the acceptance rate for the BSN program?,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Our BSN program is competitive, with an acceptance rate of approximately 35-40%. We review applications holistically, considering academic achievement, prerequisite coursework, letters of recommendation, and demonstrated commitment to nursing.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Can I transfer credits from another institution?,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Yes, we accept transfer credits from regionally accredited institutions. Transfer credits are evaluated on a case-by-case basis. General education and prerequisite courses are most commonly transferable, while nursing courses must be reviewed by our faculty.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Is financial aid available?,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Yes, we offer a variety of financial aid options including federal aid, scholarships, grants, and student loans. Complete the FAFSA to be considered for federal and institutional aid. We also offer nursing-specific scholarships for qualified students.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Do you offer an accelerated BSN program?,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Yes, we offer an accelerated BSN program for students who already hold a bachelor's degree in another field. This intensive 16-month program allows career changers to become registered nurses quickly while receiving the same comprehensive education.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,What are the clinical placement locations?,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Our students complete clinical rotations at over 25 partner healthcare facilities including major hospitals, specialty clinics, community health centers, and long-term care facilities throughout the region. We work to place students at sites convenient to their location when possible.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Is the program offered online or hybrid?,page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,"Our traditional BSN program is primarily on-campus with hybrid options for some courses. Theory courses may have online components, but clinical and simulation experiences require in-person attendance. We also offer a fully online RN-to-BSN program for working nurses.",page JSX
+nursing30,Replit,Admissions.tsx,nursing,text,Nursing students celebrating graduation,page JSX
 Nursing23,Replit,Footer.tsx,nursing,sub_sub_title,Quick Links,page JSX
 Nursing23,Replit,Footer.tsx,nursing,button_text,Home,page JSX
 Nursing23,Replit,Footer.tsx,nursing,button_text,About Program,page JSX

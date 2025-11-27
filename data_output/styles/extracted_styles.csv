@@ -1591,6 +1591,384 @@ hero-gradient-start,213 94% 34%,dark,Other / unspecified,"(5, 79, 168)",dark blu
 hero-gradient-end,213 94% 24%,dark,Other / unspecified,"(4, 55, 119)",dark blue,cs_2-main,Lovable,index,computer_science
 section-bg,215 28% 20%,dark,Other / unspecified,"(37, 49, 65)",dark blue,cs_2-main,Lovable,index,computer_science
 text-light,215 20% 65%,dark,Other / unspecified,"(148, 163, 184)",light blue,cs_2-main,Lovable,index,computer_science
+button-outline,"rgba(0,0,0, .10)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+badge-outline,"rgba(0,0,0, .05)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+opaque-button-border-intensity,-8,light,Other / unspecified,,,nursing29,Replit,index,nursing
+elevate-1,"rgba(0,0,0, .03)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+elevate-2,"rgba(0,0,0, .08)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+background,0 0% 100%,light,body,"(255, 255, 255)",very light gray,nursing29,Replit,index,nursing
+foreground,210 6% 12%,light,body text,"(29, 31, 32)",dark gray,nursing29,Replit,index,nursing
+border,210 4% 92%,light,borders,"(234, 235, 235)",very light gray,nursing29,Replit,index,nursing
+card,0 0% 98%,light,card background,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+card-foreground,210 6% 12%,light,card text,"(29, 31, 32)",dark gray,nursing29,Replit,index,nursing
+card-border,210 4% 94%,light,Other / unspecified,"(239, 240, 240)",very light gray,nursing29,Replit,index,nursing
+sidebar,210 3% 96%,light,Other / unspecified,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+sidebar-foreground,210 6% 12%,light,sidebar text,"(29, 31, 32)",dark gray,nursing29,Replit,index,nursing
+sidebar-border,210 3% 92%,light,sidebar borders,"(234, 235, 235)",very light gray,nursing29,Replit,index,nursing
+sidebar-primary,203 88% 42%,light,sidebar primary elements,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+sidebar-accent,210 6% 90%,light,sidebar accent elements,"(228, 230, 231)",very light gray,nursing29,Replit,index,nursing
+sidebar-accent-foreground,210 8% 15%,light,sidebar accent text,"(35, 38, 41)",dark gray,nursing29,Replit,index,nursing
+sidebar-ring,203 88% 42%,light,sidebar focus ring,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+popover,0 0% 97%,light,popover background,"(247, 247, 247)",very light gray,nursing29,Replit,index,nursing
+popover-foreground,210 6% 12%,light,popover text,"(29, 31, 32)",dark gray,nursing29,Replit,index,nursing
+popover-border,210 4% 93%,light,Other / unspecified,"(236, 237, 238)",very light gray,nursing29,Replit,index,nursing
+primary,203 88% 42%,light,primary button background / highlights,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+primary-foreground,0 0% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+secondary,210 8% 92%,light,secondary components / sections,"(233, 235, 236)",very light gray,nursing29,Replit,index,nursing
+secondary-foreground,210 8% 15%,light,secondary text,"(35, 38, 41)",dark gray,nursing29,Replit,index,nursing
+muted,210 8% 94%,light,muted backgrounds,"(238, 240, 241)",very light gray,nursing29,Replit,index,nursing
+muted-foreground,210 6% 38%,light,muted text,"(91, 97, 103)",medium gray,nursing29,Replit,index,nursing
+accent,210 12% 93%,light,accent elements,"(235, 237, 239)",very light blue,nursing29,Replit,index,nursing
+accent-foreground,210 8% 15%,light,accent text,"(35, 38, 41)",dark gray,nursing29,Replit,index,nursing
+destructive,0 84% 45%,light,destructive button background / error,"(211, 18, 18)",medium red,nursing29,Replit,index,nursing
+destructive-foreground,0 0% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+input,210 6% 75%,light,input background,"(187, 191, 195)",light gray,nursing29,Replit,index,nursing
+ring,203 88% 42%,light,focus ring / outline,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+chart-1,203 88% 42%,light,Other / unspecified,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+chart-2,195 78% 38%,light,Other / unspecified,"(21, 135, 172)",medium blue,nursing29,Replit,index,nursing
+chart-3,186 68% 35%,light,Other / unspecified,"(29, 138, 150)",medium cyan,nursing29,Replit,index,nursing
+chart-4,177 58% 32%,light,Other / unspecified,"(34, 129, 124)",dark cyan,nursing29,Replit,index,nursing
+chart-5,168 48% 30%,light,Other / unspecified,"(40, 113, 99)",dark cyan,nursing29,Replit,index,nursing
+font-sans,"Inter, sans-serif",light,Other / unspecified,,,nursing29,Replit,index,nursing
+font-serif,"Georgia, serif",light,Other / unspecified,,,nursing29,Replit,index,nursing
+font-mono,"Menlo, monospace",light,Other / unspecified,,,nursing29,Replit,index,nursing
+radius,.5rem,light,border radius,,,nursing29,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 6% 12% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 6% 12% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 1px 2px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 1px 2px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 2px 4px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 4px 6px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 8px 10px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 6% 12% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+tracking-normal,0em,light,Other / unspecified,,,nursing29,Replit,index,nursing
+spacing,0.25rem,light,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+opaque-button-border-intensity,9,light,Other / unspecified,,,nursing29,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+background,210 6% 8%,light,body,"(19, 20, 22)",very dark gray,nursing29,Replit,index,nursing
+foreground,210 4% 96%,light,body text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+border,210 6% 18%,light,borders,"(43, 46, 49)",dark gray,nursing29,Replit,index,nursing
+card,210 6% 10%,light,card background,"(24, 26, 27)",dark gray,nursing29,Replit,index,nursing
+card-foreground,210 4% 96%,light,card text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+card-border,210 6% 14%,light,Other / unspecified,"(34, 36, 38)",dark gray,nursing29,Replit,index,nursing
+sidebar,210 6% 12%,light,Other / unspecified,"(29, 31, 32)",dark gray,nursing29,Replit,index,nursing
+sidebar-foreground,210 4% 96%,light,sidebar text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+sidebar-border,210 6% 16%,light,sidebar borders,"(38, 41, 43)",dark gray,nursing29,Replit,index,nursing
+sidebar-primary,203 88% 42%,light,sidebar primary elements,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+sidebar-accent,210 8% 16%,light,sidebar accent elements,"(38, 41, 44)",dark gray,nursing29,Replit,index,nursing
+sidebar-accent-foreground,210 4% 96%,light,sidebar accent text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+sidebar-ring,203 88% 42%,light,sidebar focus ring,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+popover,210 6% 14%,light,popover background,"(34, 36, 38)",dark gray,nursing29,Replit,index,nursing
+popover-foreground,210 4% 96%,light,popover text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+popover-border,210 6% 18%,light,Other / unspecified,"(43, 46, 49)",dark gray,nursing29,Replit,index,nursing
+primary,203 88% 42%,light,primary button background / highlights,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+primary-foreground,0 0% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+secondary,210 8% 18%,light,secondary components / sections,"(42, 46, 50)",dark gray,nursing29,Replit,index,nursing
+secondary-foreground,210 4% 96%,light,secondary text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+muted,210 8% 16%,light,muted backgrounds,"(38, 41, 44)",dark gray,nursing29,Replit,index,nursing
+muted-foreground,210 6% 65%,light,muted text,"(160, 166, 171)",light gray,nursing29,Replit,index,nursing
+accent,210 10% 15%,light,accent elements,"(34, 38, 42)",dark blue,nursing29,Replit,index,nursing
+accent-foreground,210 4% 96%,light,accent text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+destructive,0 84% 45%,light,destructive button background / error,"(211, 18, 18)",medium red,nursing29,Replit,index,nursing
+destructive-foreground,0 0% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+input,210 8% 30%,light,input background,"(70, 76, 83)",dark gray,nursing29,Replit,index,nursing
+ring,203 88% 42%,light,focus ring / outline,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+chart-1,203 88% 65%,light,Other / unspecified,"(87, 184, 244)",light blue,nursing29,Replit,index,nursing
+chart-2,195 78% 62%,light,Other / unspecified,"(83, 196, 234)",medium blue,nursing29,Replit,index,nursing
+chart-3,186 68% 58%,light,Other / unspecified,"(75, 206, 221)",medium cyan,nursing29,Replit,index,nursing
+chart-4,177 58% 55%,light,Other / unspecified,"(74, 207, 200)",medium cyan,nursing29,Replit,index,nursing
+chart-5,168 48% 52%,light,Other / unspecified,"(74, 191, 168)",medium cyan,nursing29,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 4% 96% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 4% 96% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 1px 2px -1px hsl(210 4% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 1px 2px -1px hsl(210 4% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 2px 4px -1px hsl(210 4% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 4px 6px -1px hsl(210 4% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 8px 10px -1px hsl(210 4% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 4% 96% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing29,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing29,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+opaque-button-border-intensity,9,dark,Other / unspecified,,,nursing29,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing29,Replit,index,nursing
+background,210 6% 8%,dark,body,"(19, 20, 22)",very dark gray,nursing29,Replit,index,nursing
+foreground,210 4% 96%,dark,body text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+border,210 6% 18%,dark,borders,"(43, 46, 49)",dark gray,nursing29,Replit,index,nursing
+card,210 6% 10%,dark,card background,"(24, 26, 27)",dark gray,nursing29,Replit,index,nursing
+card-foreground,210 4% 96%,dark,card text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+card-border,210 6% 14%,dark,Other / unspecified,"(34, 36, 38)",dark gray,nursing29,Replit,index,nursing
+sidebar,210 6% 12%,dark,Other / unspecified,"(29, 31, 32)",dark gray,nursing29,Replit,index,nursing
+sidebar-foreground,210 4% 96%,dark,sidebar text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+sidebar-border,210 6% 16%,dark,sidebar borders,"(38, 41, 43)",dark gray,nursing29,Replit,index,nursing
+sidebar-primary,203 88% 42%,dark,sidebar primary elements,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,dark,sidebar primary text,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+sidebar-accent,210 8% 16%,dark,sidebar accent elements,"(38, 41, 44)",dark gray,nursing29,Replit,index,nursing
+sidebar-accent-foreground,210 4% 96%,dark,sidebar accent text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+sidebar-ring,203 88% 42%,dark,sidebar focus ring,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+popover,210 6% 14%,dark,popover background,"(34, 36, 38)",dark gray,nursing29,Replit,index,nursing
+popover-foreground,210 4% 96%,dark,popover text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+popover-border,210 6% 18%,dark,Other / unspecified,"(43, 46, 49)",dark gray,nursing29,Replit,index,nursing
+primary,203 88% 42%,dark,primary button background / highlights,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+primary-foreground,0 0% 98%,dark,primary button text / highlights,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+secondary,210 8% 18%,dark,secondary components / sections,"(42, 46, 50)",dark gray,nursing29,Replit,index,nursing
+secondary-foreground,210 4% 96%,dark,secondary text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+muted,210 8% 16%,dark,muted backgrounds,"(38, 41, 44)",dark gray,nursing29,Replit,index,nursing
+muted-foreground,210 6% 65%,dark,muted text,"(160, 166, 171)",light gray,nursing29,Replit,index,nursing
+accent,210 10% 15%,dark,accent elements,"(34, 38, 42)",dark blue,nursing29,Replit,index,nursing
+accent-foreground,210 4% 96%,dark,accent text,"(244, 245, 245)",very light gray,nursing29,Replit,index,nursing
+destructive,0 84% 45%,dark,destructive button background / error,"(211, 18, 18)",medium red,nursing29,Replit,index,nursing
+destructive-foreground,0 0% 98%,dark,destructive text,"(250, 250, 250)",very light gray,nursing29,Replit,index,nursing
+input,210 8% 30%,dark,input background,"(70, 76, 83)",dark gray,nursing29,Replit,index,nursing
+ring,203 88% 42%,dark,focus ring / outline,"(13, 129, 201)",medium blue,nursing29,Replit,index,nursing
+chart-1,203 88% 65%,dark,Other / unspecified,"(87, 184, 244)",light blue,nursing29,Replit,index,nursing
+chart-2,195 78% 62%,dark,Other / unspecified,"(83, 196, 234)",medium blue,nursing29,Replit,index,nursing
+chart-3,186 68% 58%,dark,Other / unspecified,"(75, 206, 221)",medium cyan,nursing29,Replit,index,nursing
+chart-4,177 58% 55%,dark,Other / unspecified,"(74, 207, 200)",medium cyan,nursing29,Replit,index,nursing
+chart-5,168 48% 52%,dark,Other / unspecified,"(74, 191, 168)",medium cyan,nursing29,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 4% 96% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 4% 96% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 1px 2px -1px hsl(210 4% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 1px 2px -1px hsl(210 4% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 2px 4px -1px hsl(210 4% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 4px 6px -1px hsl(210 4% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 4% 96% / 0.00), 0px 8px 10px -1px hsl(210 4% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 4% 96% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing29,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+primary-border,hsl(var(--primary)),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+muted-border,hsl(var(--muted)),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+accent-border,hsl(var(--accent)),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing29,Replit,index,nursing
+button-outline,"rgba(0,0,0, .10)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+badge-outline,"rgba(0,0,0, .05)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+opaque-button-border-intensity,-8,light,Other / unspecified,,,nursing27,Replit,index,nursing
+elevate-1,"rgba(0,0,0, .03)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+elevate-2,"rgba(0,0,0, .08)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+background,0 0% 100%,light,body,"(255, 255, 255)",very light gray,nursing27,Replit,index,nursing
+foreground,210 6% 12%,light,body text,"(29, 31, 32)",dark gray,nursing27,Replit,index,nursing
+border,210 6% 92%,light,borders,"(233, 235, 236)",very light gray,nursing27,Replit,index,nursing
+card,0 0% 98%,light,card background,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+card-foreground,210 6% 12%,light,card text,"(29, 31, 32)",dark gray,nursing27,Replit,index,nursing
+card-border,0 0% 95%,light,Other / unspecified,"(242, 242, 242)",very light gray,nursing27,Replit,index,nursing
+sidebar,0 0% 96%,light,Other / unspecified,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+sidebar-foreground,210 6% 15%,light,sidebar text,"(36, 38, 41)",dark gray,nursing27,Replit,index,nursing
+sidebar-border,0 0% 92%,light,sidebar borders,"(235, 235, 235)",very light gray,nursing27,Replit,index,nursing
+sidebar-primary,203 89% 42%,light,sidebar primary elements,"(12, 129, 202)",medium blue,nursing27,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+sidebar-accent,203 12% 88%,light,sidebar accent elements,"(221, 225, 228)",very light blue,nursing27,Replit,index,nursing
+sidebar-accent-foreground,210 6% 15%,light,sidebar accent text,"(36, 38, 41)",dark gray,nursing27,Replit,index,nursing
+sidebar-ring,203 89% 42%,light,sidebar focus ring,"(12, 129, 202)",medium blue,nursing27,Replit,index,nursing
+popover,0 0% 97%,light,popover background,"(247, 247, 247)",very light gray,nursing27,Replit,index,nursing
+popover-foreground,210 6% 12%,light,popover text,"(29, 31, 32)",dark gray,nursing27,Replit,index,nursing
+popover-border,0 0% 94%,light,Other / unspecified,"(240, 240, 240)",very light gray,nursing27,Replit,index,nursing
+primary,203 89% 42%,light,primary button background / highlights,"(12, 129, 202)",medium blue,nursing27,Replit,index,nursing
+primary-foreground,0 0% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+secondary,203 8% 91%,light,secondary components / sections,"(230, 232, 234)",very light gray,nursing27,Replit,index,nursing
+secondary-foreground,210 6% 12%,light,secondary text,"(29, 31, 32)",dark gray,nursing27,Replit,index,nursing
+muted,203 8% 93%,light,muted backgrounds,"(236, 237, 239)",very light gray,nursing27,Replit,index,nursing
+muted-foreground,210 5% 38%,light,muted text,"(92, 97, 102)",medium gray,nursing27,Replit,index,nursing
+accent,203 10% 92%,light,accent elements,"(233, 235, 237)",very light blue,nursing27,Replit,index,nursing
+accent-foreground,210 6% 12%,light,accent text,"(29, 31, 32)",dark gray,nursing27,Replit,index,nursing
+destructive,0 72% 51%,light,destructive button background / error,"(220, 40, 40)",medium red,nursing27,Replit,index,nursing
+destructive-foreground,0 0% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+input,210 8% 78%,light,input background,"(194, 199, 203)",light gray,nursing27,Replit,index,nursing
+ring,203 89% 42%,light,focus ring / outline,"(12, 129, 202)",medium blue,nursing27,Replit,index,nursing
+chart-1,203 89% 42%,light,Other / unspecified,"(12, 129, 202)",medium blue,nursing27,Replit,index,nursing
+chart-2,173 58% 39%,light,Other / unspecified,"(42, 157, 144)",medium cyan,nursing27,Replit,index,nursing
+chart-3,197 37% 45%,light,Other / unspecified,"(72, 133, 157)",medium blue,nursing27,Replit,index,nursing
+chart-4,43 74% 49%,light,Other / unspecified,"(217, 165, 32)",medium orange,nursing27,Replit,index,nursing
+chart-5,27 87% 54%,light,Other / unspecified,"(240, 127, 36)",medium orange,nursing27,Replit,index,nursing
+font-sans,"Inter, system-ui, -apple-system, sans-serif",light,Other / unspecified,,,nursing27,Replit,index,nursing
+font-serif,"Georgia, serif",light,Other / unspecified,,,nursing27,Replit,index,nursing
+font-mono,"Menlo, monospace",light,Other / unspecified,,,nursing27,Replit,index,nursing
+radius,.5rem,light,border radius,,,nursing27,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 6% 12% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 6% 12% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 1px 2px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 1px 2px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 2px 4px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 4px 6px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 6% 12% / 0.00), 0px 8px 10px -1px hsl(210 6% 12% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 6% 12% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+tracking-normal,0em,light,Other / unspecified,,,nursing27,Replit,index,nursing
+spacing,0.25rem,light,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+opaque-button-border-intensity,9,light,Other / unspecified,,,nursing27,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+background,210 6% 8%,light,body,"(19, 20, 22)",very dark gray,nursing27,Replit,index,nursing
+foreground,0 0% 96%,light,body text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+border,210 6% 18%,light,borders,"(43, 46, 49)",dark gray,nursing27,Replit,index,nursing
+card,210 6% 10%,light,card background,"(24, 26, 27)",dark gray,nursing27,Replit,index,nursing
+card-foreground,0 0% 96%,light,card text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+card-border,210 6% 13%,light,Other / unspecified,"(31, 33, 35)",dark gray,nursing27,Replit,index,nursing
+sidebar,210 6% 12%,light,Other / unspecified,"(29, 31, 32)",dark gray,nursing27,Replit,index,nursing
+sidebar-foreground,0 0% 92%,light,sidebar text,"(235, 235, 235)",very light gray,nursing27,Replit,index,nursing
+sidebar-border,210 6% 15%,light,sidebar borders,"(36, 38, 41)",dark gray,nursing27,Replit,index,nursing
+sidebar-primary,203 89% 48%,light,sidebar primary elements,"(13, 148, 231)",medium blue,nursing27,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+sidebar-accent,203 12% 16%,light,sidebar accent elements,"(36, 42, 46)",dark blue,nursing27,Replit,index,nursing
+sidebar-accent-foreground,0 0% 92%,light,sidebar accent text,"(235, 235, 235)",very light gray,nursing27,Replit,index,nursing
+sidebar-ring,203 89% 48%,light,sidebar focus ring,"(13, 148, 231)",medium blue,nursing27,Replit,index,nursing
+popover,210 6% 14%,light,popover background,"(34, 36, 38)",dark gray,nursing27,Replit,index,nursing
+popover-foreground,0 0% 96%,light,popover text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+popover-border,210 6% 17%,light,Other / unspecified,"(41, 43, 46)",dark gray,nursing27,Replit,index,nursing
+primary,203 89% 35%,light,primary button background / highlights,"(10, 108, 169)",medium blue,nursing27,Replit,index,nursing
+primary-foreground,0 0% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+secondary,203 8% 18%,light,secondary components / sections,"(42, 47, 50)",dark gray,nursing27,Replit,index,nursing
+secondary-foreground,0 0% 96%,light,secondary text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+muted,203 8% 16%,light,muted backgrounds,"(38, 42, 44)",dark gray,nursing27,Replit,index,nursing
+muted-foreground,210 5% 62%,light,muted text,"(153, 158, 163)",medium gray,nursing27,Replit,index,nursing
+accent,203 10% 15%,light,accent elements,"(34, 39, 42)",dark blue,nursing27,Replit,index,nursing
+accent-foreground,0 0% 96%,light,accent text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+destructive,0 62% 42%,light,destructive button background / error,"(174, 41, 41)",medium red,nursing27,Replit,index,nursing
+destructive-foreground,0 0% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+input,210 8% 28%,light,input background,"(66, 71, 77)",dark gray,nursing27,Replit,index,nursing
+ring,203 89% 48%,light,focus ring / outline,"(13, 148, 231)",medium blue,nursing27,Replit,index,nursing
+chart-1,203 89% 58%,light,Other / unspecified,"(53, 170, 243)",medium blue,nursing27,Replit,index,nursing
+chart-2,173 58% 55%,light,Other / unspecified,"(74, 207, 191)",medium cyan,nursing27,Replit,index,nursing
+chart-3,197 37% 62%,light,Other / unspecified,"(122, 174, 194)",medium blue,nursing27,Replit,index,nursing
+chart-4,43 74% 62%,light,Other / unspecified,"(230, 189, 86)",medium orange,nursing27,Replit,index,nursing
+chart-5,27 87% 65%,light,Other / unspecified,"(243, 158, 88)",light orange,nursing27,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(0 0% 96% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(0 0% 96% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 1px 2px -1px hsl(0 0% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 1px 2px -1px hsl(0 0% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 2px 4px -1px hsl(0 0% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 4px 6px -1px hsl(0 0% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 8px 10px -1px hsl(0 0% 96% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(0 0% 96% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing27,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing27,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+opaque-button-border-intensity,9,dark,Other / unspecified,,,nursing27,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing27,Replit,index,nursing
+background,210 6% 8%,dark,body,"(19, 20, 22)",very dark gray,nursing27,Replit,index,nursing
+foreground,0 0% 96%,dark,body text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+border,210 6% 18%,dark,borders,"(43, 46, 49)",dark gray,nursing27,Replit,index,nursing
+card,210 6% 10%,dark,card background,"(24, 26, 27)",dark gray,nursing27,Replit,index,nursing
+card-foreground,0 0% 96%,dark,card text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+card-border,210 6% 13%,dark,Other / unspecified,"(31, 33, 35)",dark gray,nursing27,Replit,index,nursing
+sidebar,210 6% 12%,dark,Other / unspecified,"(29, 31, 32)",dark gray,nursing27,Replit,index,nursing
+sidebar-foreground,0 0% 92%,dark,sidebar text,"(235, 235, 235)",very light gray,nursing27,Replit,index,nursing
+sidebar-border,210 6% 15%,dark,sidebar borders,"(36, 38, 41)",dark gray,nursing27,Replit,index,nursing
+sidebar-primary,203 89% 48%,dark,sidebar primary elements,"(13, 148, 231)",medium blue,nursing27,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,dark,sidebar primary text,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+sidebar-accent,203 12% 16%,dark,sidebar accent elements,"(36, 42, 46)",dark blue,nursing27,Replit,index,nursing
+sidebar-accent-foreground,0 0% 92%,dark,sidebar accent text,"(235, 235, 235)",very light gray,nursing27,Replit,index,nursing
+sidebar-ring,203 89% 48%,dark,sidebar focus ring,"(13, 148, 231)",medium blue,nursing27,Replit,index,nursing
+popover,210 6% 14%,dark,popover background,"(34, 36, 38)",dark gray,nursing27,Replit,index,nursing
+popover-foreground,0 0% 96%,dark,popover text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+popover-border,210 6% 17%,dark,Other / unspecified,"(41, 43, 46)",dark gray,nursing27,Replit,index,nursing
+primary,203 89% 35%,dark,primary button background / highlights,"(10, 108, 169)",medium blue,nursing27,Replit,index,nursing
+primary-foreground,0 0% 98%,dark,primary button text / highlights,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+secondary,203 8% 18%,dark,secondary components / sections,"(42, 47, 50)",dark gray,nursing27,Replit,index,nursing
+secondary-foreground,0 0% 96%,dark,secondary text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+muted,203 8% 16%,dark,muted backgrounds,"(38, 42, 44)",dark gray,nursing27,Replit,index,nursing
+muted-foreground,210 5% 62%,dark,muted text,"(153, 158, 163)",medium gray,nursing27,Replit,index,nursing
+accent,203 10% 15%,dark,accent elements,"(34, 39, 42)",dark blue,nursing27,Replit,index,nursing
+accent-foreground,0 0% 96%,dark,accent text,"(245, 245, 245)",very light gray,nursing27,Replit,index,nursing
+destructive,0 62% 42%,dark,destructive button background / error,"(174, 41, 41)",medium red,nursing27,Replit,index,nursing
+destructive-foreground,0 0% 98%,dark,destructive text,"(250, 250, 250)",very light gray,nursing27,Replit,index,nursing
+input,210 8% 28%,dark,input background,"(66, 71, 77)",dark gray,nursing27,Replit,index,nursing
+ring,203 89% 48%,dark,focus ring / outline,"(13, 148, 231)",medium blue,nursing27,Replit,index,nursing
+chart-1,203 89% 58%,dark,Other / unspecified,"(53, 170, 243)",medium blue,nursing27,Replit,index,nursing
+chart-2,173 58% 55%,dark,Other / unspecified,"(74, 207, 191)",medium cyan,nursing27,Replit,index,nursing
+chart-3,197 37% 62%,dark,Other / unspecified,"(122, 174, 194)",medium blue,nursing27,Replit,index,nursing
+chart-4,43 74% 62%,dark,Other / unspecified,"(230, 189, 86)",medium orange,nursing27,Replit,index,nursing
+chart-5,27 87% 65%,dark,Other / unspecified,"(243, 158, 88)",light orange,nursing27,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(0 0% 96% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(0 0% 96% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 1px 2px -1px hsl(0 0% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 1px 2px -1px hsl(0 0% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 2px 4px -1px hsl(0 0% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 4px 6px -1px hsl(0 0% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(0 0% 96% / 0.00), 0px 8px 10px -1px hsl(0 0% 96% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(0 0% 96% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing27,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+primary-border,hsl(var(--primary)),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+muted-border,hsl(var(--muted)),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+accent-border,hsl(var(--accent)),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),dark,Other / unspecified,,,nursing27,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing27,Replit,index,nursing
 button-outline,"rgba(0,0,0, .10)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Nursing21,Replit,index,nursing
 badge-outline,"rgba(0,0,0, .05)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Nursing21,Replit,index,nursing
 opaque-button-border-intensity,-8,light,Other / unspecified,,,Nursing21,Replit,index,nursing
@@ -1780,6 +2158,574 @@ accent-border,hsl(var(--accent)),dark,Other / unspecified,,,Nursing21,Replit,ind
 accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,Nursing21,Replit,index,nursing
 destructive-border,hsl(var(--destructive)),dark,Other / unspecified,,,Nursing21,Replit,index,nursing
 destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,Nursing21,Replit,index,nursing
+button-outline,"rgba(0,0,0, .10)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+badge-outline,"rgba(0,0,0, .05)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+opaque-button-border-intensity,-8,light,Other / unspecified,,,nursing26,Replit,index,nursing
+elevate-1,"rgba(0,0,0, .03)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+elevate-2,"rgba(0,0,0, .08)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+background,0 0% 100%,light,body,"(255, 255, 255)",very light gray,nursing26,Replit,index,nursing
+foreground,210 8% 15%,light,body text,"(35, 38, 41)",dark gray,nursing26,Replit,index,nursing
+border,210 6% 92%,light,borders,"(233, 235, 236)",very light gray,nursing26,Replit,index,nursing
+card,210 4% 98%,light,card background,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+card-foreground,210 8% 15%,light,card text,"(35, 38, 41)",dark gray,nursing26,Replit,index,nursing
+card-border,210 6% 94%,light,Other / unspecified,"(239, 240, 241)",very light gray,nursing26,Replit,index,nursing
+sidebar,210 4% 96%,light,Other / unspecified,"(244, 245, 245)",very light gray,nursing26,Replit,index,nursing
+sidebar-foreground,210 8% 15%,light,sidebar text,"(35, 38, 41)",dark gray,nursing26,Replit,index,nursing
+sidebar-border,210 6% 90%,light,sidebar borders,"(228, 230, 231)",very light gray,nursing26,Replit,index,nursing
+sidebar-primary,207 85% 42%,light,sidebar primary elements,"(16, 116, 198)",medium blue,nursing26,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+sidebar-accent,210 8% 88%,light,sidebar accent elements,"(222, 224, 227)",very light gray,nursing26,Replit,index,nursing
+sidebar-accent-foreground,210 10% 20%,light,sidebar accent text,"(46, 51, 56)",dark blue,nursing26,Replit,index,nursing
+sidebar-ring,207 85% 42%,light,sidebar focus ring,"(16, 116, 198)",medium blue,nursing26,Replit,index,nursing
+popover,210 6% 94%,light,popover background,"(239, 240, 241)",very light gray,nursing26,Replit,index,nursing
+popover-foreground,210 8% 15%,light,popover text,"(35, 38, 41)",dark gray,nursing26,Replit,index,nursing
+popover-border,210 8% 88%,light,Other / unspecified,"(222, 224, 227)",very light gray,nursing26,Replit,index,nursing
+primary,207 85% 42%,light,primary button background / highlights,"(16, 116, 198)",medium blue,nursing26,Replit,index,nursing
+primary-foreground,0 0% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+secondary,210 8% 88%,light,secondary components / sections,"(222, 224, 227)",very light gray,nursing26,Replit,index,nursing
+secondary-foreground,210 10% 20%,light,secondary text,"(46, 51, 56)",dark blue,nursing26,Replit,index,nursing
+muted,210 10% 90%,light,muted backgrounds,"(227, 230, 232)",very light blue,nursing26,Replit,index,nursing
+muted-foreground,210 8% 35%,light,muted text,"(82, 89, 96)",medium gray,nursing26,Replit,index,nursing
+accent,207 15% 92%,light,accent elements,"(232, 235, 238)",very light blue,nursing26,Replit,index,nursing
+accent-foreground,210 10% 20%,light,accent text,"(46, 51, 56)",dark blue,nursing26,Replit,index,nursing
+destructive,0 72% 48%,light,destructive button background / error,"(211, 34, 34)",medium red,nursing26,Replit,index,nursing
+destructive-foreground,0 0% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+input,210 10% 65%,light,input background,"(157, 166, 175)",light blue,nursing26,Replit,index,nursing
+ring,207 85% 42%,light,focus ring / outline,"(16, 116, 198)",medium blue,nursing26,Replit,index,nursing
+chart-1,207 85% 42%,light,Other / unspecified,"(16, 116, 198)",medium blue,nursing26,Replit,index,nursing
+chart-2,175 65% 35%,light,Other / unspecified,"(31, 147, 138)",medium cyan,nursing26,Replit,index,nursing
+chart-3,197 75% 38%,light,Other / unspecified,"(24, 128, 170)",medium blue,nursing26,Replit,index,nursing
+chart-4,220 70% 45%,light,Other / unspecified,"(34, 88, 195)",medium blue,nursing26,Replit,index,nursing
+chart-5,188 80% 40%,light,Other / unspecified,"(20, 162, 184)",medium cyan,nursing26,Replit,index,nursing
+font-sans,"Open Sans, sans-serif",light,Other / unspecified,,,nursing26,Replit,index,nursing
+font-serif,"Georgia, serif",light,Other / unspecified,,,nursing26,Replit,index,nursing
+font-mono,"Menlo, monospace",light,Other / unspecified,,,nursing26,Replit,index,nursing
+radius,.5rem,light,border radius,,,nursing26,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 10% 50% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 10% 50% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 10% 50% / 0.00), 0px 1px 2px -1px hsl(210 10% 50% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 10% 50% / 0.00), 0px 1px 2px -1px hsl(210 10% 50% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 10% 50% / 0.00), 0px 2px 4px -1px hsl(210 10% 50% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 10% 50% / 0.00), 0px 4px 6px -1px hsl(210 10% 50% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 10% 50% / 0.00), 0px 8px 10px -1px hsl(210 10% 50% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 10% 50% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+tracking-normal,0em,light,Other / unspecified,,,nursing26,Replit,index,nursing
+spacing,0.25rem,light,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+opaque-button-border-intensity,9,light,Other / unspecified,,,nursing26,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+background,210 6% 8%,light,body,"(19, 20, 22)",very dark gray,nursing26,Replit,index,nursing
+foreground,210 4% 95%,light,body text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+border,210 6% 18%,light,borders,"(43, 46, 49)",dark gray,nursing26,Replit,index,nursing
+card,210 5% 10%,light,card background,"(24, 26, 27)",dark gray,nursing26,Replit,index,nursing
+card-foreground,210 4% 95%,light,card text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+card-border,210 6% 14%,light,Other / unspecified,"(34, 36, 38)",dark gray,nursing26,Replit,index,nursing
+sidebar,210 5% 12%,light,Other / unspecified,"(29, 31, 32)",dark gray,nursing26,Replit,index,nursing
+sidebar-foreground,210 4% 95%,light,sidebar text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+sidebar-border,210 6% 16%,light,sidebar borders,"(38, 41, 43)",dark gray,nursing26,Replit,index,nursing
+sidebar-primary,207 85% 55%,light,sidebar primary elements,"(43, 150, 238)",medium blue,nursing26,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+sidebar-accent,210 8% 18%,light,sidebar accent elements,"(42, 46, 50)",dark gray,nursing26,Replit,index,nursing
+sidebar-accent-foreground,210 4% 90%,light,sidebar accent text,"(228, 230, 231)",very light gray,nursing26,Replit,index,nursing
+sidebar-ring,207 85% 55%,light,sidebar focus ring,"(43, 150, 238)",medium blue,nursing26,Replit,index,nursing
+popover,210 6% 14%,light,popover background,"(34, 36, 38)",dark gray,nursing26,Replit,index,nursing
+popover-foreground,210 4% 95%,light,popover text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+popover-border,210 6% 20%,light,Other / unspecified,"(48, 51, 54)",dark gray,nursing26,Replit,index,nursing
+primary,207 85% 45%,light,primary button background / highlights,"(17, 125, 212)",medium blue,nursing26,Replit,index,nursing
+primary-foreground,0 0% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+secondary,210 8% 20%,light,secondary components / sections,"(47, 51, 55)",dark gray,nursing26,Replit,index,nursing
+secondary-foreground,210 4% 90%,light,secondary text,"(228, 230, 231)",very light gray,nursing26,Replit,index,nursing
+muted,210 8% 18%,light,muted backgrounds,"(42, 46, 50)",dark gray,nursing26,Replit,index,nursing
+muted-foreground,210 6% 70%,light,muted text,"(174, 178, 183)",light gray,nursing26,Replit,index,nursing
+accent,207 12% 16%,light,accent elements,"(36, 41, 46)",dark blue,nursing26,Replit,index,nursing
+accent-foreground,210 4% 90%,light,accent text,"(228, 230, 231)",very light gray,nursing26,Replit,index,nursing
+destructive,0 72% 42%,light,destructive button background / error,"(184, 30, 30)",medium red,nursing26,Replit,index,nursing
+destructive-foreground,0 0% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+input,210 10% 35%,light,input background,"(80, 89, 98)",medium blue,nursing26,Replit,index,nursing
+ring,207 85% 55%,light,focus ring / outline,"(43, 150, 238)",medium blue,nursing26,Replit,index,nursing
+chart-1,207 85% 65%,light,Other / unspecified,"(90, 173, 242)",light blue,nursing26,Replit,index,nursing
+chart-2,175 65% 60%,light,Other / unspecified,"(87, 219, 208)",medium cyan,nursing26,Replit,index,nursing
+chart-3,197 75% 62%,light,Other / unspecified,"(85, 190, 231)",medium blue,nursing26,Replit,index,nursing
+chart-4,220 70% 68%,light,Other / unspecified,"(116, 154, 231)",light blue,nursing26,Replit,index,nursing
+chart-5,188 80% 65%,light,Other / unspecified,"(94, 218, 237)",light cyan,nursing26,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 10% 5% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 10% 5% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 1px 2px -1px hsl(210 10% 5% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 1px 2px -1px hsl(210 10% 5% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 2px 4px -1px hsl(210 10% 5% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 4px 6px -1px hsl(210 10% 5% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 8px 10px -1px hsl(210 10% 5% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 10% 5% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing26,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing26,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+opaque-button-border-intensity,9,dark,Other / unspecified,,,nursing26,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing26,Replit,index,nursing
+background,210 6% 8%,dark,body,"(19, 20, 22)",very dark gray,nursing26,Replit,index,nursing
+foreground,210 4% 95%,dark,body text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+border,210 6% 18%,dark,borders,"(43, 46, 49)",dark gray,nursing26,Replit,index,nursing
+card,210 5% 10%,dark,card background,"(24, 26, 27)",dark gray,nursing26,Replit,index,nursing
+card-foreground,210 4% 95%,dark,card text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+card-border,210 6% 14%,dark,Other / unspecified,"(34, 36, 38)",dark gray,nursing26,Replit,index,nursing
+sidebar,210 5% 12%,dark,Other / unspecified,"(29, 31, 32)",dark gray,nursing26,Replit,index,nursing
+sidebar-foreground,210 4% 95%,dark,sidebar text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+sidebar-border,210 6% 16%,dark,sidebar borders,"(38, 41, 43)",dark gray,nursing26,Replit,index,nursing
+sidebar-primary,207 85% 55%,dark,sidebar primary elements,"(43, 150, 238)",medium blue,nursing26,Replit,index,nursing
+sidebar-primary-foreground,0 0% 98%,dark,sidebar primary text,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+sidebar-accent,210 8% 18%,dark,sidebar accent elements,"(42, 46, 50)",dark gray,nursing26,Replit,index,nursing
+sidebar-accent-foreground,210 4% 90%,dark,sidebar accent text,"(228, 230, 231)",very light gray,nursing26,Replit,index,nursing
+sidebar-ring,207 85% 55%,dark,sidebar focus ring,"(43, 150, 238)",medium blue,nursing26,Replit,index,nursing
+popover,210 6% 14%,dark,popover background,"(34, 36, 38)",dark gray,nursing26,Replit,index,nursing
+popover-foreground,210 4% 95%,dark,popover text,"(242, 242, 243)",very light gray,nursing26,Replit,index,nursing
+popover-border,210 6% 20%,dark,Other / unspecified,"(48, 51, 54)",dark gray,nursing26,Replit,index,nursing
+primary,207 85% 45%,dark,primary button background / highlights,"(17, 125, 212)",medium blue,nursing26,Replit,index,nursing
+primary-foreground,0 0% 98%,dark,primary button text / highlights,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+secondary,210 8% 20%,dark,secondary components / sections,"(47, 51, 55)",dark gray,nursing26,Replit,index,nursing
+secondary-foreground,210 4% 90%,dark,secondary text,"(228, 230, 231)",very light gray,nursing26,Replit,index,nursing
+muted,210 8% 18%,dark,muted backgrounds,"(42, 46, 50)",dark gray,nursing26,Replit,index,nursing
+muted-foreground,210 6% 70%,dark,muted text,"(174, 178, 183)",light gray,nursing26,Replit,index,nursing
+accent,207 12% 16%,dark,accent elements,"(36, 41, 46)",dark blue,nursing26,Replit,index,nursing
+accent-foreground,210 4% 90%,dark,accent text,"(228, 230, 231)",very light gray,nursing26,Replit,index,nursing
+destructive,0 72% 42%,dark,destructive button background / error,"(184, 30, 30)",medium red,nursing26,Replit,index,nursing
+destructive-foreground,0 0% 98%,dark,destructive text,"(250, 250, 250)",very light gray,nursing26,Replit,index,nursing
+input,210 10% 35%,dark,input background,"(80, 89, 98)",medium blue,nursing26,Replit,index,nursing
+ring,207 85% 55%,dark,focus ring / outline,"(43, 150, 238)",medium blue,nursing26,Replit,index,nursing
+chart-1,207 85% 65%,dark,Other / unspecified,"(90, 173, 242)",light blue,nursing26,Replit,index,nursing
+chart-2,175 65% 60%,dark,Other / unspecified,"(87, 219, 208)",medium cyan,nursing26,Replit,index,nursing
+chart-3,197 75% 62%,dark,Other / unspecified,"(85, 190, 231)",medium blue,nursing26,Replit,index,nursing
+chart-4,220 70% 68%,dark,Other / unspecified,"(116, 154, 231)",light blue,nursing26,Replit,index,nursing
+chart-5,188 80% 65%,dark,Other / unspecified,"(94, 218, 237)",light cyan,nursing26,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 10% 5% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 10% 5% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 1px 2px -1px hsl(210 10% 5% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 1px 2px -1px hsl(210 10% 5% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 2px 4px -1px hsl(210 10% 5% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 4px 6px -1px hsl(210 10% 5% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 10% 5% / 0.00), 0px 8px 10px -1px hsl(210 10% 5% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 10% 5% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing26,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+primary-border,hsl(var(--primary)),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+muted-border,hsl(var(--muted)),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+accent-border,hsl(var(--accent)),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing26,Replit,index,nursing
+button-outline,"rgba(0,0,0, .10)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+badge-outline,"rgba(0,0,0, .05)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+opaque-button-border-intensity,-8,light,Other / unspecified,,,nursing28,Replit,index,nursing
+elevate-1,"rgba(0,0,0, .03)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+elevate-2,"rgba(0,0,0, .08)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+background,210 5% 98%,light,body,"(250, 250, 250)",very light gray,nursing28,Replit,index,nursing
+foreground,210 8% 15%,light,body text,"(35, 38, 41)",dark gray,nursing28,Replit,index,nursing
+border,210 6% 88%,light,borders,"(223, 224, 226)",very light gray,nursing28,Replit,index,nursing
+card,210 6% 96%,light,card background,"(244, 245, 245)",very light gray,nursing28,Replit,index,nursing
+card-foreground,210 8% 15%,light,card text,"(35, 38, 41)",dark gray,nursing28,Replit,index,nursing
+card-border,210 7% 90%,light,Other / unspecified,"(228, 230, 231)",very light gray,nursing28,Replit,index,nursing
+sidebar,210 6% 94%,light,Other / unspecified,"(239, 240, 241)",very light gray,nursing28,Replit,index,nursing
+sidebar-foreground,210 8% 15%,light,sidebar text,"(35, 38, 41)",dark gray,nursing28,Replit,index,nursing
+sidebar-border,210 7% 88%,light,sidebar borders,"(222, 224, 227)",very light gray,nursing28,Replit,index,nursing
+sidebar-primary,201 85% 42%,light,sidebar primary elements,"(16, 134, 198)",medium blue,nursing28,Replit,index,nursing
+sidebar-primary-foreground,210 10% 98%,light,sidebar primary text,"(249, 250, 250)",very light blue,nursing28,Replit,index,nursing
+sidebar-accent,210 8% 88%,light,sidebar accent elements,"(222, 224, 227)",very light gray,nursing28,Replit,index,nursing
+sidebar-accent-foreground,210 8% 20%,light,sidebar accent text,"(47, 51, 55)",dark gray,nursing28,Replit,index,nursing
+sidebar-ring,201 85% 42%,light,sidebar focus ring,"(16, 134, 198)",medium blue,nursing28,Replit,index,nursing
+popover,210 7% 92%,light,popover background,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+popover-foreground,210 8% 15%,light,popover text,"(35, 38, 41)",dark gray,nursing28,Replit,index,nursing
+popover-border,210 8% 86%,light,Other / unspecified,"(216, 219, 222)",very light gray,nursing28,Replit,index,nursing
+primary,201 85% 42%,light,primary button background / highlights,"(16, 134, 198)",medium blue,nursing28,Replit,index,nursing
+primary-foreground,210 10% 98%,light,primary button text / highlights,"(249, 250, 250)",very light blue,nursing28,Replit,index,nursing
+secondary,210 10% 86%,light,secondary components / sections,"(216, 219, 223)",very light blue,nursing28,Replit,index,nursing
+secondary-foreground,210 8% 18%,light,secondary text,"(42, 46, 50)",dark gray,nursing28,Replit,index,nursing
+muted,210 8% 90%,light,muted backgrounds,"(227, 230, 232)",very light gray,nursing28,Replit,index,nursing
+muted-foreground,210 6% 35%,light,muted text,"(84, 89, 95)",medium gray,nursing28,Replit,index,nursing
+accent,210 12% 88%,light,accent elements,"(221, 224, 228)",very light blue,nursing28,Replit,index,nursing
+accent-foreground,210 8% 18%,light,accent text,"(42, 46, 50)",dark gray,nursing28,Replit,index,nursing
+destructive,0 72% 45%,light,destructive button background / error,"(197, 32, 32)",medium red,nursing28,Replit,index,nursing
+destructive-foreground,0 10% 98%,light,destructive text,"(250, 249, 249)",very light red,nursing28,Replit,index,nursing
+input,210 15% 65%,light,input background,"(152, 166, 179)",light blue,nursing28,Replit,index,nursing
+ring,201 85% 42%,light,focus ring / outline,"(16, 134, 198)",medium blue,nursing28,Replit,index,nursing
+chart-1,201 85% 35%,light,Other / unspecified,"(13, 112, 165)",medium blue,nursing28,Replit,index,nursing
+chart-2,174 65% 38%,light,Other / unspecified,"(34, 160, 147)",medium cyan,nursing28,Replit,index,nursing
+chart-3,147 55% 40%,light,Other / unspecified,"(46, 158, 96)",medium green,nursing28,Replit,index,nursing
+chart-4,28 75% 48%,light,Other / unspecified,"(214, 116, 31)",medium orange,nursing28,Replit,index,nursing
+chart-5,340 70% 45%,light,Other / unspecified,"(195, 34, 88)",medium magenta,nursing28,Replit,index,nursing
+font-sans,"Inter, system-ui, -apple-system, sans-serif",light,Other / unspecified,,,nursing28,Replit,index,nursing
+font-heading,"Poppins, Inter, system-ui, sans-serif",light,Other / unspecified,,,nursing28,Replit,index,nursing
+font-serif,"Georgia, serif",light,Other / unspecified,,,nursing28,Replit,index,nursing
+font-mono,"Menlo, monospace",light,Other / unspecified,,,nursing28,Replit,index,nursing
+radius,.5rem,light,border radius,,,nursing28,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 8% 15% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 8% 15% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 1px 2px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 1px 2px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 2px 4px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 4px 6px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 8px 10px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 8% 15% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+tracking-normal,0em,light,Other / unspecified,,,nursing28,Replit,index,nursing
+spacing,0.25rem,light,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+opaque-button-border-intensity,9,light,Other / unspecified,,,nursing28,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+background,210 5% 8%,light,body,"(19, 20, 21)",very dark gray,nursing28,Replit,index,nursing
+foreground,210 6% 92%,light,body text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+border,210 6% 18%,light,borders,"(43, 46, 49)",dark gray,nursing28,Replit,index,nursing
+card,210 5% 10%,light,card background,"(24, 26, 27)",dark gray,nursing28,Replit,index,nursing
+card-foreground,210 6% 92%,light,card text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+card-border,210 6% 14%,light,Other / unspecified,"(34, 36, 38)",dark gray,nursing28,Replit,index,nursing
+sidebar,210 5% 12%,light,Other / unspecified,"(29, 31, 32)",dark gray,nursing28,Replit,index,nursing
+sidebar-foreground,210 6% 92%,light,sidebar text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+sidebar-border,210 6% 16%,light,sidebar borders,"(38, 41, 43)",dark gray,nursing28,Replit,index,nursing
+sidebar-primary,201 85% 48%,light,sidebar primary elements,"(18, 154, 226)",medium blue,nursing28,Replit,index,nursing
+sidebar-primary-foreground,210 8% 98%,light,sidebar primary text,"(249, 250, 250)",very light gray,nursing28,Replit,index,nursing
+sidebar-accent,210 8% 16%,light,sidebar accent elements,"(38, 41, 44)",dark gray,nursing28,Replit,index,nursing
+sidebar-accent-foreground,210 6% 88%,light,sidebar accent text,"(223, 224, 226)",very light gray,nursing28,Replit,index,nursing
+sidebar-ring,201 85% 48%,light,sidebar focus ring,"(18, 154, 226)",medium blue,nursing28,Replit,index,nursing
+popover,210 6% 14%,light,popover background,"(34, 36, 38)",dark gray,nursing28,Replit,index,nursing
+popover-foreground,210 6% 92%,light,popover text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+popover-border,210 6% 18%,light,Other / unspecified,"(43, 46, 49)",dark gray,nursing28,Replit,index,nursing
+primary,201 85% 45%,light,primary button background / highlights,"(17, 144, 212)",medium blue,nursing28,Replit,index,nursing
+primary-foreground,210 8% 98%,light,primary button text / highlights,"(249, 250, 250)",very light gray,nursing28,Replit,index,nursing
+secondary,210 8% 18%,light,secondary components / sections,"(42, 46, 50)",dark gray,nursing28,Replit,index,nursing
+secondary-foreground,210 6% 90%,light,secondary text,"(228, 230, 231)",very light gray,nursing28,Replit,index,nursing
+muted,210 6% 16%,light,muted backgrounds,"(38, 41, 43)",dark gray,nursing28,Replit,index,nursing
+muted-foreground,210 6% 65%,light,muted text,"(160, 166, 171)",light gray,nursing28,Replit,index,nursing
+accent,210 8% 15%,light,accent elements,"(35, 38, 41)",dark gray,nursing28,Replit,index,nursing
+accent-foreground,210 6% 90%,light,accent text,"(228, 230, 231)",very light gray,nursing28,Replit,index,nursing
+destructive,0 72% 42%,light,destructive button background / error,"(184, 30, 30)",medium red,nursing28,Replit,index,nursing
+destructive-foreground,0 8% 98%,light,destructive text,"(250, 249, 249)",very light gray,nursing28,Replit,index,nursing
+input,210 15% 35%,light,input background,"(76, 89, 103)",medium blue,nursing28,Replit,index,nursing
+ring,201 85% 48%,light,focus ring / outline,"(18, 154, 226)",medium blue,nursing28,Replit,index,nursing
+chart-1,201 85% 65%,light,Other / unspecified,"(90, 189, 242)",light blue,nursing28,Replit,index,nursing
+chart-2,174 65% 62%,light,Other / unspecified,"(95, 221, 208)",medium cyan,nursing28,Replit,index,nursing
+chart-3,147 55% 60%,light,Other / unspecified,"(97, 209, 147)",medium green,nursing28,Replit,index,nursing
+chart-4,28 75% 65%,light,Other / unspecified,"(233, 161, 99)",light orange,nursing28,Replit,index,nursing
+chart-5,340 70% 65%,light,Other / unspecified,"(228, 103, 145)",light magenta,nursing28,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 6% 92% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 6% 92% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 1px 2px -1px hsl(210 6% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 1px 2px -1px hsl(210 6% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 2px 4px -1px hsl(210 6% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 4px 6px -1px hsl(210 6% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 8px 10px -1px hsl(210 6% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 6% 92% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing28,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing28,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+opaque-button-border-intensity,9,dark,Other / unspecified,,,nursing28,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing28,Replit,index,nursing
+background,210 5% 8%,dark,body,"(19, 20, 21)",very dark gray,nursing28,Replit,index,nursing
+foreground,210 6% 92%,dark,body text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+border,210 6% 18%,dark,borders,"(43, 46, 49)",dark gray,nursing28,Replit,index,nursing
+card,210 5% 10%,dark,card background,"(24, 26, 27)",dark gray,nursing28,Replit,index,nursing
+card-foreground,210 6% 92%,dark,card text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+card-border,210 6% 14%,dark,Other / unspecified,"(34, 36, 38)",dark gray,nursing28,Replit,index,nursing
+sidebar,210 5% 12%,dark,Other / unspecified,"(29, 31, 32)",dark gray,nursing28,Replit,index,nursing
+sidebar-foreground,210 6% 92%,dark,sidebar text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+sidebar-border,210 6% 16%,dark,sidebar borders,"(38, 41, 43)",dark gray,nursing28,Replit,index,nursing
+sidebar-primary,201 85% 48%,dark,sidebar primary elements,"(18, 154, 226)",medium blue,nursing28,Replit,index,nursing
+sidebar-primary-foreground,210 8% 98%,dark,sidebar primary text,"(249, 250, 250)",very light gray,nursing28,Replit,index,nursing
+sidebar-accent,210 8% 16%,dark,sidebar accent elements,"(38, 41, 44)",dark gray,nursing28,Replit,index,nursing
+sidebar-accent-foreground,210 6% 88%,dark,sidebar accent text,"(223, 224, 226)",very light gray,nursing28,Replit,index,nursing
+sidebar-ring,201 85% 48%,dark,sidebar focus ring,"(18, 154, 226)",medium blue,nursing28,Replit,index,nursing
+popover,210 6% 14%,dark,popover background,"(34, 36, 38)",dark gray,nursing28,Replit,index,nursing
+popover-foreground,210 6% 92%,dark,popover text,"(233, 235, 236)",very light gray,nursing28,Replit,index,nursing
+popover-border,210 6% 18%,dark,Other / unspecified,"(43, 46, 49)",dark gray,nursing28,Replit,index,nursing
+primary,201 85% 45%,dark,primary button background / highlights,"(17, 144, 212)",medium blue,nursing28,Replit,index,nursing
+primary-foreground,210 8% 98%,dark,primary button text / highlights,"(249, 250, 250)",very light gray,nursing28,Replit,index,nursing
+secondary,210 8% 18%,dark,secondary components / sections,"(42, 46, 50)",dark gray,nursing28,Replit,index,nursing
+secondary-foreground,210 6% 90%,dark,secondary text,"(228, 230, 231)",very light gray,nursing28,Replit,index,nursing
+muted,210 6% 16%,dark,muted backgrounds,"(38, 41, 43)",dark gray,nursing28,Replit,index,nursing
+muted-foreground,210 6% 65%,dark,muted text,"(160, 166, 171)",light gray,nursing28,Replit,index,nursing
+accent,210 8% 15%,dark,accent elements,"(35, 38, 41)",dark gray,nursing28,Replit,index,nursing
+accent-foreground,210 6% 90%,dark,accent text,"(228, 230, 231)",very light gray,nursing28,Replit,index,nursing
+destructive,0 72% 42%,dark,destructive button background / error,"(184, 30, 30)",medium red,nursing28,Replit,index,nursing
+destructive-foreground,0 8% 98%,dark,destructive text,"(250, 249, 249)",very light gray,nursing28,Replit,index,nursing
+input,210 15% 35%,dark,input background,"(76, 89, 103)",medium blue,nursing28,Replit,index,nursing
+ring,201 85% 48%,dark,focus ring / outline,"(18, 154, 226)",medium blue,nursing28,Replit,index,nursing
+chart-1,201 85% 65%,dark,Other / unspecified,"(90, 189, 242)",light blue,nursing28,Replit,index,nursing
+chart-2,174 65% 62%,dark,Other / unspecified,"(95, 221, 208)",medium cyan,nursing28,Replit,index,nursing
+chart-3,147 55% 60%,dark,Other / unspecified,"(97, 209, 147)",medium green,nursing28,Replit,index,nursing
+chart-4,28 75% 65%,dark,Other / unspecified,"(233, 161, 99)",light orange,nursing28,Replit,index,nursing
+chart-5,340 70% 65%,dark,Other / unspecified,"(228, 103, 145)",light magenta,nursing28,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 6% 92% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 6% 92% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 1px 2px -1px hsl(210 6% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 1px 2px -1px hsl(210 6% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 2px 4px -1px hsl(210 6% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 4px 6px -1px hsl(210 6% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 6% 92% / 0.00), 0px 8px 10px -1px hsl(210 6% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 6% 92% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing28,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+primary-border,hsl(var(--primary)),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+muted-border,hsl(var(--muted)),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+accent-border,hsl(var(--accent)),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing28,Replit,index,nursing
+button-outline,"rgba(0,0,0, .10)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+badge-outline,"rgba(0,0,0, .05)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+opaque-button-border-intensity,-8,light,Other / unspecified,,,nursing30,Replit,index,nursing
+elevate-1,"rgba(0,0,0, .03)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+elevate-2,"rgba(0,0,0, .08)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+background,210 5% 98%,light,body,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+foreground,210 8% 15%,light,body text,"(35, 38, 41)",dark gray,nursing30,Replit,index,nursing
+border,210 6% 88%,light,borders,"(223, 224, 226)",very light gray,nursing30,Replit,index,nursing
+card,210 5% 96%,light,card background,"(244, 245, 245)",very light gray,nursing30,Replit,index,nursing
+card-foreground,210 8% 15%,light,card text,"(35, 38, 41)",dark gray,nursing30,Replit,index,nursing
+card-border,210 6% 92%,light,Other / unspecified,"(233, 235, 236)",very light gray,nursing30,Replit,index,nursing
+sidebar,210 5% 94%,light,Other / unspecified,"(239, 240, 240)",very light gray,nursing30,Replit,index,nursing
+sidebar-foreground,210 8% 15%,light,sidebar text,"(35, 38, 41)",dark gray,nursing30,Replit,index,nursing
+sidebar-border,210 6% 90%,light,sidebar borders,"(228, 230, 231)",very light gray,nursing30,Replit,index,nursing
+sidebar-primary,206 85% 42%,light,sidebar primary elements,"(16, 119, 198)",medium blue,nursing30,Replit,index,nursing
+sidebar-primary-foreground,210 5% 98%,light,sidebar primary text,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+sidebar-accent,210 8% 88%,light,sidebar accent elements,"(222, 224, 227)",very light gray,nursing30,Replit,index,nursing
+sidebar-accent-foreground,210 8% 15%,light,sidebar accent text,"(35, 38, 41)",dark gray,nursing30,Replit,index,nursing
+sidebar-ring,206 85% 42%,light,sidebar focus ring,"(16, 119, 198)",medium blue,nursing30,Replit,index,nursing
+popover,210 6% 92%,light,popover background,"(233, 235, 236)",very light gray,nursing30,Replit,index,nursing
+popover-foreground,210 8% 15%,light,popover text,"(35, 38, 41)",dark gray,nursing30,Replit,index,nursing
+popover-border,210 6% 86%,light,Other / unspecified,"(217, 219, 221)",very light gray,nursing30,Replit,index,nursing
+primary,206 85% 42%,light,primary button background / highlights,"(16, 119, 198)",medium blue,nursing30,Replit,index,nursing
+primary-foreground,210 5% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+secondary,210 8% 88%,light,secondary components / sections,"(222, 224, 227)",very light gray,nursing30,Replit,index,nursing
+secondary-foreground,210 8% 15%,light,secondary text,"(35, 38, 41)",dark gray,nursing30,Replit,index,nursing
+muted,210 8% 90%,light,muted backgrounds,"(227, 230, 232)",very light gray,nursing30,Replit,index,nursing
+muted-foreground,210 8% 32%,light,muted text,"(75, 82, 88)",dark gray,nursing30,Replit,index,nursing
+accent,210 12% 90%,light,accent elements,"(226, 230, 233)",very light blue,nursing30,Replit,index,nursing
+accent-foreground,210 8% 15%,light,accent text,"(35, 38, 41)",dark gray,nursing30,Replit,index,nursing
+destructive,358 75% 48%,light,destructive button background / error,"(214, 31, 37)",medium red,nursing30,Replit,index,nursing
+destructive-foreground,210 5% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+input,210 8% 68%,light,input background,"(167, 173, 180)",light gray,nursing30,Replit,index,nursing
+ring,206 85% 42%,light,focus ring / outline,"(16, 119, 198)",medium blue,nursing30,Replit,index,nursing
+chart-1,206 85% 42%,light,Other / unspecified,"(16, 119, 198)",medium blue,nursing30,Replit,index,nursing
+chart-2,188 78% 38%,light,Other / unspecified,"(21, 152, 172)",medium cyan,nursing30,Replit,index,nursing
+chart-3,220 75% 45%,light,Other / unspecified,"(29, 86, 201)",medium blue,nursing30,Replit,index,nursing
+chart-4,160 70% 40%,light,Other / unspecified,"(31, 173, 126)",medium green,nursing30,Replit,index,nursing
+chart-5,280 65% 50%,light,Other / unspecified,"(155, 45, 210)",medium purple,nursing30,Replit,index,nursing
+font-sans,"Inter, -apple-system, BlinkMacSystemFont, ""Segoe UI"", sans-serif",light,Other / unspecified,,,nursing30,Replit,index,nursing
+font-serif,"Georgia, serif",light,Other / unspecified,,,nursing30,Replit,index,nursing
+font-mono,"Menlo, monospace",light,Other / unspecified,,,nursing30,Replit,index,nursing
+radius,.5rem,light,border radius,,,nursing30,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 8% 15% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 8% 15% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 1px 2px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 1px 2px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 2px 4px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 4px 6px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 8% 15% / 0.00), 0px 8px 10px -1px hsl(210 8% 15% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 8% 15% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+tracking-normal,0em,light,Other / unspecified,,,nursing30,Replit,index,nursing
+spacing,0.25rem,light,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+opaque-button-border-intensity,9,light,Other / unspecified,,,nursing30,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",light,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+background,210 5% 8%,light,body,"(19, 20, 21)",very dark gray,nursing30,Replit,index,nursing
+foreground,210 5% 92%,light,body text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+border,210 5% 18%,light,borders,"(44, 46, 48)",dark gray,nursing30,Replit,index,nursing
+card,210 5% 10%,light,card background,"(24, 26, 27)",dark gray,nursing30,Replit,index,nursing
+card-foreground,210 5% 92%,light,card text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+card-border,210 5% 14%,light,Other / unspecified,"(34, 36, 37)",dark gray,nursing30,Replit,index,nursing
+sidebar,210 5% 12%,light,Other / unspecified,"(29, 31, 32)",dark gray,nursing30,Replit,index,nursing
+sidebar-foreground,210 5% 92%,light,sidebar text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+sidebar-border,210 5% 16%,light,sidebar borders,"(39, 41, 43)",dark gray,nursing30,Replit,index,nursing
+sidebar-primary,206 85% 52%,light,sidebar primary elements,"(29, 146, 237)",medium blue,nursing30,Replit,index,nursing
+sidebar-primary-foreground,210 5% 8%,light,sidebar primary text,"(19, 20, 21)",very dark gray,nursing30,Replit,index,nursing
+sidebar-accent,210 8% 16%,light,sidebar accent elements,"(38, 41, 44)",dark gray,nursing30,Replit,index,nursing
+sidebar-accent-foreground,210 5% 92%,light,sidebar accent text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+sidebar-ring,206 85% 52%,light,sidebar focus ring,"(29, 146, 237)",medium blue,nursing30,Replit,index,nursing
+popover,210 5% 14%,light,popover background,"(34, 36, 37)",dark gray,nursing30,Replit,index,nursing
+popover-foreground,210 5% 92%,light,popover text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+popover-border,210 5% 18%,light,Other / unspecified,"(44, 46, 48)",dark gray,nursing30,Replit,index,nursing
+primary,206 85% 48%,light,primary button background / highlights,"(18, 136, 226)",medium blue,nursing30,Replit,index,nursing
+primary-foreground,210 5% 98%,light,primary button text / highlights,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+secondary,210 8% 18%,light,secondary components / sections,"(42, 46, 50)",dark gray,nursing30,Replit,index,nursing
+secondary-foreground,210 5% 92%,light,secondary text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+muted,210 8% 16%,light,muted backgrounds,"(38, 41, 44)",dark gray,nursing30,Replit,index,nursing
+muted-foreground,210 5% 75%,light,muted text,"(188, 191, 194)",light gray,nursing30,Replit,index,nursing
+accent,210 12% 16%,light,accent elements,"(36, 41, 46)",dark blue,nursing30,Replit,index,nursing
+accent-foreground,210 5% 92%,light,accent text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+destructive,358 75% 45%,light,destructive button background / error,"(201, 29, 34)",medium red,nursing30,Replit,index,nursing
+destructive-foreground,210 5% 98%,light,destructive text,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+input,210 8% 32%,light,input background,"(75, 82, 88)",dark gray,nursing30,Replit,index,nursing
+ring,206 85% 52%,light,focus ring / outline,"(29, 146, 237)",medium blue,nursing30,Replit,index,nursing
+chart-1,206 85% 62%,light,Other / unspecified,"(76, 169, 240)",medium blue,nursing30,Replit,index,nursing
+chart-2,188 78% 58%,light,Other / unspecified,"(64, 209, 231)",medium cyan,nursing30,Replit,index,nursing
+chart-3,220 75% 65%,light,Other / unspecified,"(99, 143, 233)",light blue,nursing30,Replit,index,nursing
+chart-4,160 70% 60%,light,Other / unspecified,"(82, 224, 177)",medium green,nursing30,Replit,index,nursing
+chart-5,280 65% 70%,light,Other / unspecified,"(195, 129, 228)",light purple,nursing30,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 5% 92% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 5% 92% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 1px 2px -1px hsl(210 5% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 1px 2px -1px hsl(210 5% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 2px 4px -1px hsl(210 5% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 4px 6px -1px hsl(210 5% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 8px 10px -1px hsl(210 5% 92% / 0.00)",light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 5% 92% / 0.00),light,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+primary-border,hsl(var(--primary)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+muted-border,hsl(var(--muted)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+accent-border,hsl(var(--accent)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),light,Other / unspecified,,,nursing30,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),light,Other / unspecified,,,nursing30,Replit,index,nursing
+button-outline,"rgba(255,255,255, .10)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+badge-outline,"rgba(255,255,255, .05)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+opaque-button-border-intensity,9,dark,Other / unspecified,,,nursing30,Replit,index,nursing
+elevate-1,"rgba(255,255,255, .04)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+elevate-2,"rgba(255,255,255, .09)",dark,Other / unspecified,"(1154, 1658, -358)",very light purple,nursing30,Replit,index,nursing
+background,210 5% 8%,dark,body,"(19, 20, 21)",very dark gray,nursing30,Replit,index,nursing
+foreground,210 5% 92%,dark,body text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+border,210 5% 18%,dark,borders,"(44, 46, 48)",dark gray,nursing30,Replit,index,nursing
+card,210 5% 10%,dark,card background,"(24, 26, 27)",dark gray,nursing30,Replit,index,nursing
+card-foreground,210 5% 92%,dark,card text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+card-border,210 5% 14%,dark,Other / unspecified,"(34, 36, 37)",dark gray,nursing30,Replit,index,nursing
+sidebar,210 5% 12%,dark,Other / unspecified,"(29, 31, 32)",dark gray,nursing30,Replit,index,nursing
+sidebar-foreground,210 5% 92%,dark,sidebar text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+sidebar-border,210 5% 16%,dark,sidebar borders,"(39, 41, 43)",dark gray,nursing30,Replit,index,nursing
+sidebar-primary,206 85% 52%,dark,sidebar primary elements,"(29, 146, 237)",medium blue,nursing30,Replit,index,nursing
+sidebar-primary-foreground,210 5% 8%,dark,sidebar primary text,"(19, 20, 21)",very dark gray,nursing30,Replit,index,nursing
+sidebar-accent,210 8% 16%,dark,sidebar accent elements,"(38, 41, 44)",dark gray,nursing30,Replit,index,nursing
+sidebar-accent-foreground,210 5% 92%,dark,sidebar accent text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+sidebar-ring,206 85% 52%,dark,sidebar focus ring,"(29, 146, 237)",medium blue,nursing30,Replit,index,nursing
+popover,210 5% 14%,dark,popover background,"(34, 36, 37)",dark gray,nursing30,Replit,index,nursing
+popover-foreground,210 5% 92%,dark,popover text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+popover-border,210 5% 18%,dark,Other / unspecified,"(44, 46, 48)",dark gray,nursing30,Replit,index,nursing
+primary,206 85% 48%,dark,primary button background / highlights,"(18, 136, 226)",medium blue,nursing30,Replit,index,nursing
+primary-foreground,210 5% 98%,dark,primary button text / highlights,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+secondary,210 8% 18%,dark,secondary components / sections,"(42, 46, 50)",dark gray,nursing30,Replit,index,nursing
+secondary-foreground,210 5% 92%,dark,secondary text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+muted,210 8% 16%,dark,muted backgrounds,"(38, 41, 44)",dark gray,nursing30,Replit,index,nursing
+muted-foreground,210 5% 75%,dark,muted text,"(188, 191, 194)",light gray,nursing30,Replit,index,nursing
+accent,210 12% 16%,dark,accent elements,"(36, 41, 46)",dark blue,nursing30,Replit,index,nursing
+accent-foreground,210 5% 92%,dark,accent text,"(234, 235, 236)",very light gray,nursing30,Replit,index,nursing
+destructive,358 75% 45%,dark,destructive button background / error,"(201, 29, 34)",medium red,nursing30,Replit,index,nursing
+destructive-foreground,210 5% 98%,dark,destructive text,"(250, 250, 250)",very light gray,nursing30,Replit,index,nursing
+input,210 8% 32%,dark,input background,"(75, 82, 88)",dark gray,nursing30,Replit,index,nursing
+ring,206 85% 52%,dark,focus ring / outline,"(29, 146, 237)",medium blue,nursing30,Replit,index,nursing
+chart-1,206 85% 62%,dark,Other / unspecified,"(76, 169, 240)",medium blue,nursing30,Replit,index,nursing
+chart-2,188 78% 58%,dark,Other / unspecified,"(64, 209, 231)",medium cyan,nursing30,Replit,index,nursing
+chart-3,220 75% 65%,dark,Other / unspecified,"(99, 143, 233)",light blue,nursing30,Replit,index,nursing
+chart-4,160 70% 60%,dark,Other / unspecified,"(82, 224, 177)",medium green,nursing30,Replit,index,nursing
+chart-5,280 65% 70%,dark,Other / unspecified,"(195, 129, 228)",light purple,nursing30,Replit,index,nursing
+shadow-2xs,0px 2px 0px 0px hsl(210 5% 92% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-xs,0px 2px 0px 0px hsl(210 5% 92% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-sm,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 1px 2px -1px hsl(210 5% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 1px 2px -1px hsl(210 5% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-md,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 2px 4px -1px hsl(210 5% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-lg,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 4px 6px -1px hsl(210 5% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-xl,"0px 2px 0px 0px hsl(210 5% 92% / 0.00), 0px 8px 10px -1px hsl(210 5% 92% / 0.00)",dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+shadow-2xl,0px 2px 0px 0px hsl(210 5% 92% / 0.00),dark,Other / unspecified,"(0, 0, 0)",very dark gray,nursing30,Replit,index,nursing
+sidebar-primary-border,hsl(var(--sidebar-primary)),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-primary-border,hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-accent-border,hsl(var(--sidebar-accent)),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+sidebar-accent-border,hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+primary-border,hsl(var(--primary)),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+primary-border,hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+secondary-border,hsl(var(--secondary)),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+secondary-border,hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+muted-border,hsl(var(--muted)),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+muted-border,hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+accent-border,hsl(var(--accent)),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+accent-border,hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+destructive-border,hsl(var(--destructive)),dark,Other / unspecified,,,nursing30,Replit,index,nursing
+destructive-border,hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha),dark,Other / unspecified,,,nursing30,Replit,index,nursing
 button-outline,"rgba(0,0,0, .10)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Nursing23,Replit,index,nursing
 badge-outline,"rgba(0,0,0, .05)",light,Other / unspecified,"(0, 0, 0)",very dark gray,Nursing23,Replit,index,nursing
 opaque-button-border-intensity,-8,light,Other / unspecified,,,Nursing23,Replit,index,nursing
