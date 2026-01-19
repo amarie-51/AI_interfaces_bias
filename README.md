@@ -2,9 +2,10 @@
 
 ## Description
 This repository contains:
-1. A curated list of websites analyzed for AI interface bias  
-2. Code used to extract relevant interface content  
-3. The resulting dataset generated from the extraction process  
+1. Source code from university course websites (nursing and computer science) generated using generative UI tools, including Figma, Lovable, and Replit.
+2. Code used to extract relevant interface content, including text, images, and styles.
+3. The resulting datasets produced by the extraction process.
+
 
 
 ---
