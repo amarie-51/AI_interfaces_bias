@@ -10,7 +10,7 @@ This repository contains:
 ---
 
 ## Contents
-
+```text
 AI_interfaces_bias/
 ├── data_input/            # Source code from all websites, grouped by tool
 │   ├── Figma/
