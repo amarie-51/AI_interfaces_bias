@@ -2,9 +2,10 @@
 
 ## Description
 This repository contains:
-1. Source code from university course websites (nursing and computer science) generated using generative UI tools, including Figma, Lovable, and Replit.
-2. Code used to extract relevant interface content, including text, images, and styles.
-3. The resulting datasets produced by the extraction process.
+1. Source code from university course websites (nursing and computer science) generated using generative UI tools, including Figma, Lovable, and Replit. (`data_input`)
+2. Code used to extract relevant interface content, including text, images, and styles. (`data_input`)
+3. The resulting datasets produced by the extraction process. (`data_output`)
+
 
 
 
